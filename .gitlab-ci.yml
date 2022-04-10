@@ -1,3 +1,10 @@
+stages:
+  - test
+  - deploy
+
+# run SAST (Security tests)
+include:
+- template: Security/SAST.gitlab-ci.yml
 
 pages:
   image: node:14
@@ -11,11 +18,13 @@ pages:
     paths:
       - public
   rules:
-    - if: '$CI_COMMIT_BRANCH == "master"'
+    - if: '$CI_COMMIT_BRANCH == "main"'
 
 purge_cache:
   image: curlimages/curl:7.78.0
   stage: .post
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
   script:
     - |
       set -e
@@ -26,3 +35,6 @@ purge_cache:
            -d $'{
         "purge_everything": true
       }'
+
+
+
