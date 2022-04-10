@@ -1,17 +1,17 @@
 <template>
   <div class="p-3">
-    <NuxtLink :to="computedSpeakerLink" v-if="!isExternalLink">
+    <NuxtLink v-if="!isExternalLink" :to="computedSpeakerLink">
       <div class="image-border bg-red-400 rounded-full">
         <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
       </div>
       <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
       <p class="text-xs italic text-center mx-auto" v-html="speaker.function" />
     </NuxtLink>
-    <a :href="computedSpeakerLink" target="_blank" v-if="isExternalLink">
+    <a v-if="isExternalLink" :href="computedSpeakerLink" target="_blank">
       <div class="image-border bg-red-400 rounded-full">
-        <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
+        <img :src="computedImg" alt="" class="rounded-full object-cover p-1">
       </div>
-      <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
+      <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name" />
       <p class="text-xs italic text-center mx-auto" v-html="speaker.function" />
     </a>
   </div>
