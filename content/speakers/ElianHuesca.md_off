@@ -1,0 +1,46 @@
+---
+name: "Elian <br>Huesca"
+function: Bitso
+img: elianhuesca.png
+twitter: 'elianhuesca'
+showPage: true
+---
+
+# Elian Huesca
+ 
+Elian is passionate about global affairs and disruptive technologies and the Community Lead LATAM at Bitso, Mexico's first Bitcoin exchange. Before he co-founded Caos Museum and CriptoNerds News and was LATAM Ops Lead at Decred Project. He has been active on various sides as a contractor in the cryptocurrency industries as well as in Bitcoin mining operations, and has been speaking about Bitcoin and cryptocurrencies on conferences in Argentina, Bolivia, Colombia, Netherlands, Mexico, Panama, Uruguay and Venezuela.   
+<br><br>
+
+## Dive deeper
+
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Listen - El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives** <br><br>
+[ ![El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives](/content/anita_peterson.png)](https://bitcoinundco.com/en/elsalvador-bitcoinbeach/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - Andreas M. Antonopoulos: Lightning Unleashes Bitcoin** <br><br>
+[ ![Andreas M. Antonopoulos: Lightning Unleashes Bitcoin](/content/anita_andreas.png)](https://bitcoinundco.com/en/andreas-antonopoulos-lightning/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - Christian Decker: The Lightning Network and Greenlight Nodes** <br><br>
+[ ![Christian Decker: The Lightning Network and Greenlight Nodes](/content/anita_decker.png)](https://bitcoinundco.com/en/christian-decker-lightning/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - Bitcoin World #8: Bitcoin in Zimbabwe with Anita Posch** <br><br>
+[ ![Bitcoin World #8: Bitcoin in Zimbabwe with Anita Posch](/content/anita_wbd.png)](https://www.whatbitcoindid.com/podcast/batw-bitcoin-in-zimbabwe-with-anita-posch/)
+</div>
+
+</div>
+
+<br>
+
+

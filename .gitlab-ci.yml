@@ -1,0 +1,28 @@
+
+pages:
+  image: node:14
+  stage: deploy
+  script:
+    - set -e
+    - npm install
+    - npm run generate
+    - cp -r dist public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "master"'
+
+purge_cache:
+  image: curlimages/curl:7.78.0
+  stage: .post
+  script:
+    - |
+      set -e
+      curl -X "POST" "https://api.cloudflare.com/client/v4/zones/${CF_ZONE}/purge_cache" \
+           -H "X-Auth-Email: ${CF_EMAIL}" \
+           -H "Authorization: Bearer ${CF_PURGE_KEY}" \
+           -H 'Content-Type: application/json' \
+           -d $'{
+        "purge_everything": true
+      }'

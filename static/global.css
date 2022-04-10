@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu"),
+  url(~assets/fonts/Ubuntu-Regular.ttf) format("truetype");
+  font-display: swap;
+}
+
+html {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.2rem;
+}
+
+
+.color-title{
+  background: -webkit-linear-gradient(10deg, #991b1b, blue, blue);
+  width: fit-content;
+  margin: auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.w-content{
+  width: fit-content;
+}
+
+.w-100-vw{
+  width: 100vw;
+}
+.h-100-vh{
+  height: 100vh;
+}
