@@ -36,38 +36,38 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="p-3 my-2">
 
 **Read - Bitcoin Banking for Communities: Lessons Learned from El Zonte**<br><br>
-[ ![Bitcoin Banking for Communities: Lessons Learned from El Zonte](/content/chris_elzonte.png)](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/)
+[ ![Bitcoin Banking for Communities: Lessons Learned from El Zonte](/2022/content/chris_elzonte.png)](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**  <br><br>
-[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
+[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/2022/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Nicolas Burtey – Lightning as a retail payment system**  <br><br>
-[![Nicolas Burtey – Lightning as a retail payment system](/content/nicolas_retail.png)](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef/)
+[![Nicolas Burtey – Lightning as a retail payment system](/2022/content/nicolas_retail.png)](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - LNJ049 Jumpstarting the Circular Economy in El Salvador with Nicolas Burtey**  <br><br>
-[![LNJ049 Jumpstarting the Circular Economy in El Salvador with Nicolas Burtey](/content/nicolas_lnjunkies.png)](https://open.spotify.com/episode/2geKztDMrbqoKGxOplxqYT?si=SFN8aS-QSdGGM8ix7OsyYw&utm_source=copy-link&dl_branch=1/)
+[![LNJ049 Jumpstarting the Circular Economy in El Salvador with Nicolas Burtey](/2022/content/nicolas_lnjunkies.png)](https://open.spotify.com/episode/2geKztDMrbqoKGxOplxqYT?si=SFN8aS-QSdGGM8ix7OsyYw&utm_source=copy-link&dl_branch=1/)
 </div>
 
 
 <div class="p-3 my-2">
 
 **Watch - Satoshi en Venezuela - Building Bitcoin solutions to the world with Lightning Network**  <br><br>
-[![Building Bitcoin solutions to the world with Lightning Network](/content/nicolas_satoshi.png)](https://www.youtube.com/watch?v=fc9FFteN-88/)
+[![Building Bitcoin solutions to the world with Lightning Network](/2022/content/nicolas_satoshi.png)](https://www.youtube.com/watch?v=fc9FFteN-88/)
 </div>
 </div>
 

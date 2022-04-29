@@ -38,13 +38,13 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="p-3 my-2">
 
 **Watch - Bitcoin is for Everyone - Episode 1 | Hello Bitcoin** <br><br>
-[ ![Bitcoin is for Everyone - Episode 1 | Hello Bitcoin](/content/conor_hello.png)](https://www.youtube.com/watch?v=oubZGyDY4Dc/)
+[ ![Bitcoin is for Everyone - Episode 1 | Hello Bitcoin](/2022/content/conor_hello.png)](https://www.youtube.com/watch?v=oubZGyDY4Dc/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Saving for the future & working in the Bitcoin industry - Conor Okus** <br><br>
-[ ![Saving for the future & working in the Bitcoin industry - Conor Okus](/content/conor_future.png)](https://www.youtube.com/watch?v=WCKRR09UqrM/)
+[ ![Saving for the future & working in the Bitcoin industry - Conor Okus](/2022/content/conor_future.png)](https://www.youtube.com/watch?v=WCKRR09UqrM/)
 </div>
 
 </div>

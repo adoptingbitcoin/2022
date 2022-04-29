@@ -28,25 +28,25 @@ If the masses will be forced to join, then why not focus on the remnants?
 <div class="p-3 my-2">
 
 **Watch - The Remnant** <br><br>
-[ ![The Remnant](/content/aleks_crypto.png)](https://www.youtube.com/watch?v=GAAAasOBzDQ/)
+[ ![The Remnant](/2022/content/aleks_crypto.png)](https://www.youtube.com/watch?v=GAAAasOBzDQ/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Bitcoiners are the remnant, the masses don't matter** <br><br>
-[ ![Bitcoiners are the remnant, the masses don't matter](/content/aleks_love.png)](https://bitcoinmagazine.com/culture/bitcoiners-are-the-remnant/)
+[ ![Bitcoiners are the remnant, the masses don't matter](/2022/content/aleks_love.png)](https://bitcoinmagazine.com/culture/bitcoiners-are-the-remnant/)
 </div>
 
 <div class="p-3 my-2">
 
 **Wath - Bitcoin Citadels with Aleks Svetski** <br><br>
-[ ![Bitcoin Citadels with Aleks Svetski](/content/aleks_citadels.png)](https://www.youtube.com/watch?v=mtWi4KSKL_A/)
+[ ![Bitcoin Citadels with Aleks Svetski](/2022/content/aleks_citadels.png)](https://www.youtube.com/watch?v=mtWi4KSKL_A/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Why Bitcoin is Intelligent** <br><br>
-[ ![Why Bitcoin is Intelligent](/content/aleks_intelligent.png)](https://www.youtube.com/watch?v=dK3N9FhtopM/)
+[ ![Why Bitcoin is Intelligent](/2022/content/aleks_intelligent.png)](https://www.youtube.com/watch?v=dK3N9FhtopM/)
 </div>
 
 </div>

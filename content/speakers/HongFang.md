@@ -25,19 +25,19 @@ Hong Fang is the CEO of Okcoin, a global, US-licensed cryptocurrency platform se
 <div class="p-3 my-2">
 
 **Listen - Okcoin's Developer Grant Program** <br><br>
-[ ![Okcoin's Developer Grant Program](/content/hong_livera.png)](https://stephanlivera.com/episode/228/)
+[ ![Okcoin's Developer Grant Program](/2022/content/hong_livera.png)](https://stephanlivera.com/episode/228/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - OKCoin Announces Integrating Lightning! - Bitcoin Magazine** <br><br>
-[ ![OKCoin Announces Integrating Lightning! - Bitcoin Magazine](/content/hong_okcoin.png)](https://www.youtube.com/watch?v=Z17i_sSW27M/)
+[ ![OKCoin Announces Integrating Lightning! - Bitcoin Magazine](/2022/content/hong_okcoin.png)](https://www.youtube.com/watch?v=Z17i_sSW27M/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Elizabeth Stark, CEO & Co-founder of Lightning Labs Interview** <br><br>
-[ ![Elizabeth Stark, CEO & Co-founder of Lightning Labs Interview](/content/hong_stark.png)](https://www.youtube.com/watch?v=Kt1X1VL547Q/)
+[ ![Elizabeth Stark, CEO & Co-founder of Lightning Labs Interview](/2022/content/hong_stark.png)](https://www.youtube.com/watch?v=Kt1X1VL547Q/)
 </div>
 
 </div>

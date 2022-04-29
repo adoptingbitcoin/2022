@@ -28,19 +28,19 @@ Alexander Leishman - River<br>
 <div class="p-3 my-2">
 
 **Listen - TFTC 186: Alex Leishman & Andrew Benson** <br><br>
-[ ![186: Alex Leishman & Andrew Benson](/content/alex_tales.png)](https://anchor.fm/tales-from-the-crypt/episodes/186-Alex-Leishman--Andrew-Benson-eicsi6/)
+[ ![186: Alex Leishman & Andrew Benson](/2022/content/alex_tales.png)](https://anchor.fm/tales-from-the-crypt/episodes/186-Alex-Leishman--Andrew-Benson-eicsi6/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Rapid Fire - w/ Alex Leishman: Building a Bitcoin Bank** <br><br>
-[ ![Bitcoin Rapid Fire - w/ Alex Leishman: Building a Bitcoin Bank](/content/alex_rapidfire.png)](https://www.youtube.com/watch?v=z748YqKzOHc/)
+[ ![Bitcoin Rapid Fire - w/ Alex Leishman: Building a Bitcoin Bank](/2022/content/alex_rapidfire.png)](https://www.youtube.com/watch?v=z748YqKzOHc/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Pomp Podcast 407: Alexander Leishman On Building A Bitcoin Company** <br><br>
-[ ![Pomp Podcast 407: Alexander Leishman On Building A Bitcoin Company](/content/alex_pomp.png)](https://www.youtube.com/watch?v=UIt-_iFnn08/)
+[ ![Pomp Podcast 407: Alexander Leishman On Building A Bitcoin Company](/2022/content/alex_pomp.png)](https://www.youtube.com/watch?v=UIt-_iFnn08/)
 </div>
 
 </div>

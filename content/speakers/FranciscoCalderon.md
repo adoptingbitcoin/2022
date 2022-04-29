@@ -28,25 +28,25 @@ Full project for lightning tips: https://github.com/grunch/lntip<br><br>
 <div class="p-3 my-2">
 
 **Listen - L110 - Lightning vs bitcoin - parecidos, diferencias y mejoras** <br><br>
-[ ![L110 - Lightning vs bitcoin - parecidos, diferencias y mejoras](/content/francisco_lunaticoin.png)](https://anchor.fm/lunaticoin/episodes/L110---Lightning-vs-bitcoin---parecidos--diferencias-y-mejoras-e118vhq/)
+[ ![L110 - Lightning vs bitcoin - parecidos, diferencias y mejoras](/2022/content/francisco_lunaticoin.png)](https://anchor.fm/lunaticoin/episodes/L110---Lightning-vs-bitcoin---parecidos--diferencias-y-mejoras-e118vhq/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Venezuela: From Hyperinflation to Hyperbitcoinization** <br><br>
-[ ![Venezuela: From Hyperinflation to Hyperbitcoinization](/content/francisco_venezuela.png)](https://grunch.dev/Venezuela_From_Hyperinflation_to_Hyperbitcoinization.pdf/)
+[ ![Venezuela: From Hyperinflation to Hyperbitcoinization](/2022/content/francisco_venezuela.png)](https://grunch.dev/Venezuela_From_Hyperinflation_to_Hyperbitcoinization.pdf/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Bitcoins, Blockchain y más. Experiencias desde Argentina por Francisco Calderón** <br><br>
-[ ![Bitcoins, Blockchain y más. Experiencias desde Argentina por Francisco Calderón](/content/francisco_iaslab.png)](https://anchor.fm/ias-lab-podcast/episodes/14--Bitcoins--Blockchain-y-ms--Experiencias-desde-Argentina-por-Francisco-Caldern-ebtbr4/)
+[ ![Bitcoins, Blockchain y más. Experiencias desde Argentina por Francisco Calderón](/2022/content/francisco_iaslab.png)](https://anchor.fm/ias-lab-podcast/episodes/14--Bitcoins--Blockchain-y-ms--Experiencias-desde-Argentina-por-Francisco-Caldern-ebtbr4/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Episodio 33: ¿Qué es Lightning Network y cómo funciona? Entrevista con Francisco Calderón** <br><br>
-[ ![Episodio 33: ¿Qué es Lightning Network y cómo funciona? Entrevista con Francisco Calderón](/content/francisco_cripto.png)](https://anchor.fm/criptotendencias/episodes/Episodio-33-Qu-es-Lightning-Network-y-cmo-funciona--Entrevista-con-Francisco-Caldern-eldtqh/)
+[ ![Episodio 33: ¿Qué es Lightning Network y cómo funciona? Entrevista con Francisco Calderón](/2022/content/francisco_cripto.png)](https://anchor.fm/criptotendencias/episodes/Episodio-33-Qu-es-Lightning-Network-y-cmo-funciona--Entrevista-con-Francisco-Caldern-eldtqh/)
 </div>
 
 </div>

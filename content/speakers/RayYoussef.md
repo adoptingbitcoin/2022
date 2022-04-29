@@ -34,25 +34,25 @@ Ray Youssef - CEO of Paxful
 <div class="p-3 my-2">
 
 **Listen - Ray Youssef, CEO of Paxful - A True "Hero's Journey", That Brought Bitcoin to Millions** <br><br>
-[ ![Ray Youssef, CEO of Paxful - A True "Hero's Journey", That Brought Bitcoin to Millions](/content/ray_rapid.png)](https://anchor.fm/john-vallis/episodes/Ray-Youssef--CEO-of-Paxful---A-True-Heros-Journey--That-Brought-Bitcoin-to-Millions-e14qr89/)
+[ ![Ray Youssef, CEO of Paxful - A True "Hero's Journey", That Brought Bitcoin to Millions](/2022/content/ray_rapid.png)](https://anchor.fm/john-vallis/episodes/Ray-Youssef--CEO-of-Paxful---A-True-Heros-Journey--That-Brought-Bitcoin-to-Millions-e14qr89/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Ray Youssef (Paxful) on building the world’s largest Bitcoin p2p market** <br><br>
-[ ![Ray Youssef (Paxful) on building the world’s largest Bitcoin p2p market](/content/ray_otb.png)](https://onthebrink-podcast.com/ray-youssef-paxful/)
+[ ![Ray Youssef (Paxful) on building the world’s largest Bitcoin p2p market](/2022/content/ray_otb.png)](https://onthebrink-podcast.com/ray-youssef-paxful/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - How Nigeria Will Lead Bitcoin Adoption Globally** <br><br>
-[ ![How Nigeria Will Lead Bitcoin Adoption Globally](/content/ray_africa.png)](https://www.youtube.com/watch?v=s9b_yL9P3UU/)
+[ ![How Nigeria Will Lead Bitcoin Adoption Globally](/2022/content/ray_africa.png)](https://www.youtube.com/watch?v=s9b_yL9P3UU/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Paxful is on the Lightning Network: Q&A with Ray Youssef and Elizabeth Stark** <br><br>
-[ ![Paxful is on the Lightning Network: Q&A with Ray Youssef and Elizabeth Stark](/content/ray_lightning.png)](https://paxful.com/blog/lightning-network-announcement/)
+[ ![Paxful is on the Lightning Network: Q&A with Ray Youssef and Elizabeth Stark](/2022/content/ray_lightning.png)](https://paxful.com/blog/lightning-network-announcement/)
 </div>
 
 </div>

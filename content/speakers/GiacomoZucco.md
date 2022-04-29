@@ -24,25 +24,25 @@ What should a good, modern LN wallet have? Taproot compatibility, UX abstraction
 <div class="p-3 my-2">
 
 **Listen - All Things Bitcoin** <br><br>
-[ ![All Things Bitcoin](/content/giacomo_things.png)](https://www.whatbitcoindid.com/podcast/all-things-bitcoin/)
+[ ![All Things Bitcoin](/2022/content/giacomo_things.png)](https://www.whatbitcoindid.com/podcast/all-things-bitcoin/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Exploring RGB with Giacomo Zucco** <br><br>
-[ ![Exploring RGB with Giacomo Zucco ](/content/giacomo_junkies.png)](https://lightningjunkies.net/exploring-rgb-with-giacomo-zucco-lnj044/)
+[ ![Exploring RGB with Giacomo Zucco ](/2022/content/giacomo_junkies.png)](https://lightningjunkies.net/exploring-rgb-with-giacomo-zucco-lnj044/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Bitcoin Toxicity** <br><br>
-[ ![Bitcoin Toxicity](/content/giacomo_toxicity.png)](https://www.whatbitcoindid.com/podcast/bitcoin-toxicity/)
+[ ![Bitcoin Toxicity](/2022/content/giacomo_toxicity.png)](https://www.whatbitcoindid.com/podcast/bitcoin-toxicity/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - There is only one Bitcoin** <br><br>
-[ ![There is only one Bitcoin](/content/livera1.png)](https://stephanlivera.com/episode/75/)
+[ ![There is only one Bitcoin](/2022/content/livera1.png)](https://stephanlivera.com/episode/75/)
 </div>
 
 </div>

@@ -42,19 +42,19 @@ Openoms  - Raspiblitz <br><br>
 <div class="p-3 my-2">
 
 **Listen - SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought** <br><br>
-[ ![SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought](/content/livera.png)](https://open.spotify.com/episode/1nnACZ84WdpdQ15jm3SH5X/)
+[ ![SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought](/2022/content/livera.png)](https://open.spotify.com/episode/1nnACZ84WdpdQ15jm3SH5X/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**  <br><br>
-[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
+[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/2022/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - t-bast Lightning Protocol Privacy Exploration**  <br><br>
-[![t-bast Lightning Protocol Privacy Exploration](/content/livera_privacy.png)](https://stephanlivera.com/episode/319/)
+[![t-bast Lightning Protocol Privacy Exploration](/2022/content/livera_privacy.png)](https://stephanlivera.com/episode/319/)
 </div>
 </div>
 

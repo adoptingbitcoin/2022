@@ -28,25 +28,25 @@ Tips, tricks and solutions developed by Bull Bitcoin while integrating Lightning
 <div class="p-3 my-2">
 
 **Read - Scaling Bull Bitcoin’s non-custodial services with the Lightning Network**  <br><br>
-[![Scaling Bull Bitcoin’s non-custodial services with the Lightning Network](/content/francis_bull.png)](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098/)
+[![Scaling Bull Bitcoin’s non-custodial services with the Lightning Network](/2022/content/francis_bull.png)](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Ep 45: Remnant Round 2. Francis Pouliot & John Vallis on The Wake Up Podcast** <br><br>
-[ ![Ep 45: Remnant Round 2. Francis Pouliot & John Vallis on The Wake Up Podcast](/content/francis_wakeup.png)](https://www.youtube.com/watch?v=8t_sQ4rTGho/)
+[ ![Ep 45: Remnant Round 2. Francis Pouliot & John Vallis on The Wake Up Podcast](/2022/content/francis_wakeup.png)](https://www.youtube.com/watch?v=8t_sQ4rTGho/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - S5 E4: Francis Pouliot on Bull Bitcoin, P2EP, Citadels & Personal Security**  <br><br>
-[![S5 E4: Francis Pouliot on Bull Bitcoin, P2EP, Citadels & Personal Security](/content/francis_takeover.png)](https://bitcoin-takeover.com/s5-e4-francis-pouliot-on-bitcoin-security-p2ep-why-s2f-sucks/)
+[![S5 E4: Francis Pouliot on Bull Bitcoin, P2EP, Citadels & Personal Security](/2022/content/francis_takeover.png)](https://bitcoin-takeover.com/s5-e4-francis-pouliot-on-bitcoin-security-p2ep-why-s2f-sucks/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - TO THE MOON Ep02 with Max Keiser & Stacy Herbert: THE OG YEARS**  <br><br>
-[![TO THE MOON Ep02 with Max Keiser & Stacy Herbert: THE OG YEARS](/content/francis_orangepill.png)](https://www.youtube.com/watch?v=zur7vXPCuYQ/)
+[![TO THE MOON Ep02 with Max Keiser & Stacy Herbert: THE OG YEARS](/2022/content/francis_orangepill.png)](https://www.youtube.com/watch?v=zur7vXPCuYQ/)
 </div>
 </div>
 

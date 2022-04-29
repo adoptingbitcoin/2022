@@ -33,19 +33,19 @@ John Carvalho - The Biz <br><br>
 <div class="p-3 my-2">
 
 **Listen - Privacy & Payments** <br><br>
-[ ![Privacy & Payments](/content/johns_advancing.png)](https://podcast.advancingbitcoin.com/1450198/6612919-privacy-payments-with-johns-beharry/)
+[ ![Privacy & Payments](/2022/content/johns_advancing.png)](https://podcast.advancingbitcoin.com/1450198/6612919-privacy-payments-with-johns-beharry/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - MCCVR 2020: Design Bitcoin for Everyone** <br><br>
-[ ![MCCVR 2020: Design Bitcoin for Everyone](/content/johns_mccvr.png)](https://www.youtube.com/watch?v=n2auo8bGKm0/)
+[ ![MCCVR 2020: Design Bitcoin for Everyone](/2022/content/johns_mccvr.png)](https://www.youtube.com/watch?v=n2auo8bGKm0/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Design bitcoin for everyone - Christoph Ono, Johns Beharry** <br><br>
-[ ![Design bitcoin for everyone - Christoph Ono, Johns Beharry](/content/johns_design.png)](https://www.youtube.com/watch?v=Z6R15IQB1LI/)
+[ ![Design bitcoin for everyone - Christoph Ono, Johns Beharry](/2022/content/johns_design.png)](https://www.youtube.com/watch?v=Z6R15IQB1LI/)
 </div>
 
 </div>

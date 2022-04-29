@@ -36,25 +36,25 @@ Jonas Nick - Bitcoin Research Blockstream<br><br>
 <div class="p-3 my-2">
 
 **Listen - Richard Myers Discusses Lot49: Lightning Network on Meshnets** <br><br>
-[ ![Richard Myers Discusses Lot49: Lightning Network on Meshnets](/content/will_junkies.png)](https://lightningjunkies.net/richard-meyers-discusses-lot49-lightning-network-on-meshnets-lnj048/)
+[ ![Richard Myers Discusses Lot49: Lightning Network on Meshnets](/2022/content/will_junkies.png)](https://lightningjunkies.net/richard-meyers-discusses-lot49-lightning-network-on-meshnets-lnj048/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Richard Myers – Bitcoin incentivised mesh networking with Lot49** <br><br>
-[ ![Richard Myers – Bitcoin incentivised mesh networking with Lot49](/content/will_livera.png)](https://stephanlivera.com/episode/80/)
+[ ![Richard Myers – Bitcoin incentivised mesh networking with Lot49](/2022/content/will_livera.png)](https://stephanlivera.com/episode/80/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Keyvan Davani - Bitcoin Technology Independent from Internet & Power Grid** <br><br>
-[ ![Bitcoin Technology Independent from Internet & Power Grid](/content/will_mesh.png)](https://www.youtube.com/watch?v=qU_AAS5gQCs/)
+[ ![Bitcoin Technology Independent from Internet & Power Grid](/2022/content/will_mesh.png)](https://www.youtube.com/watch?v=qU_AAS5gQCs/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Global Mesh Networks w/ @remyers_** <br><br>
-[ ![Global Mesh Networks w/ @remyers_](/content/will_bitvolt.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDA3MzAyOC9wb2RjYXN0L3Jzcw/episode/NjA2MjYzNmUtZTU2ZS00NDIyLTgxZTEtMmI0MzM1NDk1Yjdm?sa=X&ved=0CAUQkfYCahcKEwiI_9OtkKHzAhUAAAAAHQAAAAAQAQ/)
+[ ![Global Mesh Networks w/ @remyers_](/2022/content/will_bitvolt.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDA3MzAyOC9wb2RjYXN0L3Jzcw/episode/NjA2MjYzNmUtZTU2ZS00NDIyLTgxZTEtMmI0MzM1NDk1Yjdm?sa=X&ved=0CAUQkfYCahcKEwiI_9OtkKHzAhUAAAAAHQAAAAAQAQ/)
 </div>
 
 </div>

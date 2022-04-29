@@ -26,25 +26,25 @@ What are Discreet Log Contracts, where they fit into the defi landscape, and how
 <div class="p-3 my-2">
 
 **Listen - Avoiding oblivion, the state of Chicago, and bitcoin smart contracts with Chris Stewart** <br><br>
-[ ![Avoiding oblivion, the state of Chicago, and bitcoin smart contracts with Chris Stewart](/content/michael_tftc1.png)](https://anchor.fm/tales-from-the-crypt/episodes/279-Avoiding-oblivion--the-state-of-Chicago--and-bitcoin-smart-contracts-with-Chris-Stewart-e19cl83/)
+[ ![Avoiding oblivion, the state of Chicago, and bitcoin smart contracts with Chris Stewart](/2022/content/michael_tftc1.png)](https://anchor.fm/tales-from-the-crypt/episodes/279-Avoiding-oblivion--the-state-of-Chicago--and-bitcoin-smart-contracts-with-Chris-Stewart-e19cl83/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - DLCs vs Multisig: Censorship Resistance** <br><br>
-[ ![DLCs vs Multisig: Censorship Resistance](/content/chris_dlcs.png)](https://suredbits.com/dlcs-vs-multisig-censorship-resistance/)
+[ ![DLCs vs Multisig: Censorship Resistance](/2022/content/chris_dlcs.png)](https://suredbits.com/dlcs-vs-multisig-censorship-resistance/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Chris Stewart talks about Suredbits and Lightning Infrastructure for Enterprise** <br><br>
-[ ![Chris Stewart talks about Suredbits and Lightning Infrastructure for Enterprise](/content/chris_junkies.png)](https://lightningjunkies.net/lightning-junkies-episode-lnj025-chris-stewart-talks-about-suredbits-and-lightning-infrastructure-for-enterprise-2/)
+[ ![Chris Stewart talks about Suredbits and Lightning Infrastructure for Enterprise](/2022/content/chris_junkies.png)](https://lightningjunkies.net/lightning-junkies-episode-lnj025-chris-stewart-talks-about-suredbits-and-lightning-infrastructure-for-enterprise-2/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Discreet Log Contracts Part 1: What is a Discreet Log Contract?** <br><br>
-[ ![Discreet Log Contracts Part 1: What is a Discreet Log Contract?](/content/chris_suredbits.png)](https://suredbits.com/discreet-log-contracts-part-1-what-is-a-discreet-log-contract/)
+[ ![Discreet Log Contracts Part 1: What is a Discreet Log Contract?](/2022/content/chris_suredbits.png)](https://suredbits.com/discreet-log-contracts-part-1-what-is-a-discreet-log-contract/)
 </div>
 
 </div>

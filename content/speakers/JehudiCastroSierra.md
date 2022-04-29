@@ -32,13 +32,13 @@ Carlos Miguel Rivas Carillo - President El Salvador Entrepreneurs Association<br
 <div class="p-3 my-2">
 
 **Listen - Episode 79: Jehudi Castro Sierra, Advisor to the Presidency of Colombia** <br><br>
-[ ![Episode 79: Jehudi Castro Sierra, Advisor to the Presidency of Colombia](/content/jehudi_moontower.png)](https://anchor.fm/joseph-obell/episodes/Episode-79-Jehudi-Castro-Sierra--Advisor-to-the-Presidency-of-Colombia-e14lfhr/)
+[ ![Episode 79: Jehudi Castro Sierra, Advisor to the Presidency of Colombia](/2022/content/jehudi_moontower.png)](https://anchor.fm/joseph-obell/episodes/Episode-79-Jehudi-Castro-Sierra--Advisor-to-the-Presidency-of-Colombia-e14lfhr/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Jehudi Castro: The situation of Colombia in the context of Bitcoin and crypto** <br><br>
-[ ![Jehudi Castro: The situation of Colombia in the context of Bitcoin and crypto](/content/jehudi_sobrebitcoin.png)](https://albertomera.org/un-podcast-sobre-bitcoin/jehudi-castro-la-situacion-de-colombia-en-el-contexto-de-bitcoin-y-cripto/)
+[ ![Jehudi Castro: The situation of Colombia in the context of Bitcoin and crypto](/2022/content/jehudi_sobrebitcoin.png)](https://albertomera.org/un-podcast-sobre-bitcoin/jehudi-castro-la-situacion-de-colombia-en-el-contexto-de-bitcoin-y-cripto/)
 </div>
 
 </div>

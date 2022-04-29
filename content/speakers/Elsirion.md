@@ -28,19 +28,19 @@ This allows for a set of not fully trusted parties (e.g. local community members
 <div class="p-3 my-2">
 
 **Read - Fedimint** <br><br>
-[ ![Fedimint](/content/elsirion_fedimint.png)](https://fedimint.org/)
+[ ![Fedimint](/2022/content/elsirion_fedimint.png)](https://fedimint.org/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Fedimint with elsirion and Smuggler at HCPP21** <br><br>
-[ ![Fedimint with Elsirion and The Smuggler at HCPP21](/content/elsirion_hcpp21.png)](https://www.youtube.com/watch?v=JXGmzTbyuEw&t=5330s/)
+[ ![Fedimint with Elsirion and The Smuggler at HCPP21](/2022/content/elsirion_hcpp21.png)](https://www.youtube.com/watch?v=JXGmzTbyuEw&t=5330s/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Federated E-Cash as a Bitcoin Scaling Technology** <br><br>
-[ ![Federated E-Cash as a Bitcoin Scaling Technology](/content/elsirion_ecash.png)](https://medium.com/blockstream/blockstream-sponsors-federated-e-cash-as-a-bitcoin-scaling-technology-637ba05de7b3/)
+[ ![Federated E-Cash as a Bitcoin Scaling Technology](/2022/content/elsirion_ecash.png)](https://medium.com/blockstream/blockstream-sponsors-federated-e-cash-as-a-bitcoin-scaling-technology-637ba05de7b3/)
 </div>
 
 </div>
