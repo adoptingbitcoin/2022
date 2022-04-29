@@ -1,14 +1,11 @@
 stages:
   - test
+  - build
   - deploy
 
-# run SAST (Security tests)
-include:
-- template: Security/SAST.gitlab-ci.yml
-
-pages:
+build:
   image: node:14
-  stage: deploy
+  stage: build
   script:
     - set -e
     - npm install
@@ -19,12 +16,39 @@ pages:
       - public
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
+    - if: '$CI_COMMIT_BRANCH == "staging"'
+
+.deploy:
+  stage: deploy
+  artifacts:
+    paths:
+      - public
+  script:
+    - rsync -Pavp --rsh="ssh -i ${SSH_KEY}" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/public_html${DEPLOY_PATH}
+
+deploy_main:
+  extends:
+    - .deploy
+  variables:
+    DEPLOY_PATH: "adoptingbitcoin2022"
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
+
+deploy_staging:
+  extends:
+    - .deploy
+  variables:
+    DEPLOY_PATH: "adoptingbitcoin2022-staging"
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "staging"'
+
 
 purge_cache:
   image: curlimages/curl:7.78.0
   stage: .post
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
+    - if: '$CI_COMMIT_BRANCH == "staging"'
   script:
     - |
       set -e
