@@ -31,7 +31,7 @@ build:
     paths:
       - public
   script:
-    - rsync -Pavp --rsh="ssh -i ${SSH_KEY}" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/public_html${DEPLOY_PATH}
+    - rsync -Pavp --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/public_html${DEPLOY_PATH}
 
 deploy_main:
   extends:
