@@ -37,7 +37,7 @@ deploy_main:
   extends:
     - .deploy
   variables:
-    DEPLOY_PATH: "adoptingbitcoin2022"
+    DEPLOY_PATH: "adoptingbitcoin/2022"
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
 
@@ -45,7 +45,7 @@ deploy_staging:
   extends:
     - .deploy
   variables:
-    DEPLOY_PATH: "adoptingbitcoin2022-staging"
+    DEPLOY_PATH: "adoptingbitcoin-staging/2022"
   rules:
     - if: '$CI_COMMIT_BRANCH == "staging"'
 
