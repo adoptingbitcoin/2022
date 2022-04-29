@@ -32,13 +32,13 @@ build:
       - public
   script:
     - chmod 400 $SSH_KEY
-    - rsync -Pavp --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/public_html${DEPLOY_PATH}
+    - rsync -Pavp --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/public_html/${DEPLOY_PATH}
 
 deploy_main:
   extends:
     - .deploy
   variables:
-    DEPLOY_PATH: "adoptingbitcoin/2022"
+    DEPLOY_PATH: "adoptingbitcoin.org/2022"
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
 
@@ -46,7 +46,7 @@ deploy_staging:
   extends:
     - .deploy
   variables:
-    DEPLOY_PATH: "adoptingbitcoin-staging/2022"
+    DEPLOY_PATH: "staging.adoptingbitcoin.org/2022"
   rules:
     - if: '$CI_COMMIT_BRANCH == "staging"'
 
