@@ -6,6 +6,12 @@ stages:
 build:
   image: node:14
   stage: build
+  cache:
+    key:
+      files:
+        - package-lock.json
+    paths:
+      - node_modules
   script:
     - set -e
     - npm install
@@ -20,6 +26,7 @@ build:
 
 .deploy:
   stage: deploy
+  image: eeacms/rsync:2.3
   artifacts:
     paths:
       - public
