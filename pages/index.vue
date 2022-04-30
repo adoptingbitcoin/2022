@@ -3,11 +3,11 @@
     <Nav class="navIsHidden" :class="{ 'navIsVisible': navIsVisible, 'hidden': hideNav }" />
     <Header id="home" v-view="headerScrollHandler" />
     <JoinTheNetwork />
-    <SpeakerList id="speakers" :speakers="speakers" />
+<!--    <SpeakerList id="speakers" :speakers="speakers" />-->
     <ComeJoinUs />
     <Schedule />
     <Tickets id="tickets" />
-    <Sponsors id="sponsors" :sponsors="sponsors" />
+<!--    <Sponsors id="sponsors" :sponsors="sponsors" />-->
     <Locations id="location" :locations="locations" />
     <OrganizerList :speakers="organizers" />
     <Subscribe id="news" />
@@ -18,7 +18,6 @@
 <script>
 import JoinTheNetwork from '~/components/HomeComponents/JoinTheNetwork'
 import Header from '~/components/HomeComponents/Header'
-import SpeakerList from '~/components/HomeComponents/SpeakerList'
 import ComeJoinUs from '~/components/HomeComponents/ComeJoinUs'
 import Schedule from '~/components/HomeComponents/Schedule'
 import Locations from '~/components/HomeComponents/Locations'
@@ -26,10 +25,9 @@ import Subscribe from '~/components/HomeComponents/Subscribe'
 import ContactUs from '~/components/HomeComponents/ContactUs'
 import OrganizerList from '~/components/HomeComponents/OrganizerList'
 import Tickets from '~/components/HomeComponents/Tickets'
-import Sponsors from '~/components/HomeComponents/Sponsors'
 import Nav from '~/components/Nav'
 export default {
-  components: { Nav, Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { Nav, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, JoinTheNetwork, Header },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug', 'showPage', 'twitter', 'url'])

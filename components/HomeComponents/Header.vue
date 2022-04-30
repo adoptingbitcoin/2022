@@ -19,14 +19,16 @@
       <h5 class="text-lg md:text-2xl">
         {{ $t('header.date') }}
       </h5>
-      <!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
+      <CTA href="#tickets">
+        BUY YOUR TICKET
+      </CTA>
     </Container>
     <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
       <div class="mr-5">
-        <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">
+        <nuxt-link v-if="showLocale('en')" :to="switchLocalePath('en')">
           English
         </nuxt-link>
-        <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">
+        <nuxt-link v-if="showLocale('es')" :to="switchLocalePath('es')">
           Español
         </nuxt-link>
       </div>
@@ -38,9 +40,10 @@
 <script>
 import Container from '~/components/Container'
 import Logo from '~/components/Logo'
+import CTA from '~/components/CTA'
 export default {
   name: 'Header',
-  components: { Logo, Container },
+  components: { CTA, Logo, Container },
   methods: {
     showLocale (locale) {
       return this.$i18n.locale !== locale

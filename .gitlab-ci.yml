@@ -32,7 +32,7 @@ build:
       - public
   script:
     - chmod 400 $SSH_KEY
-    - rsync -Pavp --delete --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/${DEPLOY_PATH}
+    - rsync -Pavp --mkpath --delete --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/${DEPLOY_PATH}
 
 deploy_main:
   extends:
@@ -41,6 +41,9 @@ deploy_main:
     DEPLOY_PATH: "public_html/2022"
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
+  environment:
+    name: live
+    url: https://adoptingbitcoin.org/2022
 
 deploy_staging:
   extends:
@@ -49,6 +52,22 @@ deploy_staging:
     DEPLOY_PATH: "staging.adoptingbitcoin.org/2022"
   rules:
     - if: '$CI_COMMIT_BRANCH == "staging"'
+  environment:
+    name: staging
+    url: https://staging.adoptingbitcoin.org/2022
+
+deploy_mr:
+  extends:
+    - .deploy
+  variables:
+    DEPLOY_PATH: "staging.adoptingbitcoin.org/2022-MR/${CI_COMMIT_REF_NAME}"
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+    - if: $CI_COMMIT_BRANCH == 'staging'
+      when: never
+  environment:
+    name: mr/$CI_COMMIT_REF_NAME
+    url: https://$DEPLOY_PATH
 
 
 purge_cache:
