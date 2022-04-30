@@ -7,9 +7,9 @@
           <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
         <h5 class="text-lg md:text-2xl">{{  $t('header.date') }}</h5>
 <!--        <CTA href="#tickets">GET YOUR TICKET NOW</CTA>-->
-        <p class="hidden md:block">
+        <!-- <p class="hidden md:block">
           {{ $t('comejoinus.text') }}
-        </p>
+        </p> -->
       </Container>
     </div>
     <Container class="block md:hidden">
