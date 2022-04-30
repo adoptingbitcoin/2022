@@ -33,7 +33,7 @@ build:
       - public
   script:
     - chmod 400 $SSH_KEY
-    - rsync -Pavp --mkpath --delete --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/${DEPLOY_PATH}
+    - rsync -Pavp --delete --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/${DEPLOY_PATH}
 
 deploy_main:
   extends:
