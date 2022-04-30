@@ -3,13 +3,15 @@
     <Nav class="navIsHidden" :class="{ 'navIsVisible': navIsVisible, 'hidden': hideNav }" />
     <Header id="home" v-view="headerScrollHandler" />
     <JoinTheNetwork />
-    <SpeakerList id="speakers" :speakers="speakers" />
+    <!-- <SpeakerList id="speakers" :speakers="speakers" /> -->
     <ComeJoinUs />
-    <Schedule />
-    <Tickets id="tickets" />
-    <Sponsors id="sponsors" :sponsors="sponsors" />
     <Locations id="location" :locations="locations" />
+    <!-- Speaker submission -->
+    <!-- <Schedule /> -->
+    <Tickets id="tickets" />
+    <!-- <Sponsors id="sponsors" :sponsors="sponsors" /> -->
     <OrganizerList :speakers="organizers" />
+    <!-- Get in touch -->
     <Subscribe id="news" />
     <ContactUs />
   </div>

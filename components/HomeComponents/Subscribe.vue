@@ -5,9 +5,9 @@
         {{ $t('subscribe.title') }}
       </BlueTitle>
       <div class="mx-auto">
-        <p class="mb-10">
+        <!-- <p class="mb-10">
           {{ $t('subscribe.text') }}
-        </p>
+        </p> -->
 
         <form @submit.prevent="subscribe">
           <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">

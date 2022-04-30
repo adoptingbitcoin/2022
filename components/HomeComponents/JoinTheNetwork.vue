@@ -6,9 +6,8 @@
     <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4 mb-14">
       <p v-html="$t('jointhenetwork.text1')" />
       <p v-html="$t('jointhenetwork.text2')" />
+      <p v-html="$t('jointhenetwork.text3')" />
     </div>
-    <p class="text-center  mb-4 mt-10 text-blue text-xl" v-html="$t('jointhenetwork.textCenter1')" />
-    <p class="md:text-center mt-4 md:text-xl" v-html="$t('jointhenetwork.textCenter2')" />
   </Container>
 </template>
 
