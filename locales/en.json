@@ -66,8 +66,8 @@
     "proceeds": "All proceeds of the conference will be donated to the development of the Lightning Network."
   },
   "tickets": {
-    "title": "GET YOUR TICKET HERE",
-    "subtitle": "and get the early-bird special with an stunning 15% discount on all tickets until 15 September.",
+    "title": "GRAB YOUR TICKET HERE",
+    "subtitle": "and get the <strong>early-bird special</strong> with an stunning <strong>15% discount on all tickets</strong> until 15 September.",
     "ticket1": "Basic",
     "ticket1Price": "$100",
     "ticket2": "Exclusive",
@@ -77,19 +77,20 @@
     "ticketsleft": "Tickets left",
     "earlyAdopters": {
       "title": "NUMBER GO UP",
-      "text": "We‘ve got our own „halving“ at work, get in early get the better price."
+      "text": "We‘ve got our own „halving“ at work, get in early get the better price.",
+      "afterText": "IT‘S GOING UP FOREVER, LAURA"
     },
     "priceUp": {
       "prices": [
         {
-          "text1": "<strong>Innovator</strong> until 30.09",
+          "text1": "<strong>Early Innovator</strong> until June 15",
           "price1": "$150",
-          "text2": "<strong>Early Adopter</strong> until 15.10",
-          "price2": "$200",
-          "text3": "<strong>Early majority</strong> until 31.10",
-          "price3": "$250",
-          "text4": "<strong>Late majority</strong> until 01.11",
-          "price4": "$300"
+          "text2": "<strong>Early Adopter</strong> until August 31",
+          "price2": "$225",
+          "text3": "<strong>Late Adopter</strong> until October 31",
+          "price3": "$300",
+          "text4": "<strong>Last Minute</strong> until November 15",
+          "price4": "$425"
         }
       ]
     },
@@ -100,6 +101,7 @@
     "speakers": "Speakers",
     "tickets": "Tickets",
     "sponsors": "Sponsors",
+    "organizers": "Team",
     "location": "Location",
     "schedule": "Schedule",
     "news": "News",

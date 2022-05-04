@@ -10,7 +10,7 @@
     <!-- <Schedule /> -->
     <Tickets id="tickets" />
     <!-- <Sponsors id="sponsors" :sponsors="sponsors" /> -->
-    <OrganizerList :speakers="organizers" />
+    <OrganizerList id="organizers" :speakers="organizers" />
     <!-- Get in touch -->
     <Subscribe id="news" />
     <ContactUs />

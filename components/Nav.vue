@@ -17,14 +17,14 @@
       </NuxtLink>
 
       <div class="h-full absolute right-0 top-0 flex items-center justify-center mr-3">
-        <div class="mr-5">
-          <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">
-            English
-          </nuxt-link>
-          <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">
-            Español
-          </nuxt-link>
-        </div>
+<!--        <div class="mr-5">-->
+<!--          <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">-->
+<!--            English-->
+<!--          </nuxt-link>-->
+<!--          <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">-->
+<!--            Español-->
+<!--          </nuxt-link>-->
+<!--        </div>-->
         <Menu class="inline-block vertical-align-middle"/>
       </div>
     </div>

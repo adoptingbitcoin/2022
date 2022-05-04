@@ -1,33 +1,18 @@
 <template>
+  <div class="bg">
   <Container id="tickets py-16 mb-16">
     <GradientHeader class="">
       {{ $t('tickets.title') }}
     </GradientHeader>
-    <span>
-      {{ $t('tickets.subtitle') }}</span>
+    <span v-html="$t('tickets.subtitle')" />
     <p class="text-xl my-5" />
-    <div class="grid grid-cols-1 lg:grid-cols-2  grid-flow-row gap-4">
-      <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
-        <h5 class="text-2xl">
-          {{ $t('tickets.ticket1') }}
-        </h5>
-        <span>{{ $t('tickets.ticket1Price') }}</span> <br>
-        <span class="text-xs text-white">from November 1</span>
-      </a>
-      <div class="ticket ticket-2 p-10 text-center text-white">
-        <h5 class="text-2xl">
-          {{ $t('tickets.ticket2') }}
-        </h5>
-        <span>{{ $t('tickets.ticket2Price') }}</span>
-      </div>
-    </div>
+    <div class="grid grid-cols-2 lg:grid-cols-4  grid-flow-row gap-4">
 
-    <!-- <div class="ticket ticket-3 p-10 text-center text-white">
-      <h5 class="text-2xl">
-        {{ $t('tickets.ticket3') }}
-      </h5>
-      <span>{{ $t('tickets.ticket3Price') }}</span>
-    </div> -->
+      <a href="https://pretix.eu/galoy/ab22/" target="_blank" class="ticket ticket-1 p-10" />
+      <span class="ticket ticket-2 ticket-unavailable p-10" />
+      <span class="ticket ticket-3 ticket-unavailable p-10" />
+      <span class="ticket ticket-4 ticket-unavailable p-10" />
+    </div>
 
     <BlueTitle class="mt-8">
       {{ $t('tickets.earlyAdopters.title') }}
@@ -37,38 +22,47 @@
     </p>
     <div class="mb-10">
       <div class="grid grid-cols-2  grid-flow-row gap-4 mb-14">
-      <div v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
-      <p v-html="price.text1" />
-      <p v-html="price.text2" />
-      <p v-html="price.text3" />
-      <p v-html="price.text4" />
-       </div>
-       <div v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
-         <p v-html="price.price1" />
-         <p v-html="price.price2" />
-        <p v-html="price.price3" />
-        <p v-html="price.price4" />
-       </div>
+        <div v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
+        <p v-html="price.text1" />
+          <p v-html="price.text2" />
+        <p v-html="price.text3" />
+        <p v-html="price.text4" />
+         </div>
+         <div v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
+          <p v-html="price.price1" />
+           <p v-html="price.price2" />
+          <p v-html="price.price3" />
+          <p v-html="price.price4" />
+        </div>
       </div>
     </div>
+    <BlueTitle class="mt-8">
+      {{ $t('tickets.earlyAdopters.afterText') }}
+    </BlueTitle>
+
+    <div class="w-full my-5">
+      <img class="box-img" src="~/assets/images/box.png" alt="">
+    </div>
+
   </Container>
+  </div>
 </template>
 
 <script>
-  import Container from '~/components/Container'
-  import GradientHeader from '~/components/GradientHeader'
-  import BlueTitle from '~/components/BlueTitle'
-  export default {
-    name: 'Tickets',
-    components: {
-      BlueTitle,
-      GradientHeader,
-      Container
-    },
-    data() {
-      return {}
-    }
+import Container from '~/components/Container'
+import GradientHeader from '~/components/GradientHeader'
+import BlueTitle from '~/components/BlueTitle'
+export default {
+  name: 'Tickets',
+  components: {
+    BlueTitle,
+    GradientHeader,
+    Container
+  },
+  data () {
+    return {}
   }
+}
 
 </script>
 
@@ -85,11 +79,31 @@
   }
 
   .ticket-2 {
-    background-image: url("~/assets/images/ticket_regular_not_available.jpg");
+    background-image: url("~/assets/images/ticket_2.jpg");
   }
 
   .ticket-3 {
     background-image: url("~/assets/images/ticket_3.jpg");
+  }
+
+  .ticket-4 {
+    background-image: url("~/assets/images/ticket_4.jpg");
+  }
+
+  .ticket-unavailable {
+    opacity: 0.4;
+  }
+
+  .bg{
+    background-image: url("~/assets/images/bg-yellow.jpg");
+    background-repeat: repeat-y;
+    background-position: top left;
+    background-size: contain;
+  }
+
+  .box-img {
+    max-width: 300px;
+    @apply my-14 mx-auto;
   }
 
 </style>

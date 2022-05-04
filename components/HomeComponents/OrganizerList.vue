@@ -1,14 +1,17 @@
 <template>
-  <BGGrey class="pb-16">
+  <div class="pb-16 bg">
     <Container>
-      <GradientHeader class="mb-10">
-        {{ $t('organizers.title') }}
-      </GradientHeader>
-      <div class="grid grid-cols-2 md:grid-cols-6  grid-flow-row gap-4">
-        <Organizer v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" :speaker-href="speaker.social"/>
+      <div class="border-blue border-4 rounded p-10 bg-white">
+        <GradientHeader class="mb-10">
+          {{ $t('organizers.title') }}
+        </GradientHeader>
+        <div class="grid grid-cols-2 md:grid-cols-6  grid-flow-row gap-4">
+          <Organizer v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" :speaker-href="speaker.social"/>
+        </div>
       </div>
+
     </Container>
-  </BGGrey>
+  </div>
 </template>
 
 <script>
@@ -24,4 +27,11 @@ export default {
 </script>
 
 <style scoped>
+
+.bg {
+  background-image: url("~/assets/images/bg-pink.jpg");
+  background-repeat: repeat-y;
+  background-position: bottom right;
+  background-size: contain;
+}
 </style>

@@ -1,5 +1,6 @@
 <template>
-  <Container class="mb-8">
+  <div class="jointhenetwork">
+  <Container>
     <BlueTitle class="mb-5">
       {{ $t('jointhenetwork.title') }}
     </BlueTitle>
@@ -8,15 +9,25 @@
       <p v-html="$t('jointhenetwork.text2')" />
       <p v-html="$t('jointhenetwork.text3')" />
     </div>
+    <div class="flex justify-end">
+      <CTA class="" href="#tickets">BUY YOUR TICKET</CTA>
+    </div>
+
+    <div class="w-full">
+      <img class="box-img" src="~/assets/images/box.png" alt="">
+    </div>
+
   </Container>
+  </div>
 </template>
 
 <script>
 import Container from '~/components/Container'
 import BlueTitle from '~/components/BlueTitle'
+import CTA from '~/components/CTA';
 export default {
   name: 'JoinTheNetwork',
-  components: { BlueTitle, Container }
+  components: {CTA, BlueTitle, Container }
 }
 </script>
 
@@ -32,5 +43,13 @@ export default {
     column-gap: 50px;
 
   }
+}
+.jointhenetwork {
+    background-image: url("~/assets/images/bg-leftRainbow.jpg");
+    background-size: cover;
+}
+.box-img {
+  max-width: 300px;
+  @apply my-14 mx-auto;
 }
 </style>

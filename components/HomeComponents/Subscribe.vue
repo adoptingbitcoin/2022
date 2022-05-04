@@ -1,28 +1,44 @@
 <template>
   <div class="container mx-auto">
     <Container>
-      <BlueTitle class="">
+
+      <BlueTitle class="text-center mx-auto">
+        GET IN TOUCH
+      </BlueTitle>
+
+      <div class="flex justify-around my-16">
+        <a href="#"><img src="~/assets/images/logo.png" class="h-32"></a>
+        <a href="#"><img src="~/assets/images/logo.png" class="h-32"></a>
+        <a href="#"><img src="~/assets/images/logo.png" class="h-32"></a>
+      </div>
+
+
+      <BlueTitle class="text-center mx-auto">
         {{ $t('subscribe.title') }}
       </BlueTitle>
       <div class="mx-auto">
-        <!-- <p class="mb-10">
-          {{ $t('subscribe.text') }}
-        </p> -->
 
         <form @submit.prevent="subscribe">
-          <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
-            <div class="bg-white px-5 py-2">
-              <input v-model="email" type="email" :placeholder="$t('subscribe.entermail')">
+          <div class="grid grid-cols-3">
+
+            <div class="col-span-2 border-blue border-4 p-1 rounded mx-auto my-5 text-center w-full md:inline-block">
+              <div class="bg-white px-5 py-2">
+                <input v-model="email" type="email" :placeholder="$t('subscribe.entermail')" class="w-full">
+              </div>
             </div>
+
+            <div class="border-blue border-4 p-1 rounded mx-auto my-5 text-center md:inline-block w-full md:ml-5">
+              <div class="bg-white px-5 py-2">
+                <button type="submit" class="w-full">
+                  {{ $t('subscribe.signup') }}
+                </button>
+              </div>
+            </div>
+
           </div>
 
-          <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto md:ml-5">
-            <div class="bg-white px-5 py-2">
-              <button type="submit">
-                {{ $t('subscribe.signup') }}
-              </button>
-            </div>
-          </div>
+
+
           <div v-if="error">
             There was an Error! <br>
             {{ errorMessage }}

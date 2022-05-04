@@ -1,10 +1,16 @@
 <template>
   <div class="my-5">
-    <img :src="computedImg">
-    <BlueTitle v-html="location.name"></BlueTitle>
-    <p>
-      {{ location.description }}
-    </p>
+    <div class="grid grid-cols-2 gap-5">
+      <img :src="computedImg">
+      <div class="">
+        <BlueTitle v-html="location.name"></BlueTitle>
+        <p>
+          {{ location.description }}
+        </p>
+      </div>
+    </div>
+
+
   </div>
 </template>
 

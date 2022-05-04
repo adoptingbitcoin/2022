@@ -22,14 +22,14 @@
       <!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
     </Container>
     <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
-      <div class="mr-5">
-        <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">
-          English
-        </nuxt-link>
-        <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">
-          Español
-        </nuxt-link>
-      </div>
+<!--      <div class="mr-5">-->
+<!--        <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">-->
+<!--          English-->
+<!--        </nuxt-link>-->
+<!--        <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">-->
+<!--          Español-->
+<!--        </nuxt-link>-->
+<!--      </div>-->
       <Menu class="inline-block vertical-align-middle" />
     </div>
   </div>
@@ -61,8 +61,9 @@ export default {
     position: relative;
     height: 45vh;
     width: 100%;
-    background-image: url("~/assets/images/bg-sunset.jpg");
+    background-image: url("~/assets/images/bg-mountains.jpg");
     background-size: cover;
+    background-position: center bottom;
   }
   .vertical-align-bottom{
     vertical-align: bottom;
