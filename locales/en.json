@@ -58,7 +58,7 @@
   "subscribe": {
     "title": "SUBSCRIBE TO OUR MAILING LIST",
     "signup": "YES SIGN ME UP!",
-    "enteremail": "ENTER YOUR EMAIL HERE",
+    "entermail": "ENTER YOUR EMAIL HERE",
     "text": "Stay up to date on Adopting Bitcoin and get all the important news right to your mailbox"
   },
   "contactus": {
@@ -85,9 +85,9 @@
           "text1": "<strong>Innovator</strong> until 30.09",
           "price1": "$150",
           "text2": "<strong>Early Adopter</strong> until 15.10",
-          "price2": "$300",
+          "price2": "$200",
           "text3": "<strong>Early majority</strong> until 31.10",
-          "price3": "$300",
+          "price3": "$250",
           "text4": "<strong>Late majority</strong> until 01.11",
           "price4": "$300"
         }

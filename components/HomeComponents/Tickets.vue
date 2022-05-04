@@ -1,9 +1,10 @@
 <template>
   <Container id="tickets py-16 mb-16">
     <GradientHeader class="">
-      {{ $t('tickets.title') }},
-      {{ $t('tickets.subtitle') }}
+      {{ $t('tickets.title') }}
     </GradientHeader>
+    <span>
+      {{ $t('tickets.subtitle') }}</span>
     <p class="text-xl my-5" />
     <div class="grid grid-cols-1 lg:grid-cols-2  grid-flow-row gap-4">
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
@@ -34,34 +35,22 @@
     <p class="mb-5">
       {{ $t('tickets.earlyAdopters.text') }}
     </p>
-    <table class="mb-10">
-      <tr v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
-        <td>
-          <span v-html="price.text1" />
-        </td>
-        <td class="px-10">
-          <span v-html="price.price1" />
-        </td>
-         <td>
-          <span v-html="price.text2" />
-        </td>
-        <td class="px-10">
-          <span v-html="price.price2" />
-        </td>
-         <td>
-          <span v-html="price.text3" />
-        </td>
-        <td class="px-10">
-          <span v-html="price.price3" />
-        </td>
-         <td>
-          <span v-html="price.text4" />
-        </td>
-        <td class="px-10">
-          <span v-html="price.price4" />
-        </td>
-      </tr>
-    </table>
+    <div class="mb-10">
+      <div class="grid grid-cols-2  grid-flow-row gap-4 mb-14">
+      <div v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
+      <p v-html="price.text1" />
+      <p v-html="price.text2" />
+      <p v-html="price.text3" />
+      <p v-html="price.text4" />
+       </div>
+       <div v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
+         <p v-html="price.price1" />
+         <p v-html="price.price2" />
+        <p v-html="price.price3" />
+        <p v-html="price.price4" />
+       </div>
+      </div>
+    </div>
   </Container>
 </template>
 

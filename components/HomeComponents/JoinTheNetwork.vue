@@ -3,7 +3,7 @@
     <BlueTitle class="mb-5">
       {{ $t('jointhenetwork.title') }}
     </BlueTitle>
-    <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4 mb-14">
+    <div class="grid grid-cols-1  grid-flow-row gap-4 mb-14">
       <p v-html="$t('jointhenetwork.text1')" />
       <p v-html="$t('jointhenetwork.text2')" />
       <p v-html="$t('jointhenetwork.text3')" />
