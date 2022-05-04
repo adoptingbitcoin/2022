@@ -1,24 +1,24 @@
 <template>
   <div class="header relative">
     <Container class="md:hidden">
-      <Logo />
+      <!-- <Logo /> -->
     </Container>
     <Container class="title-container">
       <div class="md:inline-block mr-4 hidden">
-        <Logo />
+        <!-- <Logo /> -->
       </div>
-      <div class="inline-block vertical-align-bottom">
+      <div class="w-fit-content">
         <h1 class="text-3xl md:text-5xl">
           {{ $t('header.title') }}
         </h1>
         <h5 class="text-lg md:text-2xl">
           {{ $t('header.subtitle') }}
         </h5>
+        <div class="bg-white rounded my-5" style="height: 5px" />
+        <h5 class="text-lg md:text-2xl">
+          {{ $t('header.date') }}
+        </h5>
       </div>
-      <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px" />
-      <h5 class="text-lg md:text-2xl">
-        {{ $t('header.date') }}
-      </h5>
       <!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
     </Container>
     <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
@@ -59,12 +59,15 @@ export default {
   .header{
     color: white;
     position: relative;
-    height: 80vh;
+    height: 45vh;
     width: 100%;
-    background-image: url("~/assets/images/adopting_bitcoin_the_lightning_network.jpg");
+    background-image: url("~/assets/images/bg-sunset.jpg");
     background-size: cover;
   }
   .vertical-align-bottom{
     vertical-align: bottom;
+  }
+  .w-fit-content{
+    width: fit-content;
   }
 </style>

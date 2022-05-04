@@ -12,7 +12,7 @@
         <form @submit.prevent="subscribe">
           <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
             <div class="bg-white px-5 py-2">
-              <input v-model="email" type="email" :placeholder="$t('subscribe.enteremail')">
+              <input v-model="email" type="email" :placeholder="$t('subscribe.entermail')">
             </div>
           </div>
 
@@ -87,8 +87,9 @@ export default {
 
 <style scoped>
 .cta-border{
-  background: linear-gradient(to right, red, blue);
+  background: blue;
   height: fit-content;
+  width: fit-content;
 }
 input{
   text-align: center;
