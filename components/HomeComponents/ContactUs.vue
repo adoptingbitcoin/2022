@@ -1,5 +1,5 @@
 <template>
-  <BGColor class="">
+  <div class="footer">
     <Container class="text-white">
       <h2 class="text-4xl font-bold text-white">
         {{ $t('contactus.title') }}
@@ -56,7 +56,7 @@
       </div>
       <div class="py-8" />
     </Container>
-  </BGColor>
+  </div>
 </template>
 
 <script>
@@ -69,6 +69,12 @@ export default {
 </script>
 
 <style scoped>
+
+.footer {
+  background-image: url("~/assets/images/hero_footer.jpg");
+  background-size: contain;
+  background-position: center top;
+}
 .contact-container{
   width: fit-content;
 }

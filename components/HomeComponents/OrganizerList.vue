@@ -1,11 +1,11 @@
 <template>
   <div class="pb-16 bg">
     <Container>
-      <div class="border-blue border-4 rounded p-10 bg-white">
+      <div class="border-darkblue border-4 rounded p-10 bg-white">
         <GradientHeader class="mb-10">
           {{ $t('organizers.title') }}
         </GradientHeader>
-        <div class="grid grid-cols-2 md:grid-cols-6  grid-flow-row gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-5  grid-flow-row gap-4">
           <Organizer v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" :speaker-href="speaker.social"/>
         </div>
       </div>

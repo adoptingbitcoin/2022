@@ -11,15 +11,15 @@
 
       <div class="flex justify-between">
         <div class="">
-          <BlueTitle>{{ $t('locations.directions') }}</BlueTitle>
+          <PinkTitle>{{ $t('locations.directions') }}</PinkTitle>
           <span>{{ $t('locations.directionsText') }}</span>
         </div>
         <CTA href="#tickets">BUY YOUR TICKET</CTA>
       </div>
     </div>
 
-    <div class="w-full">
-      <img class="box-img" src="~/assets/images/box.png" alt="">
+    <div class="w-full my-10">
+      <img class="box-img" src="~/assets/images/AB_miner.png" alt="">
     </div>
 
   </Container>

@@ -14,9 +14,9 @@
       <span class="ticket ticket-4 ticket-unavailable p-10" />
     </div>
 
-    <BlueTitle class="mt-8">
+    <GradientHeader class="mt-8">
       {{ $t('tickets.earlyAdopters.title') }}
-    </BlueTitle>
+    </GradientHeader>
     <p class="mb-5">
       {{ $t('tickets.earlyAdopters.text') }}
     </p>
@@ -36,12 +36,12 @@
         </div>
       </div>
     </div>
-    <BlueTitle class="mt-8">
+    <GradientHeader class="mt-8">
       {{ $t('tickets.earlyAdopters.afterText') }}
-    </BlueTitle>
+    </GradientHeader>
 
     <div class="w-full my-5">
-      <img class="box-img" src="~/assets/images/box.png" alt="">
+      <img class="box-img" src="~/assets/images/AB_toilet_paper.png" alt="">
     </div>
 
   </Container>

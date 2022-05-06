@@ -18,10 +18,9 @@ export default {
   ]
 }
 </script>
-
 <style scoped>
 .cta-border{
-  background: linear-gradient(to right, red, blue);
+  background: #ed67af;
   width: fit-content;
   height: fit-content;
 }
@@ -30,7 +29,7 @@ a::before{
   content: "";
 }
 a{
-  background: linear-gradient(to right, red, blue);
+  background: linear-gradient(to right, #ed67af, #4accf2);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

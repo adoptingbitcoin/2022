@@ -2,7 +2,7 @@
 
 module.exports = {
   purge: [],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'media', // or 'media' or 'class'
   theme: {
     screens: {
       sm: '480px',
@@ -12,7 +12,9 @@ module.exports = {
     },
     extend: {
       colors: {
-        blue: '#004bb3',
+        blue: '#4accf2',
+        darkblue: '#8295eb',
+        pink: '#ed67af',
         red: '#e60000',
         yellow: '#ffcc00'
       }

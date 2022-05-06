@@ -2,7 +2,7 @@
   <div class="mx-auto">
     <div class="header">
       <Container class="title-container">
-        <h5 class="text-2xl">{{ $t('comejoinus.title') }}</h5>
+        <h5 class="text-8xl">{{ $t('comejoinus.title') }}</h5>
 <!--        <CTA href="#tickets">GET YOUR TICKET NOW</CTA>-->
       </Container>
     </div>
@@ -34,8 +34,8 @@ export default {
     position: relative;
     height: 45vh;
     width: 100%;
-    background-image: url("~/assets/images/bg-mountains.jpg");
-    background-size: cover;
+    background-image: url("~/assets/images/hero2.jpg");
+    background-size: contain;
     background-position: center center;
   }
 </style>

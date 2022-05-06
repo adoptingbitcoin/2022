@@ -1,9 +1,9 @@
 <template>
   <div class="jointhenetwork">
   <Container>
-    <BlueTitle class="mb-5">
+    <GradientHeader class="mb-5">
       {{ $t('jointhenetwork.title') }}
-    </BlueTitle>
+    </GradientHeader>
     <div class="grid grid-cols-1  grid-flow-row gap-4 mb-14">
       <p v-html="$t('jointhenetwork.text1')" />
       <p v-html="$t('jointhenetwork.text2')" />
@@ -25,9 +25,10 @@
 import Container from '~/components/Container'
 import BlueTitle from '~/components/BlueTitle'
 import CTA from '~/components/CTA';
+import GradientHeader from "~/components/GradientHeader";
 export default {
   name: 'JoinTheNetwork',
-  components: {CTA, BlueTitle, Container }
+  components: {GradientHeader, CTA, BlueTitle, Container }
 }
 </script>
 

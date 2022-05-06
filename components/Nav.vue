@@ -77,9 +77,9 @@ export default {
   opacity: 0;
   width: 100%;
   height: 100%;
-  background-image: url("~/assets/images/adopting_bitcoin_the_lightning_network.jpg");
+  background-image: url("~/assets/images/hero1.jpg");
   background-size: cover;
-  background-position: top center;
+  background-position: bottom center;
   -webkit-transition: background-image 0.2s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   position: absolute;

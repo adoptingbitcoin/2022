@@ -7,7 +7,7 @@
       <div class="md:inline-block mr-4 hidden">
         <!-- <Logo /> -->
       </div>
-      <div class="w-fit-content">
+      <div class="w-fit-content text-shadow">
         <h1 class="text-3xl md:text-5xl">
           {{ $t('header.title') }}
         </h1>
@@ -56,14 +56,19 @@ export default {
   left: 50%;
   transform: translate(-50%);
 }
+.text-shadow {
+  text-shadow: 0 4px 4px black;
+}
+
   .header{
     color: white;
     position: relative;
-    height: 45vh;
+    height: 70vh;
     width: 100%;
-    background-image: url("~/assets/images/bg-mountains.jpg");
+    background-image: url("~/assets/images/hero1.jpg");
     background-size: cover;
-    background-position: center bottom;
+    background-repeat: repeat-x;
+    background-position: center top;
   }
   .vertical-align-bottom{
     vertical-align: bottom;
