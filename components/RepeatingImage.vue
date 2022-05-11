@@ -10,8 +10,11 @@
       <div class="bg-right side-image" :style="{ 'background-image': 'url(' + repeatRight + ')' }" />
     </div>
 
-    <Container class="title-container px-5">
-      <slot />
+    <Container class="title-container py-2">
+      <div class="px-5">
+        <slot />
+      </div>
+
     </Container>
 
 
@@ -27,8 +30,7 @@ export default {
   props: {
     image: String,
     repeatLeft: String,
-    repeatRight: String,
-    textAlignBottom: Boolean
+    repeatRight: String
   },
   computed: {
     coverImageStyle () {

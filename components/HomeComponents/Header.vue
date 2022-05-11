@@ -1,7 +1,10 @@
 <template>
   <div class="header relative text-white">
-    <RepeatingImage :image="require('~/assets/images/hero1.jpg')" :repeat-left="require('~/assets/images/hero1_left.jpg')" :repeat-right="require('~/assets/images/hero1_right.jpg')" />
-    <Container class="title-container px-5">
+    <RepeatingImage
+      :image="require('~/assets/images/hero1.jpg')"
+      :repeat-left="require('~/assets/images/hero1_left.jpg')"
+      :repeat-right="require('~/assets/images/hero1_right.jpg')"
+    >
       <div class="md:inline-block mr-4 hidden">
         <!-- <Logo /> -->
       </div>
@@ -17,8 +20,7 @@
           {{ $t('header.date') }}
         </h5>
       </div>
-      <!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
-    </Container>
+    </RepeatingImage>
     <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
 <!--      <div class="mr-5">-->
 <!--        <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">-->

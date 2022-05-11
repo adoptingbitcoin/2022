@@ -1,10 +1,13 @@
 <template>
   <div class="mx-auto">
     <div class="header">
-      <RepeatingImage :image="require('~/assets/images/hero2.jpg')" :repeat-left="require('~/assets/images/hero2_left.jpg')" :repeat-right="require('~/assets/images/hero2_right.jpg')" />
-      <Container class="title-container">
+      <RepeatingImage
+        :image="require('~/assets/images/hero2.jpg')"
+        :repeat-left="require('~/assets/images/hero2_left.jpg')"
+        :repeat-right="require('~/assets/images/hero2_right.jpg')"
+      >
         <h5 class="text-4xl md:text-8xl">{{ $t('comejoinus.title') }}</h5>
-      </Container>
+      </RepeatingImage>
     </div>
   </div>
 </template>
@@ -18,12 +21,6 @@ export default {
 </script>
 
 <style scoped>
-.title-container{
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translate(-50%);
-}
   .header{
     color: white;
     position: relative;

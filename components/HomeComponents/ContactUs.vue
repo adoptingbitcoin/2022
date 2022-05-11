@@ -4,46 +4,32 @@
       :image="require('~/assets/images/hero_footer.jpg')"
       :repeat-left="require('~/assets/images/hero_footer_left.png')"
       :repeat-right="require('~/assets/images/hero_footer_right.png')"
+      class="py-2"
     >
-      <h2 class="text-4xl font-bold text-white">
-        {{ $t('contactus.title') }}
-      </h2>
-      <div class="my-10 mx-auto grid grid-cols-1 md:grid-cols-3 grid-flow-row gap-4">
-        <!-- <div class="my-5">
-          <h5 class="font-bold text-2xl">
-            Adopting Bitcoin
-          </h5>
-          <p>
-            Sheraton Presidente <br>
-            Ave. La Revolucion, <br>
-            San Salvador, El Salvador
-          </p>
-        </div> -->
-        <div class="my-5">
-          <h5 class="font-bold text-2xl">
+      <div class="mx-auto grid grid-cols-1 md:grid-cols-3 grid-flow-row gap-4 text-white my-5 md:my-0">
+        <div class="">
+          <h5 class="font-bold text-2xl md:text-8xl">
             Email
           </h5>
-          <a href="mailto:adoptingbitcoin@galoy.io">
+          <a href="mailto:adoptingbitcoin@galoy.io" class="md:text-3xl">
             info@adoptingbitcoin.org
           </a>
         </div>
       </div>
-      <div class="py-16" />
-      <div class="text-center md:text-left md:float-left my-5">
-        <NuxtLink to="/faq">
-          {{ $t('menu.faq') }}
-        </NuxtLink>
-        <!--        <NuxtLink to="/press-kit">-->
-        <!--          {{ $t('menu.forpress') }}-->
-        <!--        </NuxtLink> |-->
-        <!--        <NuxtLink to="/sponsor-kit">-->
-        <!--          {{ $t('menu.forsponsors') }}-->
-        <!--        </NuxtLink>-->
+
+      <div class="flex justify-between md:my-5">
+        <div class="text-center md:text-left text-white">
+          <NuxtLink to="/faq">
+            {{ $t('menu.faq') }}
+          </NuxtLink>
+        </div>
+        <div class="text-center">
+          <a href="https://galoy.io/" target="_blank" class="galoy-holder">
+            <span class="text-white text-2xl">&#174;galoy.io </span>
+          </a>
+        </div>
+
       </div>
-      <div class="text-center md:text-left md:float-right my-5">
-        <a href="https://galoy.io/" target="_blank" class="galoy-holder"><span class="text-xs">hosted by</span> <img class="galoy-logo" src="~/assets/images/galoy-logo.png"></a>
-      </div>
-      <div class="py-8" />
 
     </RepeatingImage>
   </div>
@@ -59,6 +45,10 @@ export default {
 </script>
 
 <style scoped>
+
+h5{
+  font-family: "Ubuntu", sans-serif;
+}
 
 .contact-container{
   width: fit-content;
