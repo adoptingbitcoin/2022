@@ -110,8 +110,8 @@ export default {
     baseUrl: 'https://adoptingbitcoin.org/2022',
     seo: true,
     locales: [
-      { code: 'en', file: 'en.json', iso: 'en-US' },
-      { code: 'es', file: 'es.json', iso: 'es-ES' }
+      { code: 'en', file: 'en.json', iso: 'en-US' }
+      // { code: 'es', file: 'es.json', iso: 'es-ES' }
     ],
     langDir: '~/locales',
     defaultLocale: 'en',

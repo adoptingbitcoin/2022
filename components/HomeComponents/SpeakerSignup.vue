@@ -5,12 +5,10 @@
     <p class="mb-5" v-html="$t('speakers.callforparticipation_text')" />
 
     <div class="mx-auto">
-      <iframe
-        src="https://docs.google.com/forms/d/e/1FAIpQLSf1jR7R2By3yts1R_lD7Bqu3Pm_U7WWB3A10O429dF3del5gg/viewform?embedded=true"
-        width="100%"
-        height="1600px"
-        class="mx-auto"
-      >Loading…</iframe>
+
+      <NuxtLink to="/speaker-signup">
+        <CTA class="mx-auto">SUBMIT APPLICATION</CTA>
+      </NuxtLink>
     </div>
   </Container>
 </template>
@@ -18,9 +16,10 @@
 <script>
 import Container from '~/components/Container'
 import GradientHeader from "~/components/GradientHeader";
+import CTA from "~/components/CTA";
 export default {
   name: 'SpeakerSignup',
-  components: { GradientHeader, Container }
+  components: {CTA, GradientHeader, Container }
 }
 </script>
 

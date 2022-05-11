@@ -28,7 +28,7 @@
         <Menu class="inline-block vertical-align-middle"/>
       </div>
     </div>
-    <div class="bg-gradient-to-r from-yellow via-red to-red rounded mt-2 md:mt-5 w-100" style="height: 5px" />
+    <div :class="{ 'opacity-0': view.atTopOfPage }" class="bg-gradient-to-r from-yellow via-red to-red rounded mt-2 md:mt-5 w-100" style="height: 5px" />
   </div>
 </template>
 
