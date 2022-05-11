@@ -74,20 +74,20 @@ export default {
   }
 
   .ticket-1 {
-    background-image: url("~/assets/images/ticket_1.jpg");
+    background-image: url("~/assets/images/ticket_1.png");
     backdrop-filter: grayscale();
   }
 
   .ticket-2 {
-    background-image: url("~/assets/images/ticket_2.jpg");
+    background-image: url("~/assets/images/ticket_2.png");
   }
 
   .ticket-3 {
-    background-image: url("~/assets/images/ticket_3.jpg");
+    background-image: url("~/assets/images/ticket_3.png");
   }
 
   .ticket-4 {
-    background-image: url("~/assets/images/ticket_4.jpg");
+    background-image: url("~/assets/images/ticket_4.png");
   }
 
   .ticket-unavailable {

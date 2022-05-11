@@ -32,5 +32,6 @@ a{
   background: linear-gradient(to right, #ed67af, #4accf2);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-family: "eight-bit-madness", sans-serif;
 }
 </style>

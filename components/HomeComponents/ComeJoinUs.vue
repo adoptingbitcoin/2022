@@ -3,14 +3,8 @@
     <div class="header">
       <Container class="title-container">
         <h5 class="text-8xl">{{ $t('comejoinus.title') }}</h5>
-<!--        <CTA href="#tickets">GET YOUR TICKET NOW</CTA>-->
       </Container>
     </div>
-    <Container class="block md:hidden">
-      <p>
-        {{ $t('comejoinus.text') }}
-      </p>
-    </Container>
   </div>
 </template>
 
