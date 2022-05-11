@@ -1,9 +1,7 @@
 <template>
-  <div class="header relative">
-    <Container class="md:hidden">
-      <!-- <Logo /> -->
-    </Container>
-    <Container class="title-container">
+  <div class="header relative text-white">
+    <RepeatingImage :image="require('~/assets/images/hero1.jpg')" :repeat-left="require('~/assets/images/hero1_left.jpg')" :repeat-right="require('~/assets/images/hero1_right.jpg')" />
+    <Container class="title-container px-5">
       <div class="md:inline-block mr-4 hidden">
         <!-- <Logo /> -->
       </div>
@@ -38,9 +36,10 @@
 <script>
 import Container from '~/components/Container'
 import Logo from '~/components/Logo'
+import RepeatingImage from "~/components/RepeatingImage";
 export default {
   name: 'Header',
-  components: { Logo, Container },
+  components: {RepeatingImage, Logo, Container },
   methods: {
     showLocale (locale) {
       return this.$i18n.locale !== locale
@@ -50,6 +49,7 @@ export default {
 </script>
 
 <style scoped>
+
 .title-container{
   position: absolute;
   bottom: 0;
@@ -60,16 +60,15 @@ export default {
   text-shadow: 0 4px 4px black;
 }
 
-  .header{
-    color: white;
-    position: relative;
-    height: 70vh;
-    width: 100%;
-    background-image: url("~/assets/images/hero1.jpg");
-    background-size: cover;
-    background-repeat: repeat-x;
-    background-position: center top;
-  }
+  /*.header{*/
+  /*  color: white;*/
+  /*  position: relative;*/
+  /*  !*height: 70vh;*!*/
+  /*  width: 100%;*/
+  /*  background-size: cover;*/
+  /*  background-repeat: repeat-x;*/
+  /*  background-position: center top;*/
+  /*}*/
   .vertical-align-bottom{
     vertical-align: bottom;
   }

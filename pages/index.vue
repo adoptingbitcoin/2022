@@ -7,6 +7,7 @@
     <ComeJoinUs />
     <Locations id="location" :locations="locations" />
     <!-- Speaker submission -->
+    <SpeakerSignup />
     <!-- <Schedule /> -->
     <Tickets id="tickets" />
     <!-- <Sponsors id="sponsors" :sponsors="sponsors" /> -->
@@ -30,8 +31,9 @@ import OrganizerList from '~/components/HomeComponents/OrganizerList'
 import Tickets from '~/components/HomeComponents/Tickets'
 import Sponsors from '~/components/HomeComponents/Sponsors'
 import Nav from '~/components/Nav'
+import SpeakerSignup from "~/components/HomeComponents/SpeakerSignup";
 export default {
-  components: { Nav, Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: {SpeakerSignup, Nav, Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug', 'showPage', 'twitter', 'url'])

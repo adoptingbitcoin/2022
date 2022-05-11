@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Adopting Bitcoin – A Lightning Summit 2021',
+    title: 'Adopting Bitcoin – A Lightning Summit 2022',
     htmlAttrs: {
       lang: 'en'
     },
@@ -107,7 +107,7 @@ export default {
 
   i18n: {
     lazy: false,
-    baseUrl: 'https://adoptingbitcoin.org',
+    baseUrl: 'https://adoptingbitcoin.org/2022',
     seo: true,
     locales: [
       { code: 'en', file: 'en.json', iso: 'en-US' },

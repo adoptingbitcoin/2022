@@ -7,7 +7,7 @@
       </GradientHeader>
 
       <div class="flex justify-around my-16">
-        <a href="#"><img src="~/assets/images/twitter.png" class="h-20 md:h-32"></a>
+        <a href="https://twitter.com/AdoptingBTC"><img src="~/assets/images/twitter.png" class="h-20 md:h-32"></a>
         <a href="#"><img src="~/assets/images/linkedin.png" class="h-20 md:h-32"></a>
         <a href="#"><img src="~/assets/images/telegram.png" class="h-20 md:h-32"></a>
       </div>

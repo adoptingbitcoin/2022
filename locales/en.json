@@ -39,7 +39,9 @@
   },
   "speakers": {
     "title": "SPEAKERS",
-    "callforparticipation": "CALL FOR PARTICIPATION",
+    "callforparticipation": "SPEAKERS SUBMISSION",
+    "callforparticipation_text": "If you’d like to speak at Adopting Bitcoin 2022, please fill out the submission form below. <strong>The deadline to submit your topic for Adopting Bitcoin is June 13, 2022.</strong>",
+
     "signup": {
       "talkdetails": "TALK DETAILS",
       "talktitle": "TALK TITLE",

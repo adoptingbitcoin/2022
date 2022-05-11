@@ -1,8 +1,9 @@
 <template>
   <div class="mx-auto">
     <div class="header">
+      <RepeatingImage :image="require('~/assets/images/hero2.jpg')" :repeat-left="require('~/assets/images/hero2_left.jpg')" :repeat-right="require('~/assets/images/hero2_right.jpg')" />
       <Container class="title-container">
-        <h5 class="text-8xl">{{ $t('comejoinus.title') }}</h5>
+        <h5 class="text-4xl md:text-8xl">{{ $t('comejoinus.title') }}</h5>
       </Container>
     </div>
   </div>
@@ -26,9 +27,7 @@ export default {
   .header{
     color: white;
     position: relative;
-    height: 45vh;
     width: 100%;
-    background-image: url("~/assets/images/hero2.jpg");
     background-size: contain;
     background-position: center center;
   }

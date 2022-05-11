@@ -1,6 +1,8 @@
 <template>
   <Container>
-    <BlueTitle>{{ $t('speakers.callforparticipation') }}</BlueTitle>
+    <GradientHeader>{{ $t('speakers.callforparticipation') }}</GradientHeader>
+
+    <p class="mb-5" v-html="$t('speakers.callforparticipation_text')" />
 
     <div class="mx-auto">
       <iframe
@@ -15,10 +17,10 @@
 
 <script>
 import Container from '~/components/Container'
-import BlueTitle from '~/components/BlueTitle'
+import GradientHeader from "~/components/GradientHeader";
 export default {
   name: 'SpeakerSignup',
-  components: { BlueTitle, Container }
+  components: { GradientHeader, Container }
 }
 </script>
 
