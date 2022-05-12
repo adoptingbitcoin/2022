@@ -16,9 +16,11 @@
           {{ $t('header.subtitle') }}
         </h5>
         <div class="bg-white rounded my-5" style="height: 5px" />
+
         <h5 class="text-lg md:text-2xl">
           {{ $t('header.date') }}
         </h5>
+        <CTA class="shadow-none hidden md:block" href="#tickets">BUY YOUR TICKET</CTA>
       </div>
     </RepeatingImage>
     <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
@@ -31,6 +33,9 @@
 <!--        </nuxt-link>-->
 <!--      </div>-->
       <Menu class="inline-block vertical-align-middle" />
+    </div>
+    <div class="mx-auto">
+      <CTA class="shadow-none md:hidden mx-auto" href="#tickets">BUY YOUR TICKET</CTA>
     </div>
   </div>
 </template>
@@ -60,6 +65,9 @@ export default {
 }
 .text-shadow {
   text-shadow: 0 4px 4px black;
+}
+.shadow-none {
+  text-shadow: none;
 }
 
   /*.header{*/

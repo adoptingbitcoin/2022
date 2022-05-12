@@ -9,9 +9,6 @@
       <p v-html="$t('jointhenetwork.text2')" />
       <p v-html="$t('jointhenetwork.text3')" />
     </div>
-    <div class="flex justify-end">
-      <CTA class="" href="#tickets">BUY YOUR TICKET</CTA>
-    </div>
 
     <div class="w-full">
       <img class="box-img" src="~/assets/images/box.png" alt="">
