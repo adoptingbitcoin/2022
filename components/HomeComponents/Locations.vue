@@ -1,28 +1,28 @@
 <template>
   <div class="locations">
-  <Container>
-    <GradientHeader class="mb-5">
-      {{ $t('locations.title') }}
-    </GradientHeader>
-    <div class="grid grid-cols-1 grid-flow-row gap-4">
-      <Location v-for="(location, i) in locations" :key="i" :index="i" :location="location" />
-    </div>
-    <div class="my-5">
-
-      <div class="flex justify-between">
-        <div class="">
-          <PinkTitle>{{ $t('locations.directions') }}</PinkTitle>
-          <span>{{ $t('locations.directionsText') }}</span>
-        </div>
-        <CTA href="#tickets">BUY YOUR TICKET</CTA>
+    <Container>
+      <GradientHeader class="mb-5">
+        {{ $t('locations.title') }}
+      </GradientHeader>
+      <div class="grid grid-cols-1 grid-flow-row gap-4">
+        <Location v-for="(location, i) in locations" :key="i" :index="i" :location="location" />
       </div>
-    </div>
+      <div class="my-5">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="">
+            <PinkTitle>{{ $t('locations.directions') }}</PinkTitle>
+            <span>{{ $t('locations.directionsText') }}</span>
+          </div>
+          <CTA href="#tickets" class="mx-auto">
+            BUY YOUR TICKET
+          </CTA>
+        </div>
+      </div>
 
-    <div class="w-full my-10">
-      <img class="box-img" src="~/assets/images/AB_miner.png" alt="">
-    </div>
-
-  </Container>
+      <div class="w-full my-10">
+        <img class="box-img" src="~/assets/images/AB_miner.png" alt="">
+      </div>
+    </Container>
   </div>
 </template>
 

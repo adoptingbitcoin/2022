@@ -1,6 +1,6 @@
 <template>
   <div class="my-5">
-    <div class="grid grid-cols-2 gap-5">
+    <div class="grid grid-cols-1  md:grid-cols-2 gap-5">
       <img :src="computedImg">
       <div class="">
         <BlueTitle v-html="location.name"></BlueTitle>

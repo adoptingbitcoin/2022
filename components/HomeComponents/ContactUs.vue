@@ -2,12 +2,13 @@
   <div class="footer">
     <RepeatingImage
       :image="require('~/assets/images/hero_footer.jpg')"
+      :mobileImage="require('~/assets/images/hero_footer_mobile.jpg')"
       :repeat-left="require('~/assets/images/hero_footer_left.png')"
       :repeat-right="require('~/assets/images/hero_footer_right.png')"
       class="py-2"
     >
       <div class="grid grid-cols-1 md:grid-cols-3 gap-2 text-white">
-        <div class="">
+        <div class="my-5">
           <h5 class="font-bold text-2xl">
             Adopting Bitcoin
           </h5>
@@ -18,7 +19,7 @@
           </p>
         </div>
 
-        <div class="">
+        <div class="my-5">
           <h5 class="font-bold text-2xl">
             Email
           </h5>
@@ -27,7 +28,7 @@
           </a>
         </div>
 
-        <div class="">
+        <div class="my-5">
           <h5 class="font-bold text-2xl">
             Social
           </h5>

@@ -29,7 +29,7 @@
             </div>
 
             <div class="col-span-2 md:col-span-1 border-darkblue border-4 p-1 rounded mx-auto text-center md:inline-block w-full md:ml-5">
-              <div class="bg-white px-5 py-2">
+              <div class="bg-white px-5 py-2 text-eight-bit-madness">
                 <button type="submit" class="w-full">
                   {{ $t('subscribe.signup') }}
                 </button>

@@ -2,6 +2,7 @@
   <div class="header relative text-white">
     <RepeatingImage
       :image="require('~/assets/images/hero1.jpg')"
+      :mobile-image="require('~/assets/images/hero1_mobile.jpg')"
       :repeat-left="require('~/assets/images/hero1_left.jpg')"
       :repeat-right="require('~/assets/images/hero1_right.jpg')"
     >
@@ -44,6 +45,8 @@
 import Container from '~/components/Container'
 import Logo from '~/components/Logo'
 import RepeatingImage from "~/components/RepeatingImage";
+import Hero1 from '~/assets/images/hero1.jpg'
+import Hero1Mobile from '~/assets/images/hero1_mobile.jpg'
 export default {
   name: 'Header',
   components: {RepeatingImage, Logo, Container },

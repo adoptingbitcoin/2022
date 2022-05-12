@@ -2,23 +2,21 @@
   <div class="relative">
 
     <div class="">
-      <Container class="py-0">
-        <img src="~/assets/images/hero1.jpg">
+      <Container class="py-0 hidden md:block">
+        <img class="" :src="''+image" >
       </Container>
-      <div class="cover-image" :style="{ 'background-image': 'url(' + image + ')' }" />
-      <div class="bg-left side-image" :style="{ 'background-image': 'url(' + repeatLeft + ')' }" />
-      <div class="bg-right side-image" :style="{ 'background-image': 'url(' + repeatRight + ')' }" />
+      <img class="md:hidden" :src="computedMobileImage" >
+      <div class="hidden md:block cover-image" :style="{ 'background-image': 'url(' + image + ')' }" />
+      <div class="md:hidden cover-image" :style="{ 'background-image': 'url(' + mobileImage + ')' }" />
+      <div class="hidden md:block bg-left side-image" :style="{ 'background-image': 'url(' + repeatLeft + ')' }" />
+      <div class="hidden md:block bg-right side-image" :style="{ 'background-image': 'url(' + repeatRight + ')' }" />
     </div>
 
     <Container class="title-container py-2">
       <div class="px-5">
         <slot />
       </div>
-
     </Container>
-
-
-
   </div>
 </template>
 
@@ -29,27 +27,17 @@ export default {
   components: { Container },
   props: {
     image: String,
+    mobileImage: String,
     repeatLeft: String,
     repeatRight: String
   },
   computed: {
-    coverImageStyle () {
-      return {
-        'background-image': 'url("' + this.image + ' ")'
+    computedMobileImage () {
+      if (this.mobileImage) {
+        return this.mobileImage
+      } else {
+        return this.image
       }
-    },
-    leftImageStyle () {
-      return {
-        'background-image': 'url("' + this.repeatLeft + ' ")'
-      }
-    },
-    rightImageStyle () {
-      return {
-        'background-image': 'url("' + this.computedImg(this.repeatRight) + ' ")'
-      }
-    },
-    computedImg (path) {
-      return require(path)
     }
   }
 }
