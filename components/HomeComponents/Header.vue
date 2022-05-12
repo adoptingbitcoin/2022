@@ -26,6 +26,9 @@
       <div class="w-full flex justify-end">
         <CTA class="shadow-none hidden md:block" href="#tickets">BUY YOUR TICKET</CTA>
       </div>
+      <div class="">
+        <CTA class="shadow-none md:hidden" href="#tickets">BUY YOUR TICKET</CTA>
+      </div>
     </RepeatingImage>
     <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
 <!--      <div class="mr-5">-->
@@ -37,9 +40,6 @@
 <!--        </nuxt-link>-->
 <!--      </div>-->
       <Menu class="inline-block vertical-align-middle" />
-    </div>
-    <div class="mx-auto">
-      <CTA class="shadow-none md:hidden mx-auto" href="#tickets">BUY YOUR TICKET</CTA>
     </div>
   </div>
 </template>
