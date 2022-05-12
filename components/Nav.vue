@@ -79,7 +79,7 @@ export default {
   height: 100%;
   background-image: url("~/assets/images/hero1.jpg");
   background-size: cover;
-  background-position: bottom center;
+  background-position: top center;
   -webkit-transition: background-image 0.2s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   position: absolute;
