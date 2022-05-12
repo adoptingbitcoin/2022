@@ -19,7 +19,7 @@
           </p>
         </div>
 
-        <div class="my-5">
+        <div class="my-5 hidden md:block">
           <h5 class="font-bold text-2xl">
             Email
           </h5>
@@ -53,7 +53,7 @@
         <div class="text-center">
           <a href="https://galoy.io/" target="_blank" class="galoy-holder">
             <span class="text-white text-sm text-eight-bit-madness">The Adopting Bitcoin conference is hosted by &nbsp;</span>
-            <img class="galoy-logo" src="~/assets/images/galoy-logo.png">
+            <img class="h-6 md:h-12 inline-block" src="~/assets/images/galoy-logo.png">
           </a>
         </div>
       </div>
