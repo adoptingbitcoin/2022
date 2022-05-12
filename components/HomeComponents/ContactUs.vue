@@ -13,9 +13,9 @@
             Adopting Bitcoin
           </h5>
           <p>
-            Sheraton Presidente <br>
-            Ave. La Revolucion, <br>
-            San Salvador, El Salvador
+            The Crowne Plaza <br>
+            89 Avenida Norte, <br>
+            San Salvador, SV
           </p>
         </div>
 
