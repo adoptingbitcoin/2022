@@ -40,8 +40,6 @@
         {{ $t('tickets.earlyAdopters.afterText') }}
       </GradientHeader>
 
-      <SponsorSignup />
-
       <div class="w-full my-5">
         <img class="box-img" src="~/assets/images/AB_toilet_paper.png" alt="">
       </div>

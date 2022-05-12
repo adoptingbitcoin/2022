@@ -7,9 +7,9 @@
       </GradientHeader>
 
       <div class="flex justify-around my-16">
-        <a href="https://twitter.com/AdoptingBTC"><img src="~/assets/images/twitter.png" class="h-20 md:h-32"></a>
-        <a href="https://www.linkedin.com/company/76150672"><img src="~/assets/images/linkedin.png" class="h-20 md:h-32"></a>
-        <a href="https://t.me/AdoptingBTC"><img src="~/assets/images/telegram.png" class="h-20 md:h-32"></a>
+        <a href="https://twitter.com/AdoptingBTC" target="_blank"><img src="~/assets/images/twitter.png" class="h-20 md:h-32"></a>
+        <a href="https://www.linkedin.com/company/76150672" target="_blank"><img src="~/assets/images/linkedin.png" class="h-20 md:h-32"></a>
+        <a href="https://t.me/AdoptingBTC" target="_blank"><img src="~/assets/images/telegram.png" class="h-20 md:h-32"></a>
       </div>
 
       <img src="~/assets/images/AB_snake_line.png" alt="">
