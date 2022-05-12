@@ -10,7 +10,7 @@
         <!-- <Logo /> -->
       </div>
       <div class="w-fit-content text-shadow">
-        <h1 class="text-3xl md:text-5xl">
+        <h1 class="text-3xl md:text-7xl">
           {{ $t('header.title') }}
         </h1>
         <h5 class="text-lg md:text-2xl">
@@ -21,6 +21,9 @@
         <h5 class="text-lg md:text-2xl">
           {{ $t('header.date') }}
         </h5>
+
+      </div>
+      <div class="w-full flex justify-end">
         <CTA class="shadow-none hidden md:block" href="#tickets">BUY YOUR TICKET</CTA>
       </div>
     </RepeatingImage>

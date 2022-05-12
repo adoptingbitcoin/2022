@@ -2,7 +2,7 @@
   <div class="footer">
     <RepeatingImage
       :image="require('~/assets/images/hero_footer.jpg')"
-      :mobileImage="require('~/assets/images/hero_footer_mobile.jpg')"
+      :mobile-image="require('~/assets/images/hero_footer_mobile.jpg')"
       :repeat-left="require('~/assets/images/hero_footer_left.png')"
       :repeat-right="require('~/assets/images/hero_footer_right.png')"
       class="py-2"
@@ -52,11 +52,11 @@
         </div>
         <div class="text-center">
           <a href="https://galoy.io/" target="_blank" class="galoy-holder">
-            <span class="text-white text-2xl">&#174;galoy.io </span>
+            <span class="text-white text-sm">The Adopting Bitcoin conference is hosted by &nbsp;</span>
+            <img class="galoy-logo" src="~/assets/images/galoy-logo.png">
           </a>
         </div>
       </div>
-
     </RepeatingImage>
   </div>
 </template>

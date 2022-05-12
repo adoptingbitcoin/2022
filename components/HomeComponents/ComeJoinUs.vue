@@ -6,7 +6,7 @@
         :repeat-left="require('~/assets/images/hero2_left.jpg')"
         :repeat-right="require('~/assets/images/hero2_right.jpg')"
       >
-        <h5 class="text-4xl md:text-8xl">{{ $t('comejoinus.title') }}</h5>
+        <h5 class="text-4xl md:text-8xl" v-html="$t('comejoinus.title')" />
       </RepeatingImage>
     </div>
   </div>

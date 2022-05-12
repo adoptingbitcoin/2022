@@ -7,7 +7,7 @@
     <div class="mx-auto">
 
       <NuxtLink to="/speaker-signup">
-        <CTA class="mx-auto">SUBMIT APPLICATION</CTA>
+        <CTA class="mx-auto">Call for participation</CTA>
       </NuxtLink>
     </div>
   </Container>

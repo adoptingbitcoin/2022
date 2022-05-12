@@ -11,7 +11,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div class="">
             <PinkTitle>{{ $t('locations.directions') }}</PinkTitle>
-            <span>{{ $t('locations.directionsText') }}</span>
+            <span v-html="$t('locations.directionsText')" />
           </div>
           <CTA href="#tickets" class="mx-auto">
             BUY YOUR TICKET

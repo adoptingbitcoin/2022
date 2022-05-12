@@ -11,18 +11,18 @@
     "date": "15 - 17 November 2022"
   },
   "comejoinus": {
-    "title": "Join us in El Salvador"
+    "title": "Join us in <br> El Salvador"
   },
   "jointhenetwork": {
-    "title": "Adopting Bitcoin is coming back to San Salvador",
+    "title": "Adopting bitcoin is back in El Salvador",
     "text1": "The Bitcoin Law of El Salvador created the most Bitcoin friendly environment in the world with millions of users and thousands of companies using the Bitcoin network in daily transactions.",
     "text2": "This novel situation comes with both, the challenge to onboard users, and the opportunity to learn from them for the benefit of the entire ecosystem - from protocol and application devs to entrepreneurs and investors.",
     "text3": "A successful adoption of Bitcoin at this scale will be a historic milestone that will benefit both Salvadorans and the Bitcoin ecosystem for years to come, and serve as a blueprint for peoples that want to follow the footprint of Salvadorans."
   },
   "locations": {
     "title": "IN THE HEART OF THE COUNTRY",
-    "directions": "WHEN",
-    "directionsText": "November 15, 16 & 17, 2022"
+    "directions": "When & Where",
+    "directionsText": "November 15, 16 & 17, 2022 <br> 89 Avenida Norte, San Salvador, SV"
   },
   "organizers": {
     "title": "ORGANIZING TEAM"
@@ -40,7 +40,7 @@
   "speakers": {
     "title": "SPEAKERS",
     "callforparticipation": "SPEAKERS SUBMISSION",
-    "callforparticipation_text": "If you’d like to speak at Adopting Bitcoin 2022, please fill out the submission form below. <strong>The deadline to submit your topic for Adopting Bitcoin is June 13, 2022.</strong>",
+    "callforparticipation_text": "If you’d like to speak at Adopting Bitcoin 2022, please fill out the submission form below. <br> <strong>The deadline to submit your topic for Adopting Bitcoin is July 17, 2022.</strong>",
 
     "signup": {
       "talkdetails": "TALK DETAILS",
@@ -68,8 +68,8 @@
     "proceeds": "All proceeds of the conference will be donated to the development of the Lightning Network."
   },
   "tickets": {
-    "title": "GRAB YOUR TICKET HERE",
-    "subtitle": "and get the <strong>early-bird special</strong> with an stunning <strong>15% discount on all tickets</strong> until 15 September.",
+    "title": "BUY YOUR TICKET HERE",
+    "subtitle": "Payable with bitcoin only.",
     "ticket1": "Basic",
     "ticket1Price": "$100",
     "ticket2": "Exclusive",
@@ -78,7 +78,7 @@
     "ticket3Price": "$200",
     "ticketsleft": "Tickets left",
     "earlyAdopters": {
-      "title": "NUMBER GO UP",
+      "title": "Ticket price schedule",
       "text": "We‘ve got our own „halving“ at work, get in early get the better price.",
       "afterText": "IT‘S GOING UP FOREVER, LAURA"
     },
