@@ -1,12 +1,12 @@
 ---
-name: "Rodrigo <br>Gómez"
+name: "Rodrigo <br>Gomez"
 function: Bitrefill
 img: rodrigogomez.jpg
 social: https://twitter.com/rodcostas
 prio: 6
 ---
 
-# Rodrigo Gómez
+# Rodrigo Gomez
  
 Blablablablablablablabla
 blablablabla
