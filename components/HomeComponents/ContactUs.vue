@@ -50,9 +50,9 @@
             {{ $t('menu.faq') }}
           </NuxtLink>
         </div>
-        <div class="text-center">
+        <div class="text-right md:text-center">
           <a href="https://galoy.io/" target="_blank" class="galoy-holder">
-            <span class="text-white text-sm text-eight-bit-madness">The Adopting Bitcoin conference is hosted by &nbsp;</span>
+            <span class="text-white text-sm text-eight-bit-madness block md:inline">The Adopting Bitcoin <br class="md:hidden"> conference is hosted by &nbsp;</span>
             <img class="h-6 md:h-12 inline-block" src="~/assets/images/galoy-logo.png">
           </a>
         </div>
