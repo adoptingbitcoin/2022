@@ -1,17 +1,14 @@
 <template>
   <Container>
-    <GradientHeader>{{ $t('speakers.callforparticipation') }}</GradientHeader>
+    <GradientHeader>{{ $t('sponsors.callforsponsors') }}</GradientHeader>
 
-    <p class="mb-5" v-html="$t('speakers.callforparticipation_text')" />
+    <p class="mb-5" v-html="$t('sponsors.callforsponsorsText')" />
 
     <div class="mx-auto">
 
-      <NuxtLink to="/speaker-signup" class="inline-block">
-        <CTA class="mx-auto">
-          Call for participation
-        </CTA>
+      <NuxtLink to="/sponsor-signup" class="inline-block">
+        <CTA class="mx-auto">Call for sponsors</CTA>
       </NuxtLink>
-
     </div>
   </Container>
 </template>
@@ -20,10 +17,9 @@
 import Container from '~/components/Container'
 import GradientHeader from '~/components/GradientHeader'
 import CTA from '~/components/CTA'
-import SponsorSignup from '~/components/HomeComponents/SponsorSignup'
 export default {
-  name: 'SpeakerSignup',
-  components: { SponsorSignup, CTA, GradientHeader, Container }
+  name: 'SponsorSignup',
+  components: { CTA, GradientHeader, Container }
 }
 </script>
 

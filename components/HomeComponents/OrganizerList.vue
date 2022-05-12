@@ -6,7 +6,15 @@
           {{ $t('organizers.title') }}
         </GradientHeader>
         <div class="grid grid-cols-2 md:grid-cols-5  grid-flow-row gap-4">
-          <Organizer v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" :speaker-href="speaker.social"/>
+          <Organizer v-for="(speaker, i) in organizers" :key="i" :index="i" :speaker="speaker" :speaker-href="speaker.social"/>
+        </div>
+
+
+        <GradientHeader class="my-10">
+          {{ $t('organizers.advisorsTitle') }}
+        </GradientHeader>
+        <div class="grid grid-cols-2 md:grid-cols-5  grid-flow-row gap-4">
+          <Organizer v-for="(speaker, i) in advisors" :key="i" :index="i" :speaker="speaker" :speaker-href="speaker.social"/>
         </div>
       </div>
 
@@ -22,7 +30,7 @@ import Container from '~/components/Container'
 export default {
   name: 'OrganizerList',
   components: { Container, BGGrey, GradientHeader, Organizer },
-  props: ['speakers']
+  props: ['organizers', 'advisors']
 }
 </script>
 

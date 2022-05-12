@@ -15,9 +15,9 @@
   },
   "jointhenetwork": {
     "title": "Adopting bitcoin is back in El Salvador",
-    "text1": "The Bitcoin Law of El Salvador created the most Bitcoin friendly environment in the world with millions of users and thousands of companies using the Bitcoin network in daily transactions.",
+    "text1": "The Bitcoin Law leveled the playing field between Bitcoin and the Dollar in El Salvador. Salvadorans went from 70% unbanked to having the option of using Bitcoin as money.",
     "text2": "This novel situation comes with both, the challenge to onboard users, and the opportunity to learn from them for the benefit of the entire ecosystem - from protocol and application devs to entrepreneurs and investors.",
-    "text3": "A successful adoption of Bitcoin at this scale will be a historic milestone that will benefit both Salvadorans and the Bitcoin ecosystem for years to come, and serve as a blueprint for peoples that want to follow the footprint of Salvadorans."
+    "text3": "A successful adoption of Bitcoin at this scale will be a historic milestone that could benefit both Salvadorans and the Bitcoin ecosystem for years to come, and serve as a blueprint for peoples that want to follow the footprint of Salvadorans."
   },
   "locations": {
     "title": "IN THE HEART OF THE COUNTRY",
@@ -25,7 +25,8 @@
     "directionsText": "November 15, 16 & 17, 2022 <br> 89 Avenida Norte, San Salvador, SV"
   },
   "organizers": {
-    "title": "ORGANIZING TEAM"
+    "title": "ORGANIZING TEAM",
+    "advisorsTitle": "ADVISORS"
   },
   "schedule": {
     "title": "CONVENTION SCHEDULE",
@@ -53,9 +54,13 @@
       "submit": "LETS PUSH THINGS FORWARD"
     }
   },
+  "lastyearsspeakers": {
+    "title": "Last years speakers"
+  },
   "sponsors": {
     "title": "SPONSORS",
-    "callforsponsors": "CALL FOR SPONSORS"
+    "callforsponsors": "CALL FOR SPONSORS",
+    "callforsponsorsText": "Support Adopting Bitcoin"
   },
   "subscribe": {
     "title": "SUBSCRIBE TO OUR MAILING LIST",

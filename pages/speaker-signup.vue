@@ -1,6 +1,6 @@
 <template>
   <div class="w-full">
-    <Nav class="navIsHidden" :class="{ 'navIsVisible': navIsVisible, 'hidden': hideNav }" />
+    <Nav />
     <RepeatingImage
       :image="require('~/assets/images/hero1.jpg')"
       :repeat-left="require('~/assets/images/hero1_left.jpg')"
@@ -24,21 +24,11 @@
 </template>
 
 <script>
-import Header from '~/components/FAQComponents/Header'
-import FAQList from '~/components/FAQComponents/FAQList'
 import Container from '~/components/Container'
 import ContactUs from '~/components/HomeComponents/ContactUs'
-import RepeatingImage from "~/components/RepeatingImage";
+import RepeatingImage from '~/components/RepeatingImage';
 export default {
-  components: {RepeatingImage, ContactUs, Container, FAQList, Header },
-  async asyncData ({ $content, params, i18n }) {
-    const faq = await $content('faq', params.slug)
-      .where({ language: i18n.locale })
-      .fetch()
-    return {
-      faq
-    }
-  },
+  components: { RepeatingImage, ContactUs, Container },
   head () {
     const i18nHead = this.$nuxtI18nHead({ addSeoAttributes: true })
     return {

@@ -7,11 +7,13 @@
     <ComeJoinUs />
     <Locations id="location" :locations="locations" />
     <!-- Speaker submission -->
+    <LastYearSpeakerList :speakers="lastyearspeakers" />
     <SpeakerSignup />
+    <SponsorSignup />
     <!-- <Schedule /> -->
     <Tickets id="tickets" />
     <!-- <Sponsors id="sponsors" :sponsors="sponsors" /> -->
-    <OrganizerList id="organizers" :speakers="organizers" />
+    <OrganizerList id="organizers" :organizers="organizers" :advisors="advisors" />
     <!-- Get in touch -->
     <Subscribe id="news" />
     <ContactUs />
@@ -31,16 +33,44 @@ import OrganizerList from '~/components/HomeComponents/OrganizerList'
 import Tickets from '~/components/HomeComponents/Tickets'
 import Sponsors from '~/components/HomeComponents/Sponsors'
 import Nav from '~/components/Nav'
-import SpeakerSignup from "~/components/HomeComponents/SpeakerSignup";
+import SpeakerSignup from '~/components/HomeComponents/SpeakerSignup'
+import LastYearSpeakerList from '~/components/HomeComponents/LastYearSpeakerList'
+import SponsorSignup from "~/components/HomeComponents/SponsorSignup";
 export default {
-  components: {SpeakerSignup, Nav, Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: {
+    SponsorSignup,
+    LastYearSpeakerList,
+    SpeakerSignup,
+    Nav,
+    Sponsors,
+    Tickets,
+    OrganizerList,
+    ContactUs,
+    Subscribe,
+    Locations,
+    Schedule,
+    ComeJoinUs,
+    SpeakerList,
+    JoinTheNetwork,
+    Header
+  },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug', 'showPage', 'twitter', 'url'])
       .sortBy('prio', 'asc')
       .fetch()
 
+    const lastyearspeakers = await $content('lastyearsspeakers', params.slug)
+      .only(['name', 'function', 'img', 'slug', 'showPage', 'twitter', 'url'])
+      .sortBy('prio', 'asc')
+      .fetch()
+
     const organizers = await $content('organizers', params.slug)
+      .only(['name', 'function', 'social', 'img', 'slug'])
+      .sortBy('prio', 'asc')
+      .fetch()
+
+    const advisors = await $content('advisors', params.slug)
       .only(['name', 'function', 'social', 'img', 'slug'])
       .sortBy('prio', 'asc')
       .fetch()
@@ -71,8 +101,10 @@ export default {
     return {
       speakers,
       organizers,
+      advisors,
       locations,
-      sponsors
+      sponsors,
+      lastyearspeakers
     }
   },
   data () {

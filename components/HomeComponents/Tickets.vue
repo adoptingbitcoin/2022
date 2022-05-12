@@ -9,8 +9,8 @@
       <div class="grid grid-cols-2 grid-flow-row gap-4">
         <a href="https://pretix.eu/galoy/ab22/" target="_blank" class="ticket ticket-1 p-16" />
         <span class="ticket ticket-2 ticket-unavailable p-16" />
-        <span class="ticket ticket-3 ticket-unavailable p-16" />
-        <span class="ticket ticket-4 ticket-unavailable p-16" />
+<!--        <span class="ticket ticket-3 ticket-unavailable p-16" />-->
+<!--        <span class="ticket ticket-4 ticket-unavailable p-16" />-->
       </div>
 
       <GradientHeader class="mt-8">
@@ -36,9 +36,11 @@
           </div>
         </div>
       </div>
-      <GradientHeader class="mt-8 text-2xl">
+      <GradientHeader class="mt-8 md:text-4xl">
         {{ $t('tickets.earlyAdopters.afterText') }}
       </GradientHeader>
+
+      <SponsorSignup />
 
       <div class="w-full my-5">
         <img class="box-img" src="~/assets/images/AB_toilet_paper.png" alt="">
@@ -51,9 +53,11 @@
 import Container from '~/components/Container'
 import GradientHeader from '~/components/GradientHeader'
 import BlueTitle from '~/components/BlueTitle'
+import SponsorSignup from "~/components/HomeComponents/SponsorSignup";
 export default {
   name: 'Tickets',
   components: {
+    SponsorSignup,
     BlueTitle,
     GradientHeader,
     Container

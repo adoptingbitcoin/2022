@@ -52,7 +52,7 @@
         </div>
         <div class="text-center">
           <a href="https://galoy.io/" target="_blank" class="galoy-holder">
-            <span class="text-white text-sm">The Adopting Bitcoin conference is hosted by &nbsp;</span>
+            <span class="text-white text-sm text-eight-bit-madness">The Adopting Bitcoin conference is hosted by &nbsp;</span>
             <img class="galoy-logo" src="~/assets/images/galoy-logo.png">
           </a>
         </div>

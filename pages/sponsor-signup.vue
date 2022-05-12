@@ -6,31 +6,31 @@
       :repeat-left="require('~/assets/images/hero1_left.jpg')"
       :repeat-right="require('~/assets/images/hero1_right.jpg')"
     >
-      <h1 class="text-3xl md:text-5xl text-white">
-        FAQ
-      </h1>
+        <h1 class="text-3xl md:text-5xl text-white">
+          Sponsor Signup
+        </h1>
 
     </RepeatingImage>
     <Container>
-      <div v-for="item in faq" :key="item.slug" class="">
-        <div class="mb-14">
-          <h3 class="text-2xl my-3">
-            {{ item.title }}
-          </h3>
-          <FAQList :faq-list="item.faq" />
-        </div>
-      </div>
+      <iframe
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdsbXruIU-etZq3JL-08UITHXAJioCwqlSyVv-NUEPSbD6pNQ/viewform?embedded=true"
+        width="100%"
+        height="1600px"
+        class="mx-auto"
+      >Loading…</iframe>
     </Container>
     <ContactUs />
   </div>
 </template>
 
 <script>
+import Header from '~/components/FAQComponents/Header'
 import FAQList from '~/components/FAQComponents/FAQList'
 import Container from '~/components/Container'
 import ContactUs from '~/components/HomeComponents/ContactUs'
+import RepeatingImage from "~/components/RepeatingImage";
 export default {
-  components: { ContactUs, Container, FAQList },
+  components: {RepeatingImage, ContactUs, Container, FAQList, Header },
   async asyncData ({ $content, params, i18n }) {
     const faq = await $content('faq', params.slug)
       .where({ language: i18n.locale })

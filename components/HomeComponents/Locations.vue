@@ -13,9 +13,6 @@
             <PinkTitle>{{ $t('locations.directions') }}</PinkTitle>
             <span v-html="$t('locations.directionsText')" />
           </div>
-          <CTA href="#tickets" class="mx-auto">
-            BUY YOUR TICKET
-          </CTA>
         </div>
       </div>
 
