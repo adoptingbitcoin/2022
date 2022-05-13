@@ -24,14 +24,6 @@ export default {
 </script>
 
 <style scoped>
-.cta-border{
-  background: linear-gradient(to right, red, blue);
-  height: fit-content;
-}
-.cta-border-grey{
-   background: darkgrey;
-   height: fit-content;
- }
 input:not([type="radio"]), textarea{
   text-align: center;
   height: 100%;

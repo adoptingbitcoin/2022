@@ -2,6 +2,6 @@
 name: "Vlad <br> Costea"
 function: BTCTKVR
 img: vladcostea.jpg
-social: 
+social: https://twitter.com/TheVladCostea
 prio: 4
 ---

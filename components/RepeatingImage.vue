@@ -12,11 +12,11 @@
       <div class="hidden md:block bg-right side-image" :style="{ 'background-image': 'url(' + repeatRight + ')' }" />
     </div>
 
-    <Container class="title-container py-2">
+    <SlimContainer class="title-container py-2">
       <div class="px-5">
         <slot />
       </div>
-    </Container>
+    </SlimContainer>
   </div>
 </template>
 

@@ -28,7 +28,7 @@
         <Menu class="inline-block vertical-align-middle"/>
       </div>
     </div>
-    <div :class="{ 'opacity-0': view.atTopOfPage }" class="bg-gradient-to-r from-yellow via-red to-red rounded mt-2 md:mt-5 w-100" style="height: 5px" />
+    <div :class="{ 'opacity-0': view.atTopOfPage }" class="bg-gradient-to-r from-pink to-blue rounded mt-2 md:mt-5 w-100" style="height: 5px" />
   </div>
 </template>
 
@@ -77,7 +77,7 @@ export default {
   opacity: 0;
   width: 100%;
   height: 100%;
-  background-image: url("~/assets/images/hero1.jpg");
+  background-image: url("~/assets/images/sticky_header.png");
   background-size: cover;
   background-position: top center;
   -webkit-transition: background-image 0.2s ease-in-out;
@@ -95,6 +95,9 @@ img.logo{
   width: auto!important;
 }
 @media (max-width: 768px){
+  .background {
+    background-image: url("~/assets/images/sticky_header_mobile.png");
+  }
   img.logo{
     height: 75px!important;
   }

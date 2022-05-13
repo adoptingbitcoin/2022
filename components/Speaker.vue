@@ -66,7 +66,7 @@ article{
   filter: none;
 }
 .image-border{
-  background: linear-gradient(to right, #ffcc00, #e60000);
+  background: linear-gradient(to right, #ed67af, #4accf2);
   width: fit-content;
   height: fit-content;
   margin: auto;
