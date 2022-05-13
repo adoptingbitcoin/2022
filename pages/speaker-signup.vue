@@ -7,7 +7,7 @@
       :repeat-right="require('~/assets/images/hero1_right.jpg')"
     >
         <h1 class="text-3xl md:text-5xl text-white">
-          Call for Participation
+          Call for Speakers
         </h1>
 
     </RepeatingImage>
