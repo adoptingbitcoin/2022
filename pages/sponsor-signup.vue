@@ -45,7 +45,7 @@ export default {
       htmlAttrs: {
         ...i18nHead.htmlAttrs
       },
-      title: 'FAQ - ' + this.$t('seo.title'),
+      title: 'Sponsor Signup - ' + this.$t('seo.title'),
       meta: [
         {
           hid: 'description',
