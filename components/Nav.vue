@@ -7,10 +7,10 @@
           <Logo class="p-2 logo" />
         </div>
         <div class="md:inline-block vertical-align-bottom hidden">
-          <h1 class="text-xl md:text-3xl">
+          <h1 class="text-xl md:text-4xl text-shadow">
             {{ $t('header.title') }}
           </h1>
-          <h5 class="md:text-xl">
+          <h5 class="md:text-2xl text-shadow">
             {{ $t('header.subtitle') }}
           </h5>
         </div>
@@ -35,9 +35,11 @@
 <script>
 import Logo from '~/components/Logo'
 import Menu from '~/components/Menu'
+import SlimContainer from "~/components/SlimContainer";
 export default {
   name: 'Nav',
   components: {
+    SlimContainer,
     Menu,
     Logo
   },
@@ -86,6 +88,9 @@ export default {
   top: 0;
   left: 0;
   z-index: -9999;
+}
+.text-shadow {
+  text-shadow: 0 4px 4px black;
 }
 .background.scrolled{
   opacity: 1;

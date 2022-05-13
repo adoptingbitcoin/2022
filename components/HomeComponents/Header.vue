@@ -10,15 +10,15 @@
         <!-- <Logo /> -->
       </div>
       <div class="w-fit-content text-shadow">
-        <h1 class="text-3xl md:text-7xl">
+        <h1 class="text-4xl md:text-8xl">
           {{ $t('header.title') }}
         </h1>
-        <h5 class="text-lg md:text-2xl">
+        <h5 class="text-lg md:text-4xl">
           {{ $t('header.subtitle') }}
         </h5>
         <div class="bg-white rounded my-5" style="height: 5px" />
 
-        <h5 class="text-lg md:text-2xl">
+        <h5 class="text-lg md:text-4xl">
           {{ $t('header.date') }}
         </h5>
 
@@ -30,7 +30,7 @@
         <CTA class="shadow-none md:hidden" href="#tickets">BUY YOUR TICKET</CTA>
       </div>
     </RepeatingImage>
-    <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
+    <div class="w-full absolute right-0 top-0 mt-3">
 <!--      <div class="mr-5">-->
 <!--        <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">-->
 <!--          English-->
@@ -39,7 +39,11 @@
 <!--          Español-->
 <!--        </nuxt-link>-->
 <!--      </div>-->
-      <Menu class="inline-block vertical-align-middle" />
+
+      <SlimContainer class="flex items-center justify-end">
+        <Menu class="inline-block vertical-align-middle mr-3" />
+      </SlimContainer>
+
     </div>
   </div>
 </template>

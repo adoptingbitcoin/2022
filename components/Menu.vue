@@ -1,9 +1,9 @@
 <template>
   <div class="">
     <div class="trigger" @click="menuIsShown = true">
-      <div class="bg-white line m-2" />
-      <div class="bg-white line m-2" />
-      <div class="bg-white line m-2" />
+      <div class="line m-2" />
+      <div class="line m-2" />
+      <div class="line m-2" />
     </div>
 
     <div
@@ -62,8 +62,9 @@ export default {
 
 <style scoped>
 .line{
-  height: 2px;
+  height: 3px;
   width: 50px;
+  background-color: #303549;
 }
 
 .link{

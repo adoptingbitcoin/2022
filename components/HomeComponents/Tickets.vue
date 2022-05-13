@@ -36,7 +36,7 @@
           </div>
         </div>
       </div>
-      <GradientHeader class="mt-8 md:text-4xl">
+      <GradientHeader class="mt-8 md:text-4xl" style="text-transform: none!important;">
         {{ $t('tickets.earlyAdopters.afterText') }}
       </GradientHeader>
 
