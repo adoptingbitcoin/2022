@@ -8,7 +8,7 @@
 
       <NuxtLink to="/speaker-signup" class="inline-block">
         <CTA class="mx-auto">
-          Call for participation
+          Submit Talk
         </CTA>
       </NuxtLink>
 

@@ -7,7 +7,7 @@
     <div class="mx-auto">
 
       <NuxtLink to="/sponsor-signup" class="inline-block">
-        <CTA class="mx-auto">Call for sponsors</CTA>
+        <CTA class="mx-auto">Reach out</CTA>
       </NuxtLink>
     </div>
   </Container>
