@@ -1,5 +1,5 @@
 <template>
-  <h2 class="text-3xl font-bold py-5 relative block text-pink">
+  <h2 class="text-3xl font-bold py-5 relative block text-pink uppercase">
     <slot></slot>
   </h2>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <h2 class="text-3xl md:text-5xl font-bold relative block">
+  <h2 class="text-3xl md:text-5xl font-bold relative block uppercase">
     <slot></slot>
   </h2>
 </template>
