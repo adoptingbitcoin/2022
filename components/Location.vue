@@ -3,7 +3,9 @@
     <div class="grid grid-cols-1  md:grid-cols-2 gap-5">
       <img :src="computedImg">
       <div class="">
-        <BlueTitle v-html="location.name"></BlueTitle>
+        <BlueTitle>
+          The Crowne Plaza<br class="md:hidden"> San Salvador
+        </BlueTitle>
         <p>
           {{ location.description }}
         </p>

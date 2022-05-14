@@ -1,14 +1,17 @@
 <template>
   <div>
       <Container>
+        <div class="border-darkblue border-4 rounded p-5 bg-white">
         <GradientHeader class="mb-10">
           {{ $t('lastyearsspeakers.title') }}
         </GradientHeader>
         <p class="my-5">
           Over 70 prolific speakers joined us last year! Many more will be making their way to El Salvador this year as well.
         </p>
-        <div class="grid grid-cols-2 md:grid-cols-5  grid-flow-row gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4  grid-flow-row gap-4">
           <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" url-override="https://adoptingbitcoin.org/2021/#speakers" />
+        </div>
+
         </div>
       </Container>
   </div>

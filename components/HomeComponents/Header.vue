@@ -9,14 +9,14 @@
       <div class="md:inline-block mr-4 hidden">
         <!-- <Logo /> -->
       </div>
-      <div class="w-fit-content text-shadow">
-        <h1 class="text-4xl md:text-8xl">
+      <div class="w-fit-content text-shadow mobile-line-height">
+        <h1 class="text-4xl md:text-8xl mobile-line-height">
           {{ $t('header.title') }}
         </h1>
-        <h5 class="text-lg md:text-4xl">
+        <h5 class="text-lg md:text-4xl mobile-line-height">
           {{ $t('header.subtitle') }}
         </h5>
-        <div class="bg-white rounded my-5" style="height: 5px" />
+        <div class="bg-white rounded my-2 md:my-5" style="height: 5px" />
 
         <h5 class="text-lg md:text-4xl">
           {{ $t('header.date') }}
@@ -66,6 +66,12 @@ export default {
 </script>
 
 <style scoped>
+
+@media (max-width: 768px) {
+  .mobile-line-height {
+    line-height: 1.5rem;
+  }
+}
 
 .title-container{
   position: absolute;

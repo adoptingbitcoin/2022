@@ -4,6 +4,7 @@
     <div class="relative bg-rainbow" >
       <RepeatingImage
         :image="require('~/assets/images/hero1.jpg')"
+        :mobile-image="require('~/assets/images/hero1_mobile.jpg')"
         :repeat-left="require('~/assets/images/hero1_left.jpg')"
         :repeat-right="require('~/assets/images/hero1_right.jpg')"
         v-view="headerScrollHandler"

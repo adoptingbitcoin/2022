@@ -7,9 +7,11 @@
     <ComeJoinUs />
     <Locations id="location" :locations="locations" />
     <!-- Speaker submission -->
-    <LastYearSpeakerList :speakers="lastyearspeakers" />
-    <SpeakerSignup />
-    <SponsorSignup />
+    <div class="bg-rainbow-right bg-contain bg-left">
+      <LastYearSpeakerList :speakers="lastyearspeakers" />
+      <SpeakerSignup />
+      <SponsorSignup />
+    </div>
     <!-- <Schedule /> -->
     <Tickets id="tickets" />
     <!-- <Sponsors id="sponsors" :sponsors="sponsors" /> -->
