@@ -12,7 +12,7 @@
       <div class="hidden md:block bg-right side-image" :style="{ 'background-image': 'url(' + repeatRight + ')' }" />
     </div>
 
-    <SlimContainer class="title-container py-2">
+    <SlimContainer class="title-container py-2 z-10">
       <div class="px-5">
         <slot />
       </div>
@@ -57,7 +57,7 @@ export default {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 0;
+  z-index: 1;
   background-size: contain;
   background-position: top center;
   background-repeat: no-repeat;
@@ -68,7 +68,7 @@ export default {
   height: 100%;
   position: absolute;
   top: 0;
-  z-index: -1;
+  z-index: 0;
   background-size: contain;
   background-repeat: repeat-x;
 }

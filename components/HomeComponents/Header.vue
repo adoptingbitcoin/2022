@@ -41,7 +41,7 @@
 <!--      </div>-->
 
       <SlimContainer class="flex items-center justify-end">
-        <Menu class="inline-block vertical-align-middle mr-3" />
+        <Menu class="inline-block vertical-align-middle mr-3 z-50" />
       </SlimContainer>
 
     </div>

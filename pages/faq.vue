@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
-    <Nav />
-    <div class="relative" >
+    <Nav class="navIsHidden z-50" :class="{ 'navIsVisible': navIsVisible }" />
+    <div class="relative bg-rainbow" >
       <RepeatingImage
         :image="require('~/assets/images/hero1.jpg')"
         :repeat-left="require('~/assets/images/hero1_left.jpg')"
@@ -12,11 +12,23 @@
           <h1 class="text-4xl md:text-8xl">
             {{ $t('header.title') }}
           </h1>
-          <h5 class="text-lg md:text-6xl">
+          <h5 class="text-lg md:text-4xl">
+            {{ $t('header.subtitle') }}
+          </h5>
+          <div class="bg-white rounded my-5" style="height: 5px" />
+
+          <h5 class="text-lg md:text-4xl">
             FAQ
           </h5>
+
         </div>
       </RepeatingImage>
+      <div class="w-full absolute right-0 top-0 mt-3">
+        <SlimContainer class="flex items-center justify-end">
+          <Menu class="inline-block vertical-align-middle mr-3 z-50" />
+        </SlimContainer>
+
+      </div>
     </div>
     <Container>
       <div v-for="item in faq" :key="item.slug" class="">
@@ -54,10 +66,6 @@ export default {
       navIsVisible: {
         type: Boolean,
         default: false
-      },
-      hideNav: {
-        type: Boolean,
-        default: true
       }
     }
   },
@@ -134,4 +142,14 @@ export default {
 </script>
 
 <style scoped>
+.navIsHidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+.navIsVisible {
+  visibility: visible;
+  opacity: 1!important;
+  transition: opacity 0.5s ease;
+}
 </style>

@@ -1,14 +1,25 @@
 <template>
-  <div class="w-full">
+  <div class="w-full bg-rainbow">
     <Nav />
     <RepeatingImage
       :image="require('~/assets/images/hero1.jpg')"
       :repeat-left="require('~/assets/images/hero1_left.jpg')"
       :repeat-right="require('~/assets/images/hero1_right.jpg')"
     >
-        <h1 class="text-3xl md:text-5xl text-white">
-          Sponsor Signup
+      <div class="w-fit-content text-shadow text-white">
+        <h1 class="text-4xl md:text-8xl">
+          {{ $t('header.title') }}
         </h1>
+        <h5 class="text-lg md:text-4xl">
+          {{ $t('header.subtitle') }}
+        </h5>
+        <div class="bg-white rounded my-5" style="height: 5px" />
+
+        <h5 class="text-lg md:text-4xl">
+          Sponsor Signup
+        </h5>
+
+      </div>
 
     </RepeatingImage>
     <Container>

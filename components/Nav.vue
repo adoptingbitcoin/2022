@@ -2,6 +2,7 @@
   <div class="fixed top-0 left-0 w-100 nav-bar z-50 text-white">
     <div class="w-100-vw pt-1 md:pt-3">
       <div class="background" :class="{ 'scrolled': !view.atTopOfPage }" />
+      <SlimContainer class="relative">
       <NuxtLink to="/">
         <div class="inline-block mr-4">
           <Logo class="p-2 logo" />
@@ -26,7 +27,9 @@
 <!--          </nuxt-link>-->
 <!--        </div>-->
         <Menu class="inline-block vertical-align-middle"/>
+
       </div>
+      </SlimContainer>
     </div>
     <div :class="{ 'opacity-0': view.atTopOfPage }" class="bg-gradient-to-r from-pink to-blue rounded mt-2 md:mt-5 w-100" style="height: 5px" />
   </div>

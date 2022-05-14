@@ -1,7 +1,7 @@
 <template>
   <div class="cta-border p-1 rounded mx-0 my-5">
     <div class="bg-white">
-      <a :href="href" :target="target" class="cta-a text-lg font-bold px-5 py-2 relative block">
+      <a :href="href" :target="target" class="cta-a text-lg font-bold px-5 py-2 relative block whitespace-nowrap">
         <slot />
       </a>
     </div>
