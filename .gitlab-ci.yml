@@ -1,17 +1,20 @@
 stages:
   - test
+  - build
   - deploy
 
-# run SAST (Security tests)
-include:
-- template: Security/SAST.gitlab-ci.yml
-
-pages:
+build:
   image: node:14
-  stage: deploy
+  stage: build
+  cache:
+    key:
+      files:
+        - package-lock.json
+    paths:
+      - .npm/
   script:
     - set -e
-    - npm install
+    - npm ci --cache .npm --prefer-offline
     - npm run generate
     - cp -r dist public
   artifacts:
@@ -19,12 +22,41 @@ pages:
       - public
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
+    - if: '$CI_COMMIT_BRANCH == "staging"'
+
+.deploy:
+  stage: deploy
+  image: eeacms/rsync:2.3
+  artifacts:
+    paths:
+      - public
+  script:
+    - chmod 400 $SSH_KEY
+    - rsync -Pavp --delete --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/${DEPLOY_PATH}
+
+deploy_main:
+  extends:
+    - .deploy
+  variables:
+    DEPLOY_PATH: "public_html/2022"
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
+
+deploy_staging:
+  extends:
+    - .deploy
+  variables:
+    DEPLOY_PATH: "staging.adoptingbitcoin.org/2022"
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "staging"'
+
 
 purge_cache:
   image: curlimages/curl:7.78.0
   stage: .post
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'
+    - if: '$CI_COMMIT_BRANCH == "staging"'
   script:
     - |
       set -e
@@ -35,6 +67,3 @@ purge_cache:
            -d $'{
         "purge_everything": true
       }'
-
-
-

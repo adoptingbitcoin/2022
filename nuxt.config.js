@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Adopting Bitcoin – A Lightning Summit 2021',
+    title: 'Adopting Bitcoin – A Lightning Summit 2022',
     htmlAttrs: {
       lang: 'en'
     },
@@ -42,7 +42,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/eslint
-    '@nuxtjs/eslint-module',
+    // '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
     '@nuxtjs/style-resources'
@@ -76,12 +76,13 @@ export default {
     ]
   },
   router: {
+    base: '/2022/',
     scrollBehavior: async (to, from, savedPosition) => {
       if (savedPosition) {
         return savedPosition
       }
 
-      const findEl = async (hash, x) => {
+      const findEl = (hash, x) => {
         return document.querySelector(hash) ||
           new Promise((resolve, reject) => {
             if (x > 50) {
@@ -106,11 +107,11 @@ export default {
 
   i18n: {
     lazy: false,
-    baseUrl: 'https://adoptingbitcoin.org',
+    baseUrl: 'https://adoptingbitcoin.org/2022',
     seo: true,
     locales: [
-      { code: 'en', file: 'en.json', iso: 'en-US' },
-      { code: 'es', file: 'es.json', iso: 'es-ES' }
+      { code: 'en', file: 'en.json', iso: 'en-US' }
+      // { code: 'es', file: 'es.json', iso: 'es-ES' }
     ],
     langDir: '~/locales',
     defaultLocale: 'en',

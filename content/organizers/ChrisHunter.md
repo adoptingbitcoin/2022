@@ -1,6 +1,6 @@
 ---
 name: "Chris <br>Hunter"
-function: Galoy / Co-host
+function: BBW / Co-host
 img: chrishunter.jpg
 social: https://twitter.com/btcnyc
 prio: 2

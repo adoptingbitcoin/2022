@@ -24,49 +24,49 @@ Stefan Richter and René Pickhardt will present their new approach to multi-path
 <div class="p-3 my-2">
 
 **Listen - Lightning Series: Mastering Lightning with Andreas M. Antonopoulos & René Pickhardt** <br><br>
-[ ![Lightning Series: Mastering Lightning with Andreas M. Antonopoulos & René Pickhardt](/content/rene_whatbitcoindid.png)](https://www.whatbitcoindid.com/podcast/mastering-lightning/)
+[ ![Lightning Series: Mastering Lightning with Andreas M. Antonopoulos & René Pickhardt](/2022/content/rene_whatbitcoindid.png)](https://www.whatbitcoindid.com/podcast/mastering-lightning/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Rene Pickhardt - Introduction to the Lightning Network Protocol** <br><br>
-[ ![Introduction to the Lightning Network Protocol](/content/rene_lnprotocol.png)](https://upload.wikimedia.org/wikipedia/commons/b/b7/Introduction_to_the_Lightning_Network_Protocol_and_the_Basics_of_Lightning_Technology_%28BOLT_aka_Lightning-rfc%29.pdf)
+[ ![Introduction to the Lightning Network Protocol](/2022/content/rene_lnprotocol.png)](https://upload.wikimedia.org/wikipedia/commons/b/b7/Introduction_to_the_Lightning_Network_Protocol_and_the_Basics_of_Lightning_Technology_%28BOLT_aka_Lightning-rfc%29.pdf)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Optimally Reliable & Cheap Payment Flows on the Lightning Network** <br><br>
-[ ![Optimally Reliable & Cheap Payment Flows on the Lightning Network](/content/rene_reliable1.png)](https://arxiv.org/abs/2107.05322/)
+[ ![Optimally Reliable & Cheap Payment Flows on the Lightning Network](/2022/content/rene_reliable1.png)](https://arxiv.org/abs/2107.05322/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Security and Privacy of Lightning Network Payments with Uncertain Channel Balances** <br><br>
-[ ![Security and Privacy of Lightning Network Payments with Uncertain Channel Balances](/content/rene_uncertain.png)](https://arxiv.org/abs/2103.08576/)
+[ ![Security and Privacy of Lightning Network Payments with Uncertain Channel Balances](/2022/content/rene_uncertain.png)](https://arxiv.org/abs/2103.08576/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Imbalance measure and proactive channel rebalancing algorithm for the Lightning Network** <br><br>
-[ ![Imbalance measure and proactive channel rebalancing algorithm for the Lightning Network](/content/rene_proactive.png)](https://arxiv.org/abs/1912.09555/)
+[ ![Imbalance measure and proactive channel rebalancing algorithm for the Lightning Network](/2022/content/rene_proactive.png)](https://arxiv.org/abs/1912.09555/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Lightning Network Protocol Suite** <br><br>
-[ ![Lightning Network Protocol Suite](/content/rene_suite.png)](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lightning_Network_Protocol_Suite.png)
+[ ![Lightning Network Protocol Suite](/2022/content/rene_suite.png)](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lightning_Network_Protocol_Suite.png)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Rene Pickhardt's Youtube Channel** <br><br>
-[ ![Rene Pickhardt's Youtube Channel](/content/rene_youtube.png)](https://www.youtube.com/renepickhardt/)
+[ ![Rene Pickhardt's Youtube Channel](/2022/content/rene_youtube.png)](https://www.youtube.com/renepickhardt/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Rene Pickhardt Talks LN Fee Blackmail Attacks** <br><br>
-[ ![Rene Pickhardt Talks LN Fee Blackmail Attacks - LNJ034](/content/rene_junkies.png)](https://lightningjunkies.net/lnj034-rene-pickhardt-talks-ln-blackmail-attacks/)
+[ ![Rene Pickhardt Talks LN Fee Blackmail Attacks - LNJ034](/2022/content/rene_junkies.png)](https://lightningjunkies.net/lnj034-rene-pickhardt-talks-ln-blackmail-attacks/)
 </div>
 
 </div>

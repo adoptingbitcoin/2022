@@ -38,31 +38,31 @@ Jonas Nick - Bitcoin Research Blockstream<br><br>
 <div class="p-3 my-2">
 
 **Watch - Optimizing Bitcoin with Gloria Zhao** <br><br>
-[ ![Optimizing Bitcoin with Gloria Zhao](/content/gloria_bm.png)](https://www.youtube.com/watch?v=byUf8r61qc0/)
+[ ![Optimizing Bitcoin with Gloria Zhao](/2022/content/gloria_bm.png)](https://www.youtube.com/watch?v=byUf8r61qc0/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - SLP216 Gloria Zhao: Learning Bitcoin Core contribution & hosting PR Review Club** <br><br>
-[ ![SLP216 Gloria Zhao: Learning Bitcoin Core contribution & hosting PR Review Club](/content/gloria_livera.png)](https://stephanlivera.com/episode/216/)
+[ ![SLP216 Gloria Zhao: Learning Bitcoin Core contribution & hosting PR Review Club](/2022/content/gloria_livera.png)](https://stephanlivera.com/episode/216/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Gloria Zhao: A College Student’s Journey to Bitcoin Core Development** <br><br>
-[ ![Gloria Zhao: A College Student’s Journey to Bitcoin Core Development](/content/gloria_anita.png)](https://bitcoinundco.com/en/gloria-zhao/)
+[ ![Gloria Zhao: A College Student’s Journey to Bitcoin Core Development](/2022/content/gloria_anita.png)](https://bitcoinundco.com/en/gloria-zhao/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Map of the Bitcoin Network** <br><br>
-[ ![Map of the Bitcoin Network](/content/gloria_map.png)](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3/)
+[ ![Map of the Bitcoin Network](/2022/content/gloria_map.png)](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Digital Panopticon: Why Privacy is a Human Right** <br><br>
-[ ![Digital Panopticon: Why Privacy is a Human Right](/content/gloria_privacy.png)](https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-human-right-2ab6dae77433/)
+[ ![Digital Panopticon: Why Privacy is a Human Right](/2022/content/gloria_privacy.png)](https://medium.com/blockchain-at-berkeley/digital-panopticon-why-privacy-is-a-human-right-2ab6dae77433/)
 </div>
 
 </div>

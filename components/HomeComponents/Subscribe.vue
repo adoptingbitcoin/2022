@@ -1,28 +1,47 @@
 <template>
   <div class="container mx-auto">
     <Container>
-      <BlueTitle class="">
+
+      <GradientHeader class="text-center mx-auto">
+        GET IN TOUCH
+      </GradientHeader>
+
+      <div class="flex justify-around my-16">
+        <div class="hidden md:block"></div>
+        <a href="https://twitter.com/AdoptingBTC" target="_blank"><img src="~/assets/images/twitter.png" class="h-20 "></a>
+        <a href="https://www.linkedin.com/company/76150672" target="_blank"><img src="~/assets/images/linkedin.png" class="h-20"></a>
+        <a href="https://t.me/AdoptingBTC" target="_blank"><img src="~/assets/images/telegram.png" class="h-20"></a>
+        <div class="hidden md:block"></div>
+      </div>
+
+      <img src="~/assets/images/AB_snake_line.png" alt="">
+
+      <GradientHeader class="text-center mx-auto">
         {{ $t('subscribe.title') }}
-      </BlueTitle>
+      </GradientHeader>
       <div class="mx-auto">
-        <p class="mb-10">
-          {{ $t('subscribe.text') }}
-        </p>
 
         <form @submit.prevent="subscribe">
-          <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
-            <div class="bg-white px-5 py-2">
-              <input v-model="email" type="email" :placeholder="$t('subscribe.enteremail')">
+          <div class="grid grid-cols-2 md:grid-cols-3 my-5 gap-2">
+
+            <div class="col-span-2 border-darkblue border-4 p-1 rounded mx-auto text-center w-full md:inline-block">
+              <div class="bg-white px-5 py-2">
+                <input v-model="email" type="email" :placeholder="$t('subscribe.entermail')" class="w-full">
+              </div>
             </div>
+
+            <div class="col-span-2 md:col-span-1 border-darkblue border-4 p-1 rounded mx-auto text-center md:inline-block w-full md:ml-5">
+              <div class="bg-white px-5 py-2 text-eight-bit-madness">
+                <button type="submit" class="w-full">
+                  {{ $t('subscribe.signup') }}
+                </button>
+              </div>
+            </div>
+
           </div>
 
-          <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto md:ml-5">
-            <div class="bg-white px-5 py-2">
-              <button type="submit">
-                {{ $t('subscribe.signup') }}
-              </button>
-            </div>
-          </div>
+
+
           <div v-if="error">
             There was an Error! <br>
             {{ errorMessage }}
@@ -35,6 +54,7 @@
           </div>
         </form>
       </div>
+      <img src="~/assets/images/AB_snake_line.png" alt="">
     </Container>
   </div>
 </template>
@@ -42,9 +62,10 @@
 <script>
 import Container from '~/components/Container'
 import BlueTitle from '~/components/BlueTitle'
+import GradientHeader from "~/components/GradientHeader";
 export default {
   name: 'Subscribe',
-  components: { BlueTitle, Container },
+  components: {GradientHeader, BlueTitle, Container },
   data () {
     return {
       email: '',
@@ -87,8 +108,9 @@ export default {
 
 <style scoped>
 .cta-border{
-  background: linear-gradient(to right, red, blue);
+  background: blue;
   height: fit-content;
+  width: fit-content;
 }
 input{
   text-align: center;

@@ -31,7 +31,7 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="p-3 my-2">
 
 **Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
 </div>
 
 </div>

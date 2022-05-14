@@ -1,33 +1,32 @@
 {
   "seo": {
-    "title": "Adopting Bitcoin – A Lightning Summit 2021",
-    "description": "Bringing together the Bitcoin and Lightning Network communities with local actors in El Salvador on November 16-18  to work on the mission to adopt Bitcoin successfully. The conference is not-for-profit and all proceeds will be donated to Lightning Network development.",
+    "title": "Adopting Bitcoin – A Lightning Summit 2022",
+    "description": "Bringing together the Bitcoin and Lightning Network communities with local actors in El Salvador on November 15-17  to work on the mission to adopt Bitcoin successfully. The conference is not-for-profit and all proceeds will be donated.",
     "keywords": "bitcoin, adopting bitcoin, el salvador, conference, lightning, lightning network",
     "speakerDescription": "Meet {name} of {company} on November 16-18 in San Salvador"
   },
   "header": {
     "title": "Adopting Bitcoin",
     "subtitle": "A Lightning Summit in El Salvador",
-    "date": "16 - 18 November 2021"
+    "date": "15 - 17 November 2022"
   },
   "comejoinus": {
-    "title": "“We are all equal before a wave.”  Laird Hamilton",
-    "text": "And we are all equal before Bitcoin. In this sense, there is no better place than El Salvador to celebrate the leaps we have been making, and no better place to take greater waves riding the Lightning Network."
+    "title": "Join us in <br> El Salvador"
   },
   "jointhenetwork": {
-    "title": "Join the network in El Salvador!",
-    "text1": "The adoption of Bitcoin in the Republic of El Salvador caused excitement around the world. It’s time to shine! Adopting Bitcoin is bringing together the Bitcoin and Lightning  community in San Salvador and El Zonte to create connections and foster the future of money and payments in the Central American republic.",
-    "text2": "This conference will include three days of renowned speakers, engaging panels, educational tracks, demos and hands-on workshops in English and Spanish. Welcoming developers, businesses and general enthusiasts to network and form in-person connections. Vamos!",
-    "textCenter1": "100% of profits from the summit will be donated to support Lightning Network development.",
-    "textCenter2": "Adopting Bitcoin 2021 is presented by <a href='https://galoy.io' target='_blank' class='text-blue'>Galoy</a> &ndash; bringing Bitcoin banking solutions to companies and communities around the world."
+    "title": "Adopting bitcoin is back in El Salvador",
+    "text1": "The Bitcoin Law leveled the playing field between Bitcoin and the Dollar in El Salvador. Salvadorans went from 70% unbanked to having the option of using Bitcoin as money.",
+    "text2": "This novel situation comes with both, the challenge to onboard users, and the opportunity to learn from them for the benefit of the entire ecosystem - from protocol and application devs to entrepreneurs and investors.",
+    "text3": "A successful adoption of Bitcoin at this scale will be a historic milestone that could benefit both Salvadorans and the Bitcoin ecosystem for years to come, and serve as a blueprint for peoples that want to follow the footprint of Salvadorans."
   },
   "locations": {
-    "title": "THE LOCATIONS",
-    "directions": "Directions",
-    "directionsText": "Find us here."
+    "title": "IN THE HEART OF THE COUNTRY",
+    "directions": "When & Where",
+    "directionsText": "November 15, 16 & 17, 2022 <br> 89 Avenida Norte, San Salvador, SV"
   },
   "organizers": {
-    "title": "ORGANIZERS"
+    "title": "ORGANIZING TEAM",
+    "advisorsTitle": "ADVISORS"
   },
   "schedule": {
     "title": "CONVENTION SCHEDULE",
@@ -41,7 +40,9 @@
   },
   "speakers": {
     "title": "SPEAKERS",
-    "callforparticipation": "CALL FOR PARTICIPATION",
+    "callforparticipation": "Call for Speakers",
+    "callforparticipation_text": "If you’d like to speak at Adopting Bitcoin 2022, please fill out the submission form below. <br> <strong>The deadline to submit your topic for Adopting Bitcoin is July 17, 2022.</strong>",
+
     "signup": {
       "talkdetails": "TALK DETAILS",
       "talktitle": "TALK TITLE",
@@ -53,14 +54,18 @@
       "submit": "LETS PUSH THINGS FORWARD"
     }
   },
+  "lastyearsspeakers": {
+    "title": "Last year's speakers"
+  },
   "sponsors": {
     "title": "SPONSORS",
-    "callforsponsors": "CALL FOR SPONSORS"
+    "callforsponsors": "CALL FOR SPONSORS",
+    "callforsponsorsText": "Support Adopting Bitcoin as a sponsor.<br>Submit your contact information and we'll get in touch with you."
   },
   "subscribe": {
-    "title": "Subscribe to the latest news!",
-    "signup": "SIGN ME UP",
-    "enteremail": "ENTER YOUR EMAIL",
+    "title": "SUBSCRIBE TO OUR MAILING LIST",
+    "signup": "YES SIGN ME UP!",
+    "entermail": "ENTER YOUR EMAIL HERE",
     "text": "Stay up to date on Adopting Bitcoin and get all the important news right to your mailbox"
   },
   "contactus": {
@@ -68,24 +73,31 @@
     "proceeds": "All proceeds of the conference will be donated to the development of the Lightning Network."
   },
   "tickets": {
-    "title": "GET YOUR TICKET HERE",
-    "ticket1": "Late Mover",
-    "ticket1Price": "$300",
-    "ticket2": "Late Mover",
-    "ticket2Price": "$300",
-    "ticket3": "Speaker",
-    "ticket3Price": "with voucher only",
+    "title": "BUY YOUR TICKET HERE",
+    "subtitle": "Payable with bitcoin only.",
+    "ticket1": "Basic",
+    "ticket1Price": "$100",
+    "ticket2": "Exclusive",
+    "ticket2Price": "$200",
+    "ticket3": "Exclusive",
+    "ticket3Price": "$200",
     "ticketsleft": "Tickets left",
     "earlyAdopters": {
-      "title": "Lightning only",
-      "text": "Tickets for this event can be paid with bitcoin over Lightning only."
+      "title": "Ticket price schedule",
+      "text": "",
+      "afterText": "It‘s going up forever, Laura"
     },
     "priceUp": {
-      "title": "Ticket Schedule",
       "prices": [
         {
-          "text": "<strong>Late Mover</strong> from November 1",
-          "price": "$300"
+          "text1": "<strong>Early Innovator</strong> until June 15",
+          "price1": "$150",
+          "text2": "<strong>Early Adopter</strong> until August 31",
+          "price2": "$225",
+          "text3": "<strong>Late Adopter</strong> until October 31",
+          "price3": "$300",
+          "text4": "<strong>Last Minute</strong> until November 15",
+          "price4": "$425"
         }
       ]
     },
@@ -96,6 +108,7 @@
     "speakers": "Speakers",
     "tickets": "Tickets",
     "sponsors": "Sponsors",
+    "organizers": "Team",
     "location": "Location",
     "schedule": "Schedule",
     "news": "News",

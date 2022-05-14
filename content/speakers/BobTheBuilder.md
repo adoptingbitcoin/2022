@@ -27,7 +27,7 @@ Deep dive into your node and the metrics you may be missing<br><br>
 <div class="p-3 my-2">
 
 **Read - Building a Lightning Network Node for Routing - Part 1** <br><br>
-[ ![Building a Lightning Network Node for Routing - Part 1](/content/bob_voltage.png)](https://blog.voltage.cloud/building-a-lightning-network-node-for-routing-part-1/)
+[ ![Building a Lightning Network Node for Routing - Part 1](/2022/content/bob_voltage.png)](https://blog.voltage.cloud/building-a-lightning-network-node-for-routing-part-1/)
 </div>
 
 

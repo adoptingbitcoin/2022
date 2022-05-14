@@ -33,13 +33,13 @@ Colin Harper - Content and Tech LuxorTechnologies<br><br>
 <div class="p-3 my-2">
 
 **Watch - The Exit Plan | Bitcoin can help the environment & America's industrial sector** <br><br>
-[ ![The Exit Plan | Bitcoin can help the environment & America's industrial sector](/content/colin_exit.png)](https://www.youtube.com/watch?v=hxOL74_greI/)
+[ ![The Exit Plan | Bitcoin can help the environment & America's industrial sector](/2022/content/colin_exit.png)](https://www.youtube.com/watch?v=hxOL74_greI/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Colin Harper on Encountering Bitcoin Early on, and His Transition to Becoming a Bitcoin Journalist** <br><br>
-[ ![Colin Harper on Encountering Bitcoin Early on, and His Transition to Becoming a Bitcoin Journalist](/content/colin_early.png)](https://www.youtube.com/watch?v=YnTC1AEWyh0/)
+[ ![Colin Harper on Encountering Bitcoin Early on, and His Transition to Becoming a Bitcoin Journalist](/2022/content/colin_early.png)](https://www.youtube.com/watch?v=YnTC1AEWyh0/)
 </div>
 
 </div>

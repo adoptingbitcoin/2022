@@ -6,9 +6,9 @@
       <Container>
         <div class="grid grid-cols-1 md:grid-cols-3">
           <div class="image-border bg-red-400 rounded-full p-0 m-0 mx-auto">
-            <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
+            <img :src="computedImg" alt="" class="rounded-full object-cover p-1">
           </div>
-          <div class="my-2 md:my-5"></div>
+          <div class="my-2 md:my-5"/>
           <div class="mx-auto text-xl">
             <ul>
               <li v-if="speaker.twitter">
@@ -24,7 +24,6 @@
           </div>
         </div>
       </Container>
-
     </div>
   </div>
 </template>

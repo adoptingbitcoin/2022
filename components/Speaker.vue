@@ -1,17 +1,17 @@
 <template>
   <div class="p-3">
-    <NuxtLink :to="computedSpeakerLink" v-if="!isExternalLink">
+    <NuxtLink v-if="!isExternalLink && !urlOverride" :to="computedSpeakerLink">
       <div class="image-border bg-red-400 rounded-full">
         <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
       </div>
       <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
       <p class="text-xs italic text-center mx-auto" v-html="speaker.function" />
     </NuxtLink>
-    <a :href="computedSpeakerLink" target="_blank" v-if="isExternalLink">
+    <a v-if="isExternalLink || urlOverride" :href="computedSpeakerLink" target="_blank">
       <div class="image-border bg-red-400 rounded-full">
-        <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
+        <img :src="computedImg" alt="" class="rounded-full object-cover p-1">
       </div>
-      <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
+      <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name" />
       <p class="text-xs italic text-center mx-auto" v-html="speaker.function" />
     </a>
   </div>
@@ -21,7 +21,8 @@
 export default {
   name: 'Speaker',
   props: {
-    speaker: Object
+    speaker: Object,
+    urlOverride: String
   },
   computed: {
     computedImg () {
@@ -32,6 +33,9 @@ export default {
       }
     },
     computedSpeakerLink () {
+      if (this.urlOverride) {
+        return this.urlOverride
+      }
       if (this.speaker.url) {
         return this.speaker.url
       }
@@ -62,7 +66,7 @@ article{
   filter: none;
 }
 .image-border{
-  background: linear-gradient(to right, #ffcc00, #e60000);
+  background: linear-gradient(to right, #ed67af, #4accf2);
   width: fit-content;
   height: fit-content;
   margin: auto;

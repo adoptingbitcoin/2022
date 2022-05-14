@@ -30,37 +30,37 @@ Hosted by: Gerson Martinez
 <div class="p-3 my-2">
 
 **Listen - SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**  <br><br>
-[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
+[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/2022/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives** <br><br>
-[ ![El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives](/content/anita_peterson.png)](https://bitcoinundco.com/en/elsalvador-bitcoinbeach/)
+[ ![El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives](/2022/content/anita_peterson.png)](https://bitcoinundco.com/en/elsalvador-bitcoinbeach/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Made Simple 013 Bitcoin Beach Mike Peterson** <br><br>
-[ ![Bitcoin Made Simple 013 Bitcoin Beach Mike Peterson](/content/mike_simple.png)](https://www.youtube.com/watch?v=B_ayt1idkP4/)
+[ ![Bitcoin Made Simple 013 Bitcoin Beach Mike Peterson](/2022/content/mike_simple.png)](https://www.youtube.com/watch?v=B_ayt1idkP4/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Bitcoin Youth Programme in El Salvador with Michael Peterson** <br><br>
-[ ![Bitcoin Youth Programme in El Salvador with Michael Peterson](/content/mike_wbd.png)](https://www.whatbitcoindid.com/podcast/bitcoin-youth-programme-in-el-salvador-with-michael-peterson/)
+[ ![Bitcoin Youth Programme in El Salvador with Michael Peterson](/2022/content/mike_wbd.png)](https://www.whatbitcoindid.com/podcast/bitcoin-youth-programme-in-el-salvador-with-michael-peterson/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Mike Peterson from Bitcoin Beach, and Carlos Toriello & Esteban de la Peña from IBEX at Bitcoin 2021** <br><br>
-[ ![Mike Peterson from Bitcoin Beach, and Carlos Toriello & Esteban de la Peña from IBEX at Bitcoin 2021](/content/mike_swan.png)](https://www.youtube.com/watch?v=0jrOB16v2bU/)
+[ ![Mike Peterson from Bitcoin Beach, and Carlos Toriello & Esteban de la Peña from IBEX at Bitcoin 2021](/2022/content/mike_swan.png)](https://www.youtube.com/watch?v=0jrOB16v2bU/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Beach - Interview with Director Mike Peterson** <br><br>
-[ ![Bitcoin Beach - Interview with Director Mike Peterson](/content/mike_full.png)](https://www.youtube.com/watch?v=UN7mujIRP-k/)
+[ ![Bitcoin Beach - Interview with Director Mike Peterson](/2022/content/mike_full.png)](https://www.youtube.com/watch?v=UN7mujIRP-k/)
 </div>
 
 </div>

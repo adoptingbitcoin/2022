@@ -1,9 +1,9 @@
 <template>
   <div class="">
     <div class="trigger" @click="menuIsShown = true">
-      <div class="bg-white line m-2" />
-      <div class="bg-white line m-2" />
-      <div class="bg-white line m-2" />
+      <div class="line m-2" />
+      <div class="line m-2" />
+      <div class="line m-2" />
     </div>
 
     <div
@@ -19,20 +19,23 @@
           <NuxtLink to="/#home" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.home') }}
           </NuxtLink>
-          <NuxtLink to="/#speakers" class="link" @click.native="menuIsShown=false">
-            {{ $t('menu.speakers') }}
-          </NuxtLink>
+<!--          <NuxtLink to="/#speakers" class="link" @click.native="menuIsShown=false">-->
+<!--            {{ $t('menu.speakers') }}-->
+<!--          </NuxtLink>-->
           <NuxtLink to="/#tickets" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.tickets') }}
           </NuxtLink>
-          <NuxtLink to="/#schedule" class="link" @click.native="menuIsShown=false">
-            {{ $t('menu.schedule') }}
-          </NuxtLink>
-          <NuxtLink to="/#sponsors" class="link" @click.native="menuIsShown=false">
-            {{ $t('menu.sponsors') }}
-          </NuxtLink>
+<!--          <NuxtLink to="/#schedule" class="link" @click.native="menuIsShown=false">-->
+<!--            {{ $t('menu.schedule') }}-->
+<!--          </NuxtLink>-->
+<!--          <NuxtLink to="/#sponsors" class="link" @click.native="menuIsShown=false">-->
+<!--            {{ $t('menu.sponsors') }}-->
+<!--          </NuxtLink>-->
           <NuxtLink to="/#location" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.location') }}
+          </NuxtLink>
+          <NuxtLink to="/#organizers" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.organizers') }}
           </NuxtLink>
           <NuxtLink to="/#news" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.news') }}
@@ -59,8 +62,9 @@ export default {
 
 <style scoped>
 .line{
-  height: 2px;
+  height: 3px;
   width: 50px;
+  background-color: #303549;
 }
 
 .link{

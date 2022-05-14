@@ -9,3 +9,33 @@
 b{
   @apply font-extrabold;
 }
+
+.text-eight-bit-madness {
+  font-family: "eight-bit-madness", sans-serif;
+}
+
+.bg-rainbow{
+  background-image: url("~/assets/images/bg-rainbow.jpg");
+  background-size: cover;
+  background-repeat: repeat-y;
+}
+.bg-rainbow-right{
+  background-image: url("~/assets/images/bg-rightRainbow.jpg");
+  background-size: cover;
+  background-repeat: repeat-y;
+}
+.bg-contain{
+  background-size: contain;
+}
+
+
+.navIsHidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+.navIsVisible {
+  visibility: visible;
+  opacity: 1!important;
+  transition: opacity 0.5s ease;
+}

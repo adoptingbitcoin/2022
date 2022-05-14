@@ -41,7 +41,7 @@ Gerson will be your MC of the ECON Track on Day 2
 <div class="p-3 my-2">
 
 **Watch - The Extraordinary Ramifications of Bitcoin as Legal Tender in El Salvador** <br><br>
-[ ![The Extraordinary Ramifications of Bitcoin as Legal Tender in El Salvador](/content/gerson_legal.png)](https://www.youtube.com/watch?v=wduCTLGrcVo/)
+[ ![The Extraordinary Ramifications of Bitcoin as Legal Tender in El Salvador](/2022/content/gerson_legal.png)](https://www.youtube.com/watch?v=wduCTLGrcVo/)
 </div>
 
 </div>

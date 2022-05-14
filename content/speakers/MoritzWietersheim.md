@@ -23,31 +23,31 @@ Why does self-custody matter for companies? Self-Custody solutions for companies
 <div class="p-3 my-2">
 
 **Listen - Moritz Wietersheim: Why Bitcoin Is Superior to Altcoins or Stock Nonsense Like Wirecard (EN)** <br><br>
-[ ![Moritz Wietersheim: Why Bitcoin Is Superior to Altcoins or Stock Nonsense Like Wirecard](/content/moritz_anita.png)](https://bitcoinundco.com/en/moritz-wietersheim/)
+[ ![Moritz Wietersheim: Why Bitcoin Is Superior to Altcoins or Stock Nonsense Like Wirecard](/2022/content/moritz_anita.png)](https://bitcoinundco.com/en/moritz-wietersheim/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - L75 Construye tu Hardware Wallet Cryptoadvance, Specter DIY & Specter (ES)** <br><br>
-[ ![L75 Construye tu Hardware Wallet Cryptoadvance, Specter DIY & Specter (ES)](/content/moritz_lunaticoin.png)](https://www.youtube.com/watch?v=4sCZv1iVLgU/)
+[ ![L75 Construye tu Hardware Wallet Cryptoadvance, Specter DIY & Specter (ES)](/2022/content/moritz_lunaticoin.png)](https://www.youtube.com/watch?v=4sCZv1iVLgU/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin em El Salvador - Convidado Moritz Wietersheim (PT)** <br><br>
-[ ![Bitcoin em El Salvador - Convidado Moritz Wietersheim (PT)](/content/moritz_bitcoinheiros.png)](https://www.youtube.com/watch?v=OEy8Eb3xwe4/)
+[ ![Bitcoin em El Salvador - Convidado Moritz Wietersheim (PT)](/2022/content/moritz_bitcoinheiros.png)](https://www.youtube.com/watch?v=OEy8Eb3xwe4/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - OPSEC maximale avec Moritz de Specter (FR)** <br><br>
-[ ![OPSEC maximale avec Moritz de Specter (FR)](/content/moritz_opsec.png)](https://www.youtube.com/watch?v=indhDwgVbVk/)
+[ ![OPSEC maximale avec Moritz de Specter (FR)](/2022/content/moritz_opsec.png)](https://www.youtube.com/watch?v=indhDwgVbVk/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Bitcoin in El Salvador mit Esteban und Moritz (DE)** <br><br>
-[ ![Bitcoin in El Salvador mit Esteban und Moritz (DE)](/content/moritz_21.png)](https://einundzwanzig.space/podcast/interview-48-bitcoin-in-el-salvador-mit-esteban-und-moritz/)
+[ ![Bitcoin in El Salvador mit Esteban und Moritz (DE)](/2022/content/moritz_21.png)](https://einundzwanzig.space/podcast/interview-48-bitcoin-in-el-salvador-mit-esteban-und-moritz/)
 </div>
 
 </div>
