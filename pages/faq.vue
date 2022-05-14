@@ -1,7 +1,7 @@
 <template>
-  <div class="w-full">
+  <div class="w-full bg-rainbow">
     <Nav class="navIsHidden z-50" :class="{ 'navIsVisible': navIsVisible }" />
-    <div class="relative bg-rainbow" >
+    <div class="relative" >
       <RepeatingImage
         :image="require('~/assets/images/hero1.jpg')"
         :mobile-image="require('~/assets/images/hero1_mobile.jpg')"
