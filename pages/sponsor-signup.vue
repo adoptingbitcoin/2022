@@ -1,11 +1,12 @@
 <template>
   <div class="w-full bg-rainbow">
-    <Nav />
+    <Nav class="navIsHidden z-50" :class="{ 'navIsVisible': navIsVisible }" />
     <RepeatingImage
       :image="require('~/assets/images/hero1.jpg')"
       :mobile-image="require('~/assets/images/hero1_mobile.jpg')"
       :repeat-left="require('~/assets/images/hero1_left.jpg')"
       :repeat-right="require('~/assets/images/hero1_right.jpg')"
+      v-view="headerScrollHandler"
     >
       <div class="w-fit-content text-shadow text-white">
         <h1 class="text-4xl md:text-8xl">
@@ -23,11 +24,16 @@
       </div>
 
     </RepeatingImage>
+    <div class="w-full absolute right-0 top-0 mt-3">
+      <SlimContainer class="flex items-center justify-end">
+        <Menu class="inline-block vertical-align-middle mr-3 z-50" />
+      </SlimContainer>
+    </div>
     <Container>
       <iframe
         src="https://docs.google.com/forms/d/e/1FAIpQLScHSZcYFoF0DTK2ELR_E6p45scgxQVCvcPSqq9789Qy2ulZsg/viewform?embedded=true"
         width="100%"
-        height="1600px"
+        height="1000px"
         class="mx-auto"
       >Loading…</iframe>
     </Container>
@@ -49,6 +55,14 @@ export default {
       .fetch()
     return {
       faq
+    }
+  },
+  data () {
+    return {
+      navIsVisible: {
+        type: Boolean,
+        default: false
+      }
     }
   },
   head () {
@@ -110,9 +124,28 @@ export default {
         ...i18nHead.link
       ]
     }
+  },
+  methods: {
+    headerScrollHandler (e) {
+      if (this.navIsVisible && e.type === 'enter') {
+        this.navIsVisible = false
+      } else if (!this.navIsVisible && e.type === 'exit') {
+        this.navIsVisible = true
+      }
+    }
   }
 }
 </script>
 
 <style scoped>
+.navIsHidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+.navIsVisible {
+  visibility: visible;
+  opacity: 1!important;
+  transition: opacity 0.5s ease;
+}
 </style>
