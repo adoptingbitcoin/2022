@@ -34,7 +34,7 @@ Colin Harper - Content and Tech LuxorTechnologies<br><br>
 <div class="p-3 my-2">
 
 **Watch - Infusing bitcoin into gaming** <br><br>
-[ ![AInfusing bitcoin into gaming](/content/michael_tftc1.png)](https://www.youtube.com/watch?v=oKnqG2jYNX8/)
+[ ![AInfusing bitcoin into gaming](/2022/content/michael_tftc1.png)](https://www.youtube.com/watch?v=oKnqG2jYNX8/)
 </div>
 
 </div>

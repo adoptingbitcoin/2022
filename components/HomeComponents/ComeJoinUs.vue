@@ -1,22 +1,14 @@
 <template>
-  <div class="container mx-auto">
+  <div class="mx-auto">
     <div class="header">
-      <Container><Logo class=""/></Container>
-      <Container class="title-container">
-        <h5 class="text-2xl">{{ $t('comejoinus.title') }}</h5>
-          <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
-        <h5 class="text-lg md:text-2xl">{{  $t('header.date') }}</h5>
-<!--        <CTA href="#tickets">GET YOUR TICKET NOW</CTA>-->
-        <p class="hidden md:block">
-          {{ $t('comejoinus.text') }}
-        </p>
-      </Container>
+      <RepeatingImage
+        :image="require('~/assets/images/hero2.jpg')"
+        :repeat-left="require('~/assets/images/hero2_left.jpg')"
+        :repeat-right="require('~/assets/images/hero2_right.jpg')"
+      >
+        <h5 class="text-4xl md:text-8xl" v-html="$t('comejoinus.title')" />
+      </RepeatingImage>
     </div>
-    <Container class="block md:hidden">
-      <p>
-        {{ $t('comejoinus.text') }}
-      </p>
-    </Container>
   </div>
 </template>
 
@@ -29,19 +21,11 @@ export default {
 </script>
 
 <style scoped>
-.title-container{
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translate(-50%);
-}
   .header{
     color: white;
     position: relative;
-    height: 90vh;
     width: 100%;
-    background-image: url("~/assets/images/adopting_bitcoin_el_zonte.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center center;
   }
 </style>

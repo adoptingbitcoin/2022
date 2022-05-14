@@ -1,10 +1,18 @@
 <template>
   <div class="my-5">
-    <img :src="computedImg">
-    <BlueTitle v-html="location.name"></BlueTitle>
-    <p>
-      {{ location.description }}
-    </p>
+    <div class="grid grid-cols-1  md:grid-cols-2 gap-5">
+      <img :src="computedImg">
+      <div class="">
+        <BlueTitle>
+          The Crowne Plaza<br class="md:hidden"> San Salvador
+        </BlueTitle>
+        <p>
+          {{ location.description }}
+        </p>
+      </div>
+    </div>
+
+
   </div>
 </template>
 

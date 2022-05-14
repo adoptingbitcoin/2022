@@ -35,25 +35,25 @@ Openoms  - Raspiblitz <br><br>
 <div class="p-3 my-2">
 
 **Listen - Adam Ficsor from Wasabi on Reclaiming Your Bitcoin Privacy** <br><br>
-[ ![Adam Ficsor from Wasabi on Reclaiming Your Bitcoin Privacy](/content/adam_wbd.png)](https://www.whatbitcoindid.com/podcast/adam-ficsor-from-wasabi-on-reclaiming-your-bitcoin-privacy/)
+[ ![Adam Ficsor from Wasabi on Reclaiming Your Bitcoin Privacy](/2022/content/adam_wbd.png)](https://www.whatbitcoindid.com/podcast/adam-ficsor-from-wasabi-on-reclaiming-your-bitcoin-privacy/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Wasabi Wallet Creator Adam Ficsor - How He Started, Wasabi 2.0, & Coinjoin** <br><br>
-[ ![Wasabi Wallet Creator Adam Ficsor - How He Started, Wasabi 2.0, & Coinjoin](/content/adam_bitrefill.png)](https://www.youtube.com/watch?v=oreMQZgzVZw/)
+[ ![Wasabi Wallet Creator Adam Ficsor - How He Started, Wasabi 2.0, & Coinjoin](/2022/content/adam_bitrefill.png)](https://www.youtube.com/watch?v=oreMQZgzVZw/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Wasabi Flavored Privacy** <br><br>
-[ ![Wasabi Flavored Privacy](/content/adam_unhashed.png)](https://www.unhashedpodcast.com/episodes/wasabi-wallet-privacy-adam-ficsor/)
+[ ![Wasabi Flavored Privacy](/2022/content/adam_unhashed.png)](https://www.unhashedpodcast.com/episodes/wasabi-wallet-privacy-adam-ficsor/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - The History of Wasabi Wallet** <br><br>
-[ ![The History of Wasabi Wallet](/content/adam_wasabika.png)](https://www.youtube.com/watch?v=Q1i560q08JE/)
+[ ![The History of Wasabi Wallet](/2022/content/adam_wasabika.png)](https://www.youtube.com/watch?v=Q1i560q08JE/)
 </div>
 
 </div>

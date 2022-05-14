@@ -32,19 +32,19 @@ Colin Harper - Content and Tech LuxorTechnologies<br><br>
 <div class="p-3 my-2">
 
 **Listen - Becoming a Lightning routing node operator with Jestopher and Tony of Amboss** <br><br>
-[ ![Becoming a Lightning routing node operator with Jestopher and Tony of Amboss](/content/jesse_livera.png)](https://stephanlivera.com/episode/307/)
+[ ![Becoming a Lightning routing node operator with Jestopher and Tony of Amboss](/2022/content/jesse_livera.png)](https://stephanlivera.com/episode/307/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - How to start receiving Bitcoin donations** <br><br>
-[ ![How to start receiving Bitcoin donations](/content/tony_donations.png)](https://medium.com/@apotdevin/how-to-start-receiving-bitcoin-donations-a41025ffee28/)
+[ ![How to start receiving Bitcoin donations](/2022/content/tony_donations.png)](https://medium.com/@apotdevin/how-to-start-receiving-bitcoin-donations-a41025ffee28/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Qué ha pasado en Lightning Network en 2020 visto desde Thunderhub** <br><br>
-[ ![Qué ha pasado en Lightning Network en 2020 visto desde Thunderhub](/content/anthony_luna.png)](https://www.youtube.com/watch?v=MMZC-ErlvNg/)
+[ ![Qué ha pasado en Lightning Network en 2020 visto desde Thunderhub](/2022/content/anthony_luna.png)](https://www.youtube.com/watch?v=MMZC-ErlvNg/)
 </div>
 
 </div>

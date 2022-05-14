@@ -24,7 +24,7 @@ A brief story of how IBEX launched a Lightning payment service in record time us
 <div class="p-3 my-2">
 
 **Watch - En Guatemala palpita con fuerza Bitcoin: IBEX Mercado** <br><br>
-[ ![En Guatemala palpita con fuerza Bitcoin: IBEX Mercado](/content/rafa_satoshi.png)](https://www.youtube.com/watch?v=yN__KO02kBA/)
+[ ![En Guatemala palpita con fuerza Bitcoin: IBEX Mercado](/2022/content/rafa_satoshi.png)](https://www.youtube.com/watch?v=yN__KO02kBA/)
 </div>
 
 </div>

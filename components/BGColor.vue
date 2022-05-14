@@ -12,7 +12,7 @@ export default {
 
 <style scoped>
 .background::before{
-  background-image: url("~/assets/images/adopting_bitcoin_the_lightning_network.jpg");
+  background-image: url("~/assets/images/bg-mountains.jpg");
   background-size: cover;
   background-position: center center;
   position: absolute;

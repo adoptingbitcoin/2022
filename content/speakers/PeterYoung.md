@@ -23,25 +23,25 @@ The sovereignty that individual Bitcoin users enjoy extends beyond the digital r
 <div class="p-3 my-2">
 
 **Watch - Free Private Cities in Practice** <br><br>
-[ ![Free Private Cities in Practice](/content/peter_practice.png)](https://www.youtube.com/watch?v=u0r-mSkyZU0/)
+[ ![Free Private Cities in Practice](/2022/content/peter_practice.png)](https://www.youtube.com/watch?v=u0r-mSkyZU0/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Citadels and Free Private Cities w/ Peter Young** <br><br>
-[ ![Bitcoin Citadels and Free Private Cities w/ Peter Young](/content/peter_rapid.png)](https://www.youtube.com/watch?v=qs2UWUMGYbY/)
+[ ![Bitcoin Citadels and Free Private Cities w/ Peter Young](/2022/content/peter_rapid.png)](https://www.youtube.com/watch?v=qs2UWUMGYbY/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Economics, Innovation, & Bitcoin- with Peter Young** <br><br>
-[ ![Economics, Innovation, & Bitcoin- with Peter Young](/content/peter_keyvan.png)](https://www.youtube.com/watch?v=OZwj0gsI7vY/)
+[ ![Economics, Innovation, & Bitcoin- with Peter Young](/2022/content/peter_keyvan.png)](https://www.youtube.com/watch?v=OZwj0gsI7vY/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - An Austrian in Pyongyang!** <br><br>
-[ ![An Austrian in Pyongyang!](/content/peter_saif.png)](https://saifedean.com/podcast/35-an-austrian-in-pyongyang/)
+[ ![An Austrian in Pyongyang!](/2022/content/peter_saif.png)](https://saifedean.com/podcast/35-an-austrian-in-pyongyang/)
 </div>
 
 </div>

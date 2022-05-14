@@ -1,36 +1,49 @@
 <template>
-  <div class="header relative">
-    <Container class="md:hidden">
-      <Logo />
-    </Container>
-    <Container class="title-container">
+  <div class="header relative text-white">
+    <RepeatingImage
+      :image="require('~/assets/images/hero1.jpg')"
+      :mobile-image="require('~/assets/images/hero1_mobile.jpg')"
+      :repeat-left="require('~/assets/images/hero1_left.jpg')"
+      :repeat-right="require('~/assets/images/hero1_right.jpg')"
+    >
       <div class="md:inline-block mr-4 hidden">
-        <Logo />
+        <!-- <Logo /> -->
       </div>
-      <div class="inline-block vertical-align-bottom">
-        <h1 class="text-3xl md:text-5xl">
+      <div class="w-fit-content text-shadow mobile-line-height">
+        <h1 class="text-4xl md:text-8xl mobile-line-height">
           {{ $t('header.title') }}
         </h1>
-        <h5 class="text-lg md:text-2xl">
+        <h5 class="text-lg md:text-4xl mobile-line-height">
           {{ $t('header.subtitle') }}
         </h5>
+        <div class="bg-white rounded my-2 md:my-5" style="height: 5px" />
+
+        <h5 class="text-lg md:text-4xl">
+          {{ $t('header.date') }}
+        </h5>
+
       </div>
-      <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px" />
-      <h5 class="text-lg md:text-2xl">
-        {{ $t('header.date') }}
-      </h5>
-      <!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
-    </Container>
-    <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
-      <div class="mr-5">
-        <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">
-          English
-        </nuxt-link>
-        <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">
-          Español
-        </nuxt-link>
+      <div class="w-full flex justify-end">
+        <CTA class="shadow-none hidden md:block" href="#tickets">BUY YOUR TICKET</CTA>
       </div>
-      <Menu class="inline-block vertical-align-middle" />
+      <div class="">
+        <CTA class="shadow-none md:hidden" href="#tickets">BUY YOUR TICKET</CTA>
+      </div>
+    </RepeatingImage>
+    <div class="w-full absolute right-0 top-0 mt-3">
+<!--      <div class="mr-5">-->
+<!--        <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">-->
+<!--          English-->
+<!--        </nuxt-link>-->
+<!--        <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">-->
+<!--          Español-->
+<!--        </nuxt-link>-->
+<!--      </div>-->
+
+      <SlimContainer class="flex items-center justify-end">
+        <Menu class="inline-block vertical-align-middle mr-3 z-50" />
+      </SlimContainer>
+
     </div>
   </div>
 </template>
@@ -38,9 +51,12 @@
 <script>
 import Container from '~/components/Container'
 import Logo from '~/components/Logo'
+import RepeatingImage from "~/components/RepeatingImage";
+import Hero1 from '~/assets/images/hero1.jpg'
+import Hero1Mobile from '~/assets/images/hero1_mobile.jpg'
 export default {
   name: 'Header',
-  components: { Logo, Container },
+  components: {RepeatingImage, Logo, Container },
   methods: {
     showLocale (locale) {
       return this.$i18n.locale !== locale
@@ -50,21 +66,39 @@ export default {
 </script>
 
 <style scoped>
+
+@media (max-width: 768px) {
+  .mobile-line-height {
+    line-height: 1.5rem;
+  }
+}
+
 .title-container{
   position: absolute;
   bottom: 0;
   left: 50%;
   transform: translate(-50%);
 }
-  .header{
-    color: white;
-    position: relative;
-    height: 80vh;
-    width: 100%;
-    background-image: url("~/assets/images/adopting_bitcoin_the_lightning_network.jpg");
-    background-size: cover;
-  }
+.text-shadow {
+  text-shadow: 0 4px 4px black;
+}
+.shadow-none {
+  text-shadow: none;
+}
+
+  /*.header{*/
+  /*  color: white;*/
+  /*  position: relative;*/
+  /*  !*height: 70vh;*!*/
+  /*  width: 100%;*/
+  /*  background-size: cover;*/
+  /*  background-repeat: repeat-x;*/
+  /*  background-position: center top;*/
+  /*}*/
   .vertical-align-bottom{
     vertical-align: bottom;
+  }
+  .w-fit-content{
+    width: fit-content;
   }
 </style>

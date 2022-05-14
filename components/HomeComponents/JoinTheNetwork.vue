@@ -1,23 +1,31 @@
 <template>
-  <Container class="mb-8">
-    <BlueTitle class="mb-5">
+  <div class="jointhenetwork">
+  <Container>
+    <GradientHeader class="mb-5">
       {{ $t('jointhenetwork.title') }}
-    </BlueTitle>
-    <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4 mb-14">
+    </GradientHeader>
+    <div class="grid grid-cols-1  grid-flow-row gap-4 mb-14">
       <p v-html="$t('jointhenetwork.text1')" />
       <p v-html="$t('jointhenetwork.text2')" />
+      <p v-html="$t('jointhenetwork.text3')" />
     </div>
-    <p class="text-center  mb-4 mt-10 text-blue text-xl" v-html="$t('jointhenetwork.textCenter1')" />
-    <p class="md:text-center mt-4 md:text-xl" v-html="$t('jointhenetwork.textCenter2')" />
+
+    <div class="w-full">
+      <img class="box-img" src="~/assets/images/box.png" alt="">
+    </div>
+
   </Container>
+  </div>
 </template>
 
 <script>
 import Container from '~/components/Container'
 import BlueTitle from '~/components/BlueTitle'
+import CTA from '~/components/CTA';
+import GradientHeader from "~/components/GradientHeader";
 export default {
   name: 'JoinTheNetwork',
-  components: { BlueTitle, Container }
+  components: {GradientHeader, CTA, BlueTitle, Container }
 }
 </script>
 
@@ -33,5 +41,13 @@ export default {
     column-gap: 50px;
 
   }
+}
+.jointhenetwork {
+    background-image: url("~/assets/images/bg-leftRainbow.jpg");
+    background-size: cover;
+}
+.box-img {
+  max-width: 300px;
+  @apply my-14 mx-auto;
 }
 </style>

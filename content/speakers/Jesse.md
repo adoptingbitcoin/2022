@@ -26,25 +26,25 @@ Every node on the Lightning Network has a unique personality: economically, beha
 <div class="p-3 my-2">
 
 **Listen - Becoming a Lightning routing node operator with Jestopher and Tony of Amboss** <br><br>
-[ ![Becoming a Lightning routing node operator with Jestopher and Tony of Amboss](/content/jesse_livera.png)](https://stephanlivera.com/episode/307/)
+[ ![Becoming a Lightning routing node operator with Jestopher and Tony of Amboss](/2022/content/jesse_livera.png)](https://stephanlivera.com/episode/307/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - The Lightning Network - Advanced LND Routing, Node Optimization, Sovereign Computing** <br><br>
-[ ![The Lightning Network - Advanced LND Routing, Node Optimization, Sovereign Computing](/content/jesse_bm.png)](https://www.youtube.com/watch?v=JMXzVKPovak/)
+[ ![The Lightning Network - Advanced LND Routing, Node Optimization, Sovereign Computing](/2022/content/jesse_bm.png)](https://www.youtube.com/watch?v=JMXzVKPovak/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Jestopher Warns of Griefing Vulnerability on Lightning Network** <br><br>
-[ ![Jestopher Warns of Griefing Vulnerability on Lightning Network](/content/jesse_junkies.png)](https://lightningjunkies.net/jestopher-warns-of-griefing-vulnerability-on-lightning-network-lnj041/)
+[ ![Jestopher Warns of Griefing Vulnerability on Lightning Network](/2022/content/jesse_junkies.png)](https://lightningjunkies.net/jestopher-warns-of-griefing-vulnerability-on-lightning-network-lnj041/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bullish On Lightning Network With Thomas Jestopher: Meet The Taco Plebs** <br><br>
-[ ![Bullish On Lightning Network With Thomas Jestopher: Meet The Taco Plebs](/content/jesse_bullish.png)](https://www.youtube.com/watch?v=TZj91gT_W70/)
+[ ![Bullish On Lightning Network With Thomas Jestopher: Meet The Taco Plebs](/2022/content/jesse_bullish.png)](https://www.youtube.com/watch?v=TZj91gT_W70/)
 </div>
 </div>
 

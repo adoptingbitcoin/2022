@@ -25,25 +25,25 @@ Are you building on lightning? Come see how you can use lightning & Sphinx to bu
 <div class="p-3 my-2">
 
 **Listen - Closing the Loop 02 - Paul Itoi: Stakwork, Sphinx Chat, and the Bitcoin Lightning Economy** <br><br>
-[ ![Closing the Loop 02 - Paul Itoi: Stakwork, Sphinx Chat, and the Bitcoin Lightning Economy](/content/paul_seetee.png)](https://anchor.fm/closingtheloop/episodes/02---Paul-Itoi-Stakwork--Sphinx-Chat--and-the-Bitcoin-Lightning-Economy-e14oei4/)
+[ ![Closing the Loop 02 - Paul Itoi: Stakwork, Sphinx Chat, and the Bitcoin Lightning Economy](/2022/content/paul_seetee.png)](https://anchor.fm/closingtheloop/episodes/02---Paul-Itoi-Stakwork--Sphinx-Chat--and-the-Bitcoin-Lightning-Economy-e14oei4/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Once Bitten 156- sphinx_chat Founder Paul Itoi - The Future Of Using Lightning To Build Private Social Networks** <br><br>
-[ ![Once Bitten 156- sphinx_chat Founder Paul Itoi - The Future Of Using Lightning To Build Private Social Networks](/content/paul_oncebitten.png)](http://www.once-bitten.com/#/episodes/a6254a88-8a2c-48d9-9585-d33f519b09f7/)
+[ ![Once Bitten 156- sphinx_chat Founder Paul Itoi - The Future Of Using Lightning To Build Private Social Networks](/2022/content/paul_oncebitten.png)](http://www.once-bitten.com/#/episodes/a6254a88-8a2c-48d9-9585-d33f519b09f7/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - 21ism - Block 008 - CODE - Paul Itoi** <br><br>
-[ ![21ism - Block 008 - CODE - Paul Itoi](/content/paul_21ism.png)](https://21ism.com/portfolio-item/paul-itoi/)
+[ ![21ism - Block 008 - CODE - Paul Itoi](/2022/content/paul_21ism.png)](https://21ism.com/portfolio-item/paul-itoi/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Bit Buy Bit EP95 - Paul Itoi Sphinx & Stakwork** <br><br>
-[ ![Bit Buy Bit EP95 - Paul Itoi Sphinx & Stakwork](/content/paul_bitbuybit.png)](https://www.bit-buy-bit.com/podcast-1/episode/28a39c91/ep95-paul-itoi-sphinx-and-stakwork/)
+[ ![Bit Buy Bit EP95 - Paul Itoi Sphinx & Stakwork](/2022/content/paul_bitbuybit.png)](https://www.bit-buy-bit.com/podcast-1/episode/28a39c91/ep95-paul-itoi-sphinx-and-stakwork/)
 </div>
 
 </div>

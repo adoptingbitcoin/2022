@@ -1,73 +1,109 @@
 <template>
-  <Container id="tickets py-16 mb-16">
-    <GradientHeader class="">
-      {{ $t('tickets.title') }}
-    </GradientHeader>
-    <p class="text-xl my-5" />
-    <div class="grid grid-cols-1 lg:grid-cols-2  grid-flow-row gap-4">
-      <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
-        <h5 class="text-2xl">
-          {{ $t('tickets.ticket1') }}
-        </h5>
-        <span>{{ $t('tickets.ticket1Price') }}</span> <br>
-        <span class="text-xs text-white">from November 1</span>
-      </a>
-      <div class="ticket ticket-2 p-10 text-center text-white">
-        <h5 class="text-2xl">
-          {{ $t('tickets.ticket2') }}
-        </h5>
-        <span>{{ $t('tickets.ticket2Price') }}</span>
+  <div class="bg">
+    <Container id="tickets py-16 mb-16">
+      <GradientHeader class="">
+        {{ $t('tickets.title') }}
+      </GradientHeader>
+      <span v-html="$t('tickets.subtitle')" />
+      <p class="text-xl my-5" />
+      <div class="grid grid-cols-2 grid-flow-row gap-4">
+        <a href="https://pretix.eu/galoy/ab22/" target="_blank" class="ticket ticket-1 p-16" />
+        <span class="ticket ticket-2 ticket-unavailable p-16" />
+<!--        <span class="ticket ticket-3 ticket-unavailable p-16" />-->
+<!--        <span class="ticket ticket-4 ticket-unavailable p-16" />-->
       </div>
-    </div>
-    <BlueTitle class="mt-8">
-      {{ $t('tickets.earlyAdopters.title') }}
-    </BlueTitle>
-    <p class="mb-5">
-      {{ $t('tickets.earlyAdopters.text') }}
-    </p>
-    <h2 class="mt-8 text-3xl py-5 relative block text-blue">
-      {{ $t('tickets.priceUp.title') }}
-    </h2>
-    <table class="mb-10">
-      <tr v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
-        <td>
-          <span v-html="price.text" />
-        </td>
-        <td class="px-10">
-          <span v-html="price.price" />
-        </td>
-      </tr>
-    </table>
-  </Container>
+
+      <GradientHeader class="mt-8">
+        {{ $t('tickets.earlyAdopters.title') }}
+      </GradientHeader>
+      <p class="mb-5">
+        {{ $t('tickets.earlyAdopters.text') }}
+      </p>
+      <div class="mb-10">
+        <div v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
+          <div class="grid grid-cols-2  grid-flow-row gap-4 mb-14">
+            <p v-html="price.text1" />
+            <p v-html="price.price1" />
+
+            <p v-html="price.text2" />
+            <p v-html="price.price2" />
+
+            <p v-html="price.text3" />
+            <p v-html="price.price3" />
+
+            <p v-html="price.text4" />
+            <p v-html="price.price4" />
+          </div>
+        </div>
+      </div>
+      <GradientHeader class="mt-8 md:text-4xl" style="text-transform: none!important;">
+        {{ $t('tickets.earlyAdopters.afterText') }}
+      </GradientHeader>
+
+      <div class="w-full my-5">
+        <img class="box-img" src="~/assets/images/AB_toilet_paper.png" alt="">
+      </div>
+    </Container>
+  </div>
 </template>
 
 <script>
 import Container from '~/components/Container'
 import GradientHeader from '~/components/GradientHeader'
 import BlueTitle from '~/components/BlueTitle'
+import SponsorSignup from "~/components/HomeComponents/SponsorSignup";
 export default {
   name: 'Tickets',
-  components: { BlueTitle, GradientHeader, Container },
+  components: {
+    SponsorSignup,
+    BlueTitle,
+    GradientHeader,
+    Container
+  },
   data () {
-    return { }
+    return {}
   }
 }
+
 </script>
 
 <style scoped>
-.ticket{
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
-.ticket-1{
-  background-image: url("~/assets/images/ticket_1.jpg");
-  backdrop-filter: grayscale();
-}
-.ticket-2{
-   background-image: url("~/assets/images/ticket_regular_not_available.jpg");
- }
-.ticket-3{
-    background-image: url("~/assets/images/ticket_3.jpg");
+  .ticket {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
+
+  .ticket-1 {
+    background-image: url("~/assets/images/ticket_1.png");
+  }
+
+  .ticket-2 {
+    background-image: url("~/assets/images/ticket_2.png");
+  }
+
+  .ticket-3 {
+    background-image: url("~/assets/images/ticket_3.png");
+  }
+
+  .ticket-4 {
+    background-image: url("~/assets/images/ticket_4.png");
+  }
+
+  .ticket-unavailable {
+    opacity: 0.4;
+  }
+
+  .bg{
+    background-image: url("~/assets/images/bg-yellow.jpg");
+    background-repeat: repeat-y;
+    background-position: top left;
+    background-size: contain;
+  }
+
+  .box-img {
+    max-width: 300px;
+    @apply my-14 mx-auto;
+  }
+
 </style>

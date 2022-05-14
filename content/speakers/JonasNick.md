@@ -37,25 +37,25 @@ Jonas Nick - Bitcoin Research Blockstream<br><br>
 <div class="p-3 my-2">
 
 **Watch - Jonas Nick - "Der Schnorr Zoo" in German** <br><br>
-[ ![Jonas Nick - Der Schnorr Zoo](/content/jonas_zitadelle.png)](https://youtu.be/n9OWZq5z49I?t=3631/)
+[ ![Jonas Nick - Der Schnorr Zoo](/2022/content/jonas_zitadelle.png)](https://youtu.be/n9OWZq5z49I?t=3631/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - SLP222 Jonas Nick and Tim Ruffing: What's MuSig2? What does it mean for Bitcoin Multisig?** <br><br>
-[ ![SLP222 Jonas Nick and Tim Ruffing: What's MuSig2? What does it mean for Bitcoin Multisig?](/content/jonas_livera.png)](https://stephanlivera.com/episode/222/)
+[ ![SLP222 Jonas Nick and Tim Ruffing: What's MuSig2? What does it mean for Bitcoin Multisig?](/2022/content/jonas_livera.png)](https://stephanlivera.com/episode/222/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Lightning on Nixos by Jonas Nick - DEMO at Understanding Bitcoin** <br><br>
-[ ![Lightning on Nixos by Jonas Nick - DEMO at Understanding Bitcoin](/content/jonas_understanding.png)](https://www.youtube.com/watch?v=m0VmZPpxtLY/)
+[ ![Lightning on Nixos by Jonas Nick - DEMO at Understanding Bitcoin](/2022/content/jonas_understanding.png)](https://www.youtube.com/watch?v=m0VmZPpxtLY/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Jonas Nick: “nix-bitcoin: robust lightning nodes for hackers” #LightningNetwork Hack Day** <br><br>
-[ ![Jonas Nick: “nix-bitcoin: robust lightning nodes for hackers” #LightningNetwork Hack Day](/content/jonas_hackdays.png)](https://www.youtube.com/watch?v=oYnvvIyR8uA/)
+[ ![Jonas Nick: “nix-bitcoin: robust lightning nodes for hackers” #LightningNetwork Hack Day](/2022/content/jonas_hackdays.png)](https://www.youtube.com/watch?v=oYnvvIyR8uA/)
 </div>
 
 </div>

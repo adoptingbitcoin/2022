@@ -1,36 +1,33 @@
 <template>
   <Container>
-    <BlueTitle>{{ $t('speakers.callforparticipation') }}</BlueTitle>
+    <GradientHeader>{{ $t('speakers.callforparticipation') }}</GradientHeader>
+
+    <p class="mb-5" v-html="$t('speakers.callforparticipation_text')" />
 
     <div class="mx-auto">
-      <iframe
-        src="https://docs.google.com/forms/d/e/1FAIpQLSf1jR7R2By3yts1R_lD7Bqu3Pm_U7WWB3A10O429dF3del5gg/viewform?embedded=true"
-        width="100%"
-        height="1600px"
-        class="mx-auto"
-      >Loading…</iframe>
+
+      <NuxtLink to="/speaker-signup" class="inline-block">
+        <CTA class="mx-auto">
+          Submit Talk
+        </CTA>
+      </NuxtLink>
+
     </div>
   </Container>
 </template>
 
 <script>
 import Container from '~/components/Container'
-import BlueTitle from '~/components/BlueTitle'
+import GradientHeader from '~/components/GradientHeader'
+import CTA from '~/components/CTA'
+import SponsorSignup from '~/components/HomeComponents/SponsorSignup'
 export default {
   name: 'SpeakerSignup',
-  components: { BlueTitle, Container }
+  components: { SponsorSignup, CTA, GradientHeader, Container }
 }
 </script>
 
 <style scoped>
-.cta-border{
-  background: linear-gradient(to right, red, blue);
-  height: fit-content;
-}
-.cta-border-grey{
-   background: darkgrey;
-   height: fit-content;
- }
 input:not([type="radio"]), textarea{
   text-align: center;
   height: 100%;
