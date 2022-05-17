@@ -45,11 +45,11 @@
       </div>
 
       <div class="flex justify-between md:my-5">
-        <div class="text-center md:text-left text-white">
-          <NuxtLink to="/faq">
-            {{ $t('menu.faq') }}
-          </NuxtLink>
-        </div>
+<!--        <div class="text-center md:text-left text-white">-->
+<!--          <NuxtLink to="/faq">-->
+<!--            {{ $t('menu.faq') }}-->
+<!--          </NuxtLink>-->
+<!--        </div>-->
         <div class="text-right md:text-center">
           <a href="https://galoy.io/" target="_blank" class="galoy-holder">
             <span class="text-white text-sm text-eight-bit-madness block md:inline">The Adopting Bitcoin <br class="md:hidden"> conference is hosted by &nbsp;</span>
