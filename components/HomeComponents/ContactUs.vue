@@ -45,6 +45,7 @@
       </div>
 
       <div class="flex justify-between md:my-5">
+        <div class=""></div>
 <!--        <div class="text-center md:text-left text-white">-->
 <!--          <NuxtLink to="/faq">-->
 <!--            {{ $t('menu.faq') }}-->
