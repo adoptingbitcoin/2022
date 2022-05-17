@@ -23,7 +23,7 @@
           <h5 class="font-bold text-2xl">
             Email
           </h5>
-          <a href="mailto:adoptingbitcoin@galoy.io">
+          <a href="mailto:info@adoptingbitcoin.org">
             info@adoptingbitcoin.org
           </a>
         </div>
@@ -45,11 +45,12 @@
       </div>
 
       <div class="flex justify-between md:my-5">
-        <div class="text-center md:text-left text-white">
-          <NuxtLink to="/faq">
-            {{ $t('menu.faq') }}
-          </NuxtLink>
-        </div>
+        <div class=""></div>
+<!--        <div class="text-center md:text-left text-white">-->
+<!--          <NuxtLink to="/faq">-->
+<!--            {{ $t('menu.faq') }}-->
+<!--          </NuxtLink>-->
+<!--        </div>-->
         <div class="text-right md:text-center">
           <a href="https://galoy.io/" target="_blank" class="galoy-holder">
             <span class="text-white text-sm text-eight-bit-madness block md:inline">The Adopting Bitcoin <br class="md:hidden"> conference is hosted by &nbsp;</span>
