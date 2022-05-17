@@ -40,9 +40,9 @@
           <NuxtLink to="/#news" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.news') }}
           </NuxtLink>
-          <NuxtLink to="/faq" class="link" @click.native="menuIsShown=false">
-            {{ $t('menu.faq') }}
-          </NuxtLink>
+<!--          <NuxtLink to="/faq" class="link" @click.native="menuIsShown=false">-->
+<!--            {{ $t('menu.faq') }}-->
+<!--          </NuxtLink>-->
         </div>
       </div>
     </div>
