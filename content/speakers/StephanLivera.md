@@ -6,7 +6,7 @@ twitter: 'stephanlivera'
 github: stephanlivera
 linkedin: stephan-livera-11130717
 metaImage: meta_stephanlivera.jpg
-showPage: true
+showPage: false
 ---
 
 # Stephan Livera
