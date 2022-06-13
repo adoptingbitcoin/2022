@@ -1,5 +1,5 @@
 ---
-name: "Burak <br>Keçeli"
+name: "Burak <br>Keceli"
 function: Bitmatrix
 img: burak.png
 twitter: 'brqgoo'
