@@ -2,7 +2,7 @@
 name: "Yagiz <br>Cemberci"
 function: Phenixio
 img: yagiz.png
-twitter: 'yazzben '
+twitter: 'yazzben'
 showPage: false
 ---
 

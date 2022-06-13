@@ -2,7 +2,7 @@
 name: "Vlad <br>Costea"
 function: BTCTKVR
 img: vlad.png
-twitter: 'TheVladCostea '
+twitter: 'TheVladCostea'
 showPage: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Dennis <br>Reimann"
 function: BTCPayserver
-img: d11n.png
+img: d11n.jpg
 twitter: '_d11n_'
 showPage: false
 ---
