@@ -1,7 +1,7 @@
 ---
 name: "Egge <br>"
 function: Starbackr
-img: egge.png
+img: egge1.png
 twitter: 'Egge24_'
 showPage: false
 ---
