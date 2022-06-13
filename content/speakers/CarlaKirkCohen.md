@@ -1,6 +1,6 @@
 ---
 name: "Carla <br>Kirk-Cohen"
-function: ₿trust / Qala
+function: Btrust / Qala
 img: carla.png
 twitter: 'actuallyCarlaKC '
 showPage: false

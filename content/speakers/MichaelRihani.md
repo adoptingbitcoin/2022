@@ -1,7 +1,7 @@
 ---
 name: "Michael <br>Rihani"
 function: CashApp
-img: rihani.jpg
+img: rihani.png
 twitter: 'michaelrihani'
 showPage: false
 ---
