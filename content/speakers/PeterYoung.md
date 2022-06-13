@@ -2,7 +2,7 @@
 name: "Peter <br>Young"
 function: Free Private Cities Foundation
 img: peteryoung.png
-twitter: '@freeprivatecity'
+twitter: 'petermiyoung'
 showPage: false
 ---
 
