@@ -8,7 +8,8 @@
     <Locations id="location" :locations="locations" />
     <!-- Speaker submission -->
     <div class="bg-rainbow-right bg-contain bg-left">
-      <LastYearSpeakerList :speakers="lastyearspeakers" />
+<!--      <LastYearSpeakerList :speakers="lastyearspeakers" />-->
+      <SpeakerList :speakers="speakers" />
       <SpeakerSignup />
       <SponsorSignup />
     </div>
