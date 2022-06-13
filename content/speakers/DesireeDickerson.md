@@ -1,6 +1,6 @@
 ---
 name: "Desiree <br>Dickerson"
-function: Lightning Labs
+function: THUNDR Games
 img: desireedickerson.jpg
 twitter: '@'
 github:
