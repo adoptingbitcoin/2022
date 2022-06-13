@@ -2,7 +2,7 @@
 name: "Egge <br>"
 function: Starbackr
 img: egge.png
-twitter: 'Starbackr'
+twitter: 'Egge24_'
 showPage: false
 ---
 
