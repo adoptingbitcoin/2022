@@ -4,7 +4,7 @@ function: Open Source Developer
 img: openoms.png
 twitter: 'openoms'
 github: openoms
-showPage: true
+showPage: false
 ---
 
 # Openoms

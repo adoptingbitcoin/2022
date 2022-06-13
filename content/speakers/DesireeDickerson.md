@@ -2,7 +2,7 @@
 name: "Desiree <br>Dickerson"
 function: THUNDR Games
 img: desireedickerson.jpg
-twitter: '@'
+twitter: 'dickerson_des'
 github:
 linkedin:
 ---

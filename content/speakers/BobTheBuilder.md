@@ -4,7 +4,7 @@ function: Voltage Cloud
 img: bobthebuilder.jpg
 twitter: 'BitcoinCoderBob'
 github: BitcoinCoderBob
-showPage: true
+showPage: false
 ---
 
 # Bob The Builder
