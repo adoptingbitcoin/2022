@@ -5,7 +5,7 @@ img: bernardparah.png
 twitter: 'bernard_parah'
 github: b3h3rkz
 linkedin: bernard-parah-22437386
-showPage: true
+showPage: false
 ---
 
 # Bernard Parah
