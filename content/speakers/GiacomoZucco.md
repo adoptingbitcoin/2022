@@ -3,7 +3,7 @@ name: "Giacomo <br>Zucco"
 function: BHB Network
 img: giacomozucco.png
 twitter: 'giacomozucco'
-showPage: true
+showPage: false
 ---
 
 # Giacomo Zucco

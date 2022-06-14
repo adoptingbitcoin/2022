@@ -5,7 +5,7 @@ img: christianrotzoll.jpg
 twitter: 'rootzoll'
 github: rootzoll
 linkedin: rotzoll
-showPage: true
+showPage: false
 ---
 
 # Christian Rotzoll

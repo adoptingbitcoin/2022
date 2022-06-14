@@ -1,9 +1,9 @@
 ---
 name: "John <br>Carvalho"
-function: CEO at a stealth-mode business
+function: Synonym
 img: johncarvalho1.png
 twitter: 'BitcoinErrorLog'
-showPage: true
+showPage: false
 ---
 
 # John Carvalho

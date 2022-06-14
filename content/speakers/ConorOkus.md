@@ -1,11 +1,11 @@
 ---
 name: "Conor <br>Okus"
-function: Square Crypto
+function: Spiral
 img: conorokus.jpeg
 twitter: 'ConorOkus'
 github: ConorOkus
 linkedin: conorokus
-showPage: true
+showPage: false
 ---
 
 # Conor Okus

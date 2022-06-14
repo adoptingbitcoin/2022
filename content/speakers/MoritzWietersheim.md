@@ -4,7 +4,7 @@ function: Specter
 img: moritzwietersheim.jpg
 twitter: 'MWietersheim'
 linkedin: moritzwietersheim
-showPage: true
+showPage: false
 ---
 
 # Moritz Wietersheim

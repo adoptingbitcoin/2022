@@ -5,7 +5,7 @@ img: benarc.jpg
 twitter: 'arcbtc'
 github: arcbtc
 linkedin:
-showPage: true
+showPage: false
 ---
 
 # Ben Arc
