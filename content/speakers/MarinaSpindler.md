@@ -1,7 +1,7 @@
 ---
 name: "Marina <br>Spindler"
 function: torogoz.dev
-img: marinaspindler.jpg
+img: marina.jpg
 twitter: 'MarinaSpindler'
 showPage: false
 ---
