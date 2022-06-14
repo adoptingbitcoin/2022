@@ -5,7 +5,7 @@ img: mikepeterson.jpg
 twitter: 'bitcoinbeach'
 github: 
 linkedin: mike-peterson-09341127
-showPage: true
+showPage: false
 ---
 
 # Mike Peterson

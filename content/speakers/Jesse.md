@@ -4,7 +4,7 @@ function: Amboss Technologies
 img: thomasjestopher.png
 twitter: 'Jestopher_BTC'
 github: Jestopher-BTC
-showPage: true
+showPage: false
 ---
 
 # Jesse Jestopher

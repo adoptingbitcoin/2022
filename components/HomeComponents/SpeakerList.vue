@@ -1,15 +1,22 @@
 <template>
   <div>
-    <BGGrey class="pb-16">
-      <Container>
+
+    <Container>
+      <div class="border-darkblue border-4 rounded p-5 bg-white">
         <GradientHeader class="mb-10">
           {{ $t('speakers.title') }}
         </GradientHeader>
-        <div class="grid grid-cols-2 md:grid-cols-5  grid-flow-row gap-4">
-          <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" />
+        <div class="grid grid-cols-2 md:grid-cols-4  grid-flow-row gap-4">
+          <Speaker
+            v-for="(speaker, i) in speakers"
+            :key="i"
+            :index="i"
+            :speaker="speaker"
+          />
         </div>
-      </Container>
-    </BGGrey>
+
+      </div>
+    </Container>
   </div>
 </template>
 

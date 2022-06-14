@@ -6,7 +6,7 @@ twitter: 'nicolasburtey'
 github: GaloyMoney
 linkedin: nicolasburtey
 metaImage:
-showPage: true
+showPage: false
 ---
 
 # Nicolas Burtey

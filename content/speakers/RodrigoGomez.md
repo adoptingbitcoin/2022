@@ -2,9 +2,9 @@
 name: "Rodrigo <br>Gómez"
 function: Bitrefill
 img: rodrigogomez.jpg
-twitter: '@rodcostas'
+twitter: 'rodcostas'
 linkedin: rodrigo-g%C3%B3mez-55b3b0
-showPage: true
+showPage: false
 ---
 
 # Rodrigo Gómez

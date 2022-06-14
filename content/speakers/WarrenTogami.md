@@ -4,7 +4,7 @@ function: Blockstream
 img: warrentogami.png
 twitter: 'wtogami'
 linkedin: warrentogami
-showPage: true
+showPage: false
 ---
 
 # Warren Togami

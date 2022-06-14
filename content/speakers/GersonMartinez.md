@@ -2,9 +2,9 @@
 name: "Gerson <br>Martinez"
 function: CLM21 Ventures
 img: gersonmartinez.png
-twitter: '@gersonmartinez'
+twitter: 'gersonmartinez'
 linkedin: gerson-martinez
-showPage: true
+showPage: false
 ---
 
 # Gerson Martinez

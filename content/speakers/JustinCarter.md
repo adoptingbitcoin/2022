@@ -5,7 +5,7 @@ img: justincarter.png
 twitter: 'bodymindarts'
 linkedin: justinrc
 github: bodymindarts
-showPage: true
+showPage: false
 ---
 
 # Justin Carter

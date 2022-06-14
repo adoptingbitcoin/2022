@@ -1,10 +1,10 @@
 ---
 name: "Chris <br>Hunter"
-function: Galoy
+function: Bitcoin Beach Wallet
 img: chrishunter1.png
 twitter: 'btcnyc'
 linkedin: hunterchris
-showPage: true
+showPage: false
 ---
 
 # Chris Hunter

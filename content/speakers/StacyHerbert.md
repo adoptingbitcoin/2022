@@ -1,0 +1,46 @@
+---
+name: "Stacy <br>Herbert"
+function: Orange Pill Podcast
+img: stacy.png
+twitter: 'stacyherbert'
+showPage: false
+---
+
+# Stacy Herbert
+
+Bernard is the CEO of Bitnob, a technology and financial services company for the African continent built on top of Bitcoin. They offer automated Bitcoin savings and purchases, Bitcoin collateralized loans, remittance services, OTC and business applications that make it easier for people in Africa to transition into the Bitcoin economy.
+<br><br>
+Bernard es el director de Bitnob, una empresa de tecnología y servicios financieros para el continente africano, construida sobre Bitcoin. Ellos ofrecen ahorros y compras automatizadas de Bitcoin, préstamos con garantía en Bitcoin, servicios de remesas, servicios OTC y aplicaciones comerciales que facilitan a las personas en África la transición hacia una economía en Bitcoin.
+<br><br>
+
+## Day 2 | ECON Track | 10:00 - 10:25
+<br>
+<i>Challenges for the African Market</i><br><br>
+Africa's Bitcoin adoption rate is the highest globally. What are some of the challenges companies face when trying to scale in Africa?<br><br>
+
+
+## Dive deeper
+
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Listen - Bernard Parah: Bitcoin for Africa - E115** <br><br>
+[ ![Bernard Parah: Bitcoin for Africa - E115](/2022/content/bernard_citizenbitcoin.png)](https://citizenbitcoin.world/episodes/bernard-parah-bitcoin-for-africa-e115/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - Bitnob joins the Lightning Network** <br><br>
+[ ![Bitnob joins the Lightning Network](/2022/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - BTC In Emerging Markets** <br><br>
+[ ![BTC In Emerging Markets](/2022/content/bernard_emergingmarkets.png)](https://www.youtube.com/watch?v=2pNse-Owu6I/)
+</div>
+
+</div>
+
+<br>

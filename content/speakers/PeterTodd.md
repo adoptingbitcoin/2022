@@ -4,7 +4,7 @@ function: Bitcoin Core Developer
 img: peter.jpg
 twitter: 'peterktodd'
 github: petertodd
-showPage: true
+showPage: false
 ---
 
 # Peter Todd

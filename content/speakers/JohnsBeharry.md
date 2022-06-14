@@ -5,7 +5,7 @@ img: johnsbeharry.png
 twitter: 'johnsBeharry'
 github: johnsBeharry
 linkedin: johnsBeharry
-showPage: true
+showPage: false
 ---
 
 # Johns Beharry

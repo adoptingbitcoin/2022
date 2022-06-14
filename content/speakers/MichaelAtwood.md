@@ -5,7 +5,7 @@ img: michaelatwood1.png
 twitter: 'dooowta'
 github: 
 linkedin:
-showPage: true
+showPage: false
 ---
 
 # Michael Atwood

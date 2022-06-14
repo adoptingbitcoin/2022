@@ -4,7 +4,7 @@ function: Blockstream
 img: elsirion.png
 twitter: 'EricSirion'
 github: elsirion
-showPage: true
+showPage: false
 ---
 
 # elsirion

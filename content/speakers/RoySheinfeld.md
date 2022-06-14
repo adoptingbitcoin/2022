@@ -5,7 +5,7 @@ img: roysheinfeld.png
 twitter: 'Breez_Tech'
 github: kingonly
 linkedin: roysheinfeld
-showPage: true
+showPage: false
 ---
 
 # Roy Sheinfeld
