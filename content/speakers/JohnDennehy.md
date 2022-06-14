@@ -1,8 +1,8 @@
 ---
-name: "Pavlenex <br><br>"
-function: BTCPayserver / Bitcoin Design
-img: pavlenex.jpg
-twitter: 'pavlenex'
+name: "John <br>Dennehy"
+function: Mi Primer Bitcoin
+img: johndennehy.png
+twitter: 'jdennehy_writes'
 showPage: false
 ---
 

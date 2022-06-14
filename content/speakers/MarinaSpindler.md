@@ -1,8 +1,8 @@
 ---
-name: "Pavlenex <br><br>"
-function: BTCPayserver / Bitcoin Design
-img: pavlenex.jpg
-twitter: 'pavlenex'
+name: "Marina <br>Spindler"
+function: torogoz.dev
+img: marina.jpg
+twitter: 'MarinaSpindler'
 showPage: false
 ---
 

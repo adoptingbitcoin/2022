@@ -1,8 +1,8 @@
 ---
-name: "Pavlenex <br><br>"
-function: BTCPayserver / Bitcoin Design
-img: pavlenex.jpg
-twitter: 'pavlenex'
+name: "SeedSigner <br><br>"
+function: FOSS Developer
+img: seedsigner.jpg
+twitter: 'SeedSigner'
 showPage: false
 ---
 
