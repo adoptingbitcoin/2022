@@ -1,5 +1,5 @@
 ---
-name: "Pavlenex <br>"
+name: "Pavlenex <br><br>"
 function: BTCPayserver / Bitcoin Design
 img: pavlenex.jpg
 twitter: 'pavlenex'
