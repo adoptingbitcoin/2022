@@ -1,6 +1,6 @@
 ---
 name: "Matt <br>Odell"
-function: Tales from the Crypt
+function: Citadel Dispatch
 img: odell.jpg
 twitter: 'ODELL'
 showPage: false
