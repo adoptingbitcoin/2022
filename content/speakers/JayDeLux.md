@@ -1,6 +1,6 @@
 ---
 name: "JayDeLux <br><br>"
-function: Open Source Developer
+function: Salva’bourg
 img: jay.png
 twitter: 'JayDeLux1'
 showPage: false
