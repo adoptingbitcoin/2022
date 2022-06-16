@@ -4,7 +4,7 @@ function: Hivemind Ventures
 img: maxwebster.jpg
 twitter: 'MaxAWebster'
 linkedin: maxwebster
-showPage: true
+showPage: false
 ---
 
 # Max Webster
