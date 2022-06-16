@@ -1,6 +1,6 @@
 ---
 name: "Gerson <br>Martinez"
-function: CLM21 Ventures
+function: New Equity Group
 img: gersonmartinez.png
 twitter: 'gersonmartinez'
 linkedin: gerson-martinez
