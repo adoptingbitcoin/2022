@@ -90,8 +90,6 @@
     "priceUp": {
       "prices": [
         {
-          "text1": "<strong>Early Innovator</strong> until June 15",
-          "price1": "$150",
           "text2": "<strong>Early Adopter</strong> until August 31",
           "price2": "$225",
           "text3": "<strong>Late Adopter</strong> until October 31",
