@@ -75,19 +75,19 @@ export default {
   }
 
   .ticket-1 {
-    background-image: url("~/assets/images/ticket_1.png");
-  }
-
-  .ticket-2 {
     background-image: url("~/assets/images/ticket_2.png");
   }
 
-  .ticket-3 {
+  .ticket-2 {
     background-image: url("~/assets/images/ticket_3.png");
   }
 
-  .ticket-4 {
+  .ticket-3 {
     background-image: url("~/assets/images/ticket_4.png");
+  }
+
+  .ticket-4 {
+    background-image: url("~/assets/images/ticket_1.png");
   }
 
   .ticket-unavailable {
