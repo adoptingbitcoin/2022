@@ -7,8 +7,8 @@
       <span v-html="$t('tickets.subtitle')" />
       <p class="text-xl my-5" />
       <div class="grid grid-cols-2 grid-flow-row gap-4">
-        <a href="https://pretix.eu/galoy/ab22/" target="_blank" class="ticket ticket-1 p-16" />
-        <span class="ticket ticket-2 ticket-unavailable p-16" />
+        <a href="https://pretix.eu/galoy/ab22/" target="_blank" class="ticket ticket1 p-16" />
+        <span class="ticket ticket2 ticket-unavailable p-16" />
 <!--        <span class="ticket ticket-3 ticket-unavailable p-16" />-->
 <!--        <span class="ticket ticket-4 ticket-unavailable p-16" />-->
       </div>
