@@ -1,8 +1,8 @@
 ---
-name: "Alexandre <br>Bussutil"
+name: "Aljaz <br>Ceru"
 function: bolt.observer
-img: bussutil.png
-twitter: 'abussutil'
+img: aljaz.png
+twitter: 'aaaljaz'
 showPage: false
 ---
 
@@ -37,6 +37,7 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 </div>
 
 <br>
+
 
 
 
