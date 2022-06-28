@@ -52,7 +52,7 @@ export default {
   color: white;
   position: relative;
   width: 100%;
-  background-image: url("~/assets/images/adopting_bitcoin_the_lightning_network.jpg");
+  background-image: url("~/assets/images/hero1.jpg");
   background-size: cover;
   background-position: top center;
   min-height: fit-content;
