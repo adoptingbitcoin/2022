@@ -16,6 +16,7 @@
     <!-- <Schedule /> -->
     <Tickets id="tickets" />
     <!-- <Sponsors id="sponsors" :sponsors="sponsors" /> -->
+    <Media id="media" :media="media" />
     <OrganizerList id="organizers" :organizers="organizers" :advisors="advisors" />
     <!-- Get in touch -->
     <Subscribe id="news" />
@@ -35,6 +36,7 @@ import ContactUs from '~/components/HomeComponents/ContactUs'
 import OrganizerList from '~/components/HomeComponents/OrganizerList'
 import Tickets from '~/components/HomeComponents/Tickets'
 import Sponsors from '~/components/HomeComponents/Sponsors'
+import Media from '~/components/HomeComponents/Media'
 import Nav from '~/components/Nav'
 import SpeakerSignup from '~/components/HomeComponents/SpeakerSignup'
 import LastYearSpeakerList from '~/components/HomeComponents/LastYearSpeakerList'
@@ -46,6 +48,7 @@ export default {
     SpeakerSignup,
     Nav,
     Sponsors,
+    Media,
     Tickets,
     OrganizerList,
     ContactUs,
@@ -101,13 +104,19 @@ export default {
       .sortBy('prio', 'desc')
       .fetch()
 
+    const media = await $content('media', params.slug)
+      .only(['img', 'slug', 'title', 'url'])
+      .sortBy('prio', 'desc')
+      .fetch()
+
     return {
       speakers,
       organizers,
       advisors,
       locations,
       sponsors,
-      lastyearspeakers
+      lastyearspeakers,
+      media
     }
   },
   data () {
