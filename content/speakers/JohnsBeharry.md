@@ -5,31 +5,25 @@ img: johnsbeharry.png
 twitter: 'johnsBeharry'
 github: johnsBeharry
 linkedin: johnsBeharry
-showPage: false
+showPage: true
 ---
 
 # Johns Beharry
  
-Johns is a hybrid product designer and software engineer from a tiny island in the Caribbean, researching user experience of bitcoin payments and privacy, whose presence within the Bitcoin Design Slack is as ubiquitous as bitcoin itself. 
+Johns is a hybrid product designer and software engineer from a tiny island in the Caribbean, researching user experience of bitcoin payments and privacy, whose presence within the Bitcoin Design Slack is as ubiquitous as bitcoin itself. Johns is also a co-organizer of the popular BOLT.FUN and "Shock the Web" hackathons where Lightning developers come together regularly to tackle existing challenges in Lightning.
 <br><br>
 
-## Day 1 | ECON Track | 3:05 - 3:55
-<br>
-<i>If it looks better, it works better</i><br><br>
-Designing for Bitcoin is seemingly more complex. Is it possible to create products all while upholding the core values of self-sovereignty? <br><br>
-
-<b>Panelists:</b><br>
-Anthony Potdevin - Co-Founder Amboss Technologies <br>
-Johns Beharry - Bitcoin designer at Peak Shift<br>
-John Carvalho - The Biz <br><br>
-
-<b>Host:</b> Alexandra Moxin - Advance Tech Podcast
-<br><br>
 
 ## Dive deeper
 
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Watch - If it looks better, it works better** <br><br>
+[ ![If it looks better, it works better](/2022/content/johns_ab21.png)](https://youtu.be/CY_RpZLvLzo/)
+</div>
+
 <div class="p-3 my-2">
 
 **Listen - Privacy & Payments** <br><br>
