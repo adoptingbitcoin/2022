@@ -1,5 +1,5 @@
 ---
-name: "Riccardo <br>Giorgio Fregga"
+name: "Riccardo <br>Giorgio Frega"
 function: Bitcoin Italia Podcast
 img: riccardo.png
 twitter: 'bip_show'
