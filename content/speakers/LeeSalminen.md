@@ -3,26 +3,13 @@ name: "Lee <br>Salminen"
 function: Bitcoin Jungle
 img: lee.jpg
 twitter: 'leesalminen'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Lee Salminen
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Lee is a software engineer and entrepreneur with nearly 15 years of experience. He started his career building websites and apps for local businesses in 2008. After moving to Boulder, Colorado in 2012 he worked as a software engineer for the nation’s largest Disaster Response Management System (visionlink.org), used by the American Red Cross, Federal Emergency Management Agency, and United Way Worldwide. In 2014, he founded Gingr (gingrapp.com), a Pet Care Management System used by 2,000+ dog kennels, daycares, groomers and trainers all over the world. By 2020, Gingr achieved $20 million in Annual Recurring Revenue and processed $1 billion in payments. Gingr was acquired by GI Partners in San Francisco (gipartners.com) after which Lee moved to Costa Rica with his wife and son. Today, Lee is passionate about empowering local people and businesses to become early adopters in the greatest technology mankind has ever devised.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,8 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It**  <br><br>
+[![BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It](/2022/content/jungle.png)](https://www.youtube.com/watch?v=BrEDaFEW6yI/)
 </div>
 
 </div>

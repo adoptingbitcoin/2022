@@ -1,14 +1,14 @@
 ---
-name: "Rich <br>Scotford"
-function: Bitcoin Jungle
-img: rich.jpg
-twitter: 'RichScotford'
+name: "Patrick <br>Melder"
+function: Lago Bitcoin
+img: patrick.png
+twitter: 'lakebitcoin'
 showPage: false
 ---
 
-# Rich Scotford
+# Patrick Melder
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Patrick is a medical doctor, Pleb in Charge and one of the initiators of the nascent circular economy in Bitcoin Lake Guatemala. He is also the author of "The Christian Case for Bitcoin & The Philosophy of Bitcoin and Religion"
 <br><br>
 
 ## Dive deeper
