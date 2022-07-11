@@ -1,8 +1,8 @@
 ---
-name: "Allen <br>Farrington"
-function: writer & investor
-img: allen.png
-twitter: 'allenf32'
+name: "Oscar <br>Lafarga"
+function: Software Solutions Engineer
+img: oscar.png
+twitter: 'oscarlafarga'
 showPage: false
 ---
 
@@ -37,6 +37,7 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 </div>
 
 <br>
+
 
 
 
