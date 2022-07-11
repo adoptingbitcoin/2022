@@ -1,7 +1,7 @@
 ---
 name: "Adi <br>Shankara"
 function: Summer of Bitcoin
-img: adi.png
+img: adi1.png
 twitter: 'adibitcoin'
 showPage: false
 ---
