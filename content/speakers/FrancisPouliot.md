@@ -15,11 +15,6 @@ The CEO and Founder of Bull Bitcoin Francis Pouliot is a full-time Bitcoin entre
 Francis Pouliot es el CEO y fundador de Bull Bitcoin, además de un empresario, investigador y portavoz de la industria de Bitcoin a tiempo completo desde 2013. Es un creador de software y servicios financieros para Bitcoin. Francis se define a sí mismo como un cypherpunk maximalista de Bitcoin, y anteriormente economista de libre mercado.
 <br><br>
 
-## Day 1 | DEV Track | 11:15 - 11:40
-<br>
-<i>Integrating Lightning in an exchange</i><br><br>
-Tips, tricks and solutions developed by Bull Bitcoin while integrating Lightning into their exchange, primarily adddressing other services who seek to integrate Lightning.<br><br>
-
 ## Dive deeper
 
 
