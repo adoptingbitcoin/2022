@@ -3,26 +3,13 @@ name: "Alexandre <br>Bussutil"
 function: bolt.observer
 img: bussutil.png
 twitter: 'abussutil'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Alexandre Bussutil
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Alexandre Bussutil is the head of business development at bolt.observer, a bitcoin-native startup providing monitoring and management tools for lightning node operators. He is also a mentor and visiting professor at IE Business School where he lectures on Bitcoin and digital assets. Before this, Alexandre worked with Fulgur Ventures to conduct research on hyperbitcoinization.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,14 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Read - The Roads to Hyperbitcoinization**  <br><br>
+[![The Roads to Hyperbitcoinization](/2022/content/bussutil_roads.png)](https://bitcoinmagazine.com/culture/the-roads-to-hyperbitcoinization/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - The Roads to Hyperbitcoinization**  <br><br>
+[![The Roads to Hyperbitcoinization](/2022/content/bussutil_abcg.png)](https://anchor.fm/adoptingbitcoin/episodes/Roads-to-Hyperbitcoinization-with-Fulgur-Ventures-e1c1v78/)
 </div>
 
 </div>
