@@ -19,7 +19,7 @@ Peter Todd has been one of the most prolific contributors to free software and B
 <div class="p-3 my-2">
 
 **Read - Surprisingly, Tail Emission Is Not Inflationary** <br><br>
-[ ![Surprisingly, Tail Emission Is Not Inflationary](/2022/content/peter_tail.png)](https://petertodd.org/2022/surprisingly-tail-emission-is-not-inflationary/)
+[ ![Surprisingly, Tail Emission Is Not Inflationary](/2022/content/peter_tail.png)](https://petertodd.org/2022/surprisingly-tail-emission-is-not-inflationary)
 </div>
 
 <div class="p-3 my-2">
