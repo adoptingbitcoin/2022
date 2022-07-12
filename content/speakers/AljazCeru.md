@@ -6,23 +6,11 @@ twitter: 'aaaljaz'
 showPage: false
 ---
 
-# Aaron Van Wirdum
+# Aljaz Ceru
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Aljaz Ceru is a co-founder and Chief Executive Officer of bolt.observer, a bitcoin-native startup providing monitoring and management tools for lightning node operators. He has years of experience in system operations and security, building large-scale infrastructure in various industries (finance, energy, tech). Before co-founding bolt.observer he worked as a Head of Platform at Bitstamp. He also co-founded Bitcoin Ljubljana, a community of Bitcoin enthusiasts in his country’s capital.
+
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +18,8 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Read - Observability in the Lightning network**  <br><br>
+[![Observability in the Lightning network](/2022/content/aljaz_network.png)](https://boltobserver.substack.com/p/observability-in-the-lightning-network/)
 </div>
 
 </div>
