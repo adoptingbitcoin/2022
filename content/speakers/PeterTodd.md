@@ -1,7 +1,7 @@
 ---
 name: "Peter <br>Todd"
 function: Bitcoin Core Developer
-img: peter.jpg
+img: petertodd.png
 twitter: 'peterktodd'
 github: petertodd
 showPage: true
