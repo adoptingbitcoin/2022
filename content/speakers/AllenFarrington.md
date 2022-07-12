@@ -3,26 +3,13 @@ name: "Allen <br>Farrington"
 function: writer & investor
 img: allen.png
 twitter: 'allenf32'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Allen Farrington
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Allen Farrington is an independent writer and former investment manager at Baillie Gifford. On the internet, he disguises as a squirrel and publishes thoughtful articles about Bitcoin and how it fits in the greater scheme of things.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,14 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Read - Bitcoin Is Venice**  <br><br>
+[![Bitcoin Is Venice](/2022/content/allen_venice.png)](https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - The Epic of Bitcoin**  <br><br>
+[![The Epic of Bitcoin](/2022/content/allen_bm.png)](https://www.youtube.com/watch?v=NyHwH6h3OoI/)
 </div>
 
 </div>

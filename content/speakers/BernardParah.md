@@ -5,7 +5,7 @@ img: bernardparah.png
 twitter: 'bernard_parah'
 github: b3h3rkz
 linkedin: bernard-parah-22437386
-showPage: false
+showPage: true
 ---
 
 # Bernard Parah
@@ -14,12 +14,6 @@ Bernard is the CEO of Bitnob, a technology and financial services company for th
 <br><br>
 Bernard es el director de Bitnob, una empresa de tecnología y servicios financieros para el continente africano, construida sobre Bitcoin. Ellos ofrecen ahorros y compras automatizadas de Bitcoin, préstamos con garantía en Bitcoin, servicios de remesas, servicios OTC y aplicaciones comerciales que facilitan a las personas en África la transición hacia una economía en Bitcoin.
 <br><br>
-
-## Day 2 | ECON Track | 10:00 - 10:25
-<br>
-<i>Challenges for the African Market</i><br><br>
-Africa's Bitcoin adoption rate is the highest globally. What are some of the challenges companies face when trying to scale in Africa?<br><br>
-
 
 ## Dive deeper
 
