@@ -16,32 +16,17 @@ Hunter is an active investor (Angel, Seed and Series A rounds) in the Bitcoin, f
 
 <br><br>
 
-## Day 1 | ECON Track | 11:05  - 11:40
-<br>
-<i>Bitcoin for Non-Profits</i><br><br>
-Charitable organizations can achieve sustainability when they attract and effectively use enough of the right kinds of money necessary to achieve their impact. Could bitcoin be the change they need to increase their impact?<br><br>
-
-<b>Panelists:</b><br>
-
-Enrique Berrios - Dentist at Bitcoin Smiles<br>
-Josh Young - New Story<br><br>
-
-<b>Host:</b> Chris Hunter - Co-Host / Galoy
-<br><br>
-
-## Day 2 | ECON Track | 9:05 - 9:25
-<br>
-<i>Bitcoin for Institutions</i><br><br>
-Large companies, institutional investors and governments are increasingly adopting Bitcoin. This fireside chat will explore the details of how big entities are embracing what many call “digital gold” -- and how Lightning can accelerate the use of Bitcoin for institutions in the coming years.<br><br>
-
-Alexander Leishman - River<br>
-<b>Host:</b> Chris Hunter - Co-Host / Galoy<br><br>
-
-
 ## Dive deeper
 
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Watch - The tech behind the Bitcoin Beach Wallet**<br><br>
+[ ![The tech behind the Bitcoin Beach Wallet](/2022/content/chris_tech.png)](https://youtu.be/g0nSmt7ekvU/)
+</div>
+
+
 <div class="p-3 my-2">
 
 **Read - Bitcoin Banking for Communities: Lessons Learned from El Zonte**<br><br>

@@ -5,7 +5,7 @@ img: benarc.jpg
 twitter: 'arcbtc'
 github: arcbtc
 linkedin:
-showPage: false
+showPage: true
 ---
 
 # Ben Arc
@@ -14,25 +14,6 @@ From Wales, Ben Arc advocates and educates about Free Open Source Software (FOSS
 <br><br>
 Nativo de Gales, Ben Arc es un promotor y educador sobre el software libre de código abierto (FOSS). Aproximadamente desde 2014, ha estado construyendo hardware y software para Bitcoin y Lightning Network. En este espacio, Ben anima a las personas a construir sus propias cosas y de esta manera, obtener más autonomía al interactuar con Bitcoin y dispositivos Bitcoin. LNbits es uno de sus proyectos, una billetera Lightning gratuita y de código abierto.
 <br><br>
-
-## Day 1 | Hackspace | tbd
-<br>
-<i>LNURLPoS</i><br><br>
-Offline lightning point of sale gizmo<br><br>
-
-<br>
-<b>LNURLTrigger</b><br><br>
-Super simple/cheap device to turn something on with bitcoin<br><br>
-
-## Day 2 | DEV Track | 5:35 - 6:15
-<br>
-<i>All About LNbits and Local Custodianship</i><br><br>
-<br><br>
-
-## Day 2 | Hackspace | tbd
-<br>
-<i>LNURLTrigger</i><br><br>
-Sweet machine<br><br>
 
 ## Dive deeper
 
