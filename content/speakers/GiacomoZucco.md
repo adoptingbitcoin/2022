@@ -3,7 +3,7 @@ name: "Giacomo <br>Zucco"
 function: BHB Network
 img: giacomozucco.png
 twitter: 'giacomozucco'
-showPage: false
+showPage: true
 ---
 
 # Giacomo Zucco
@@ -11,16 +11,16 @@ showPage: false
 Giacomo is a Bitcoin protocol and Lightning Network protocol consultant/teacher. He spends his time supporting projects that he feels might be relevant for the future of Bitcoin, be it as educator, consultant, entrepreneur, maximalist or troll. Previously he was involved in GreenAddress, AssoBIT, BlockchainLab, Bitcoin Magazine. Currently he's advancing Bitcoin via BHB Network, BTCTimes, Relai, BCademy, Notarify.
 <br><br>
 
-## Day 2 | DEV Track | 9:05 - 9:25
-<br>
-<i>The perfect LN wallet: what we dream of, what we have now</i><br>
-
-What should a good, modern LN wallet have? Taproot compatibility, UX abstraction from L2 vs L1 distinction, easy pairing with full nodes, advanced LN features vs. a benchmark of current options.<br><br>
-
 ## Dive deeper
 
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Watch - The perfect LN wallet: what we dream of, what we have now** <br><br>
+[ ![The perfect LN wallet: what we dream of, what we have now](/2022/content/giacomo_ab21.png)](https://youtu.be/cJWp9a-jjuo/)
+</div>
+
 <div class="p-3 my-2">
 
 **Listen - All Things Bitcoin** <br><br>
