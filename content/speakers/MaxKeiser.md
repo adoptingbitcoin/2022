@@ -3,12 +3,12 @@ name: "Max <br>Keiser"
 function: El Zonte Capital
 img: max.png
 twitter: 'maxkeiser'
-showPage: false
+showPage: true
 ---
 
 # Max Keiser
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Max Keiser is one of the earliest Bitcoin advocates. He has been preaching about Satoshi's peer to peer electronic cash system to his audiences since 2010. He has supporters all over the world and especially in LATAM where his show was broadcasted in Spanish language. Max is also the main driver of Bitcoin Derangement Syndrome - a psychological disorder found among Bitcoin deniers who cannot overcome the pain of not having listened to Max. Together with his partner Stacy Herbert, Max is hosting the "Max and Stacy Report", broadcast from El Salvador, which he has chosen as his new home.
 <br><br>
 
 ## Dive deeper
