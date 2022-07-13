@@ -5,7 +5,7 @@ img: mikepeterson.jpg
 twitter: 'bitcoinbeach'
 github: 
 linkedin: mike-peterson-09341127
-showPage: false
+showPage: true
 ---
 
 # Mike Peterson
@@ -13,20 +13,16 @@ showPage: false
 Mike Peterson is the Director at Bitcoin Beach, a non-profit located in El Zonte / El Salvador that helped bootstrap the circular Bitcoin economy that eventually inspired the adoption of Bitcoin as legal tender in El Salvador.
 <br><br>
 
-## Day 1 | ECON Track | 9:35 - 10:10
-<br>
-<i>Bootstrapping Bitcoin Adoption</i><br><br>
-Bitcoin Beach has made it its mission to prove that Bitcoin could have the biggest impact on the lives of those that society often ignores. Where did it start? Where do they go from there?<br><br>
-
-<b>Fireside Chat</b><br><br>
-Mike Peterson - Director of Bitcoin Beach<br>
-Hosted by: Gerson Martinez
-<br><br>
-
 ## Dive deeper
 
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Watch - Bootstrapping Bitcoin Adoption**  <br><br>
+[![Bootstrapping Bitcoin Adoption](/2022/content/mike_ab21.png)](https://youtu.be/_GnR7uF7IL0/)
+</div>
+
 <div class="p-3 my-2">
 
 **Listen - SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**  <br><br>
