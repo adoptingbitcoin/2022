@@ -1,6 +1,6 @@
 ---
 name: "Carol <br>Souza"
-function: Coinos
+function: Usecripto
 img: carol1.png
 twitter: 'usecriptobr'
 linkedin: caroline-souza-b05952164
