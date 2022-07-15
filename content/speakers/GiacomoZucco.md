@@ -17,6 +17,12 @@ Giacomo is a Bitcoin protocol and Lightning Network protocol consultant/teacher.
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Listen - Is Bitcoin dark money?** <br><br>
+[ ![Is Bitcoin dark money?](/2022/content/zucco_saif.png)](https://saifedean.com/podcast/121-is-bitcoin-dark-money-with-giacomo-zucco/)
+</div>
+
+<div class="p-3 my-2">
+
 **Watch - The perfect LN wallet: what we dream of, what we have now** <br><br>
 [ ![The perfect LN wallet: what we dream of, what we have now](/2022/content/giacomo_ab21.png)](https://youtu.be/cJWp9a-jjuo/)
 </div>
