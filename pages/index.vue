@@ -10,7 +10,7 @@
     <div class="bg-rainbow-right bg-contain bg-left">
 <!--      <LastYearSpeakerList :speakers="lastyearspeakers" />-->
       <SpeakerList :speakers="speakers" />
-      <SpeakerSignup />
+<!--      <SpeakerSignup />-->
       <SponsorSignup />
     </div>
     <!-- <Schedule /> -->
