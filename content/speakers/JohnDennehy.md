@@ -3,26 +3,13 @@ name: "John <br>Dennehy"
 function: Mi Primer Bitcoin
 img: johndennehy.png
 twitter: 'jdennehy_writes'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# John Dennehy
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+John is a writer and activist. Born in New York he often works at the UN and otherwise lives abroad working as a journalist. He is a best-selling author and has written about Bitcoin in Latin America for places such as the Guardian, Al-Jazeera, and the BBC. He is obsessed with decentralization and self-sovereignty. In a world at the crossroads, he sees Bitcoin as humanity’s best chance to build something better. Currently based in El Salvador.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,8 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - Bitcoin Diploma in El Salvador**  <br><br>
+[![Bitcoin Diploma in El Salvador](/2022/content/dennehy.png)](https://www.youtube.com/watch?v=TnwALwnlwyc/)
 </div>
 
 </div>
