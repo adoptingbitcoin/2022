@@ -3,7 +3,7 @@ name: "Aljaz <br>Ceru"
 function: bolt.observer
 img: aljaz.png
 twitter: 'aaaljaz'
-showPage: false
+showPage: true
 ---
 
 # Aljaz Ceru
