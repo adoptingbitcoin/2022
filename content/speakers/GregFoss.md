@@ -1,12 +1,12 @@
 ---
-name: "Pierre <br>Rochard"
-function: Bitcoin Researcher
-img: pierre.png
-twitter: 'BitcoinPierre'
-showPage: true
+name: "Greg <br>Foss"
+function: Macro Analyst
+img: gregfoss.png
+twitter: 'FossGregfoss'
+showPage: false
 ---
 
-# Pierre Rochard
+# Javier Bastardo
  
 Pierre is a co-founder of the Nakamoto Institute. He also hosts the Noded podcast together with Michael Goldstein. Pierre was also responsible for overseeing the integration of Lightning Network in the major Kraken exchange and is an outspoken advocate for the adoption of Lightning at exchanges.
 <br><br>
@@ -30,6 +30,8 @@ Pierre is a co-founder of the Nakamoto Institute. He also hosts the Noded podcas
 </div>
 
 <br>
+
+
 
 
 
