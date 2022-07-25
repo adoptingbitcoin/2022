@@ -3,26 +3,13 @@ name: "Marina <br>Spindler"
 function: torogoz.dev
 img: marina.jpg
 twitter: 'MarinaSpindler'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Marina Spindler
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Marina is a communications expert and business development advisor for blockchain and digital currency companies. She is a sought-after connector that brings together founders with strategic partners and investors. In 2016 she founded SPINDLER EDGE to bring clarity, structure and accountability to global ventures looking for a competitive edge. Currently she is working on Torogoz Dev, an educational program based in El Salvador that aims to train in the area of ​​Bitcoin and Lightning Network development, to give students the opportunity to opt for better job opportunities and have the skills and knowledge necessary to contribute value in the development of Bitcoin & Lightning on a national and international scale.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,8 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - ¿Desarrollar Bitcoin desde El Salvador?**  <br><br>
+[![¿Desarrollar Bitcoin desde El Salvador?](/2022/content/torogoz.png)](https://www.youtube.com/watch?v=zvgz2rqgH-8/)
 </div>
 
 </div>
