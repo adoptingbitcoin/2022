@@ -23,7 +23,7 @@ export default {
   components: { Sponsor, GradientHeader, Container, BGGrey },
   props: {
     media: {
-      type: Object,
+      type: Array,
       default: () => { return { media: [] } }
     }
   }
