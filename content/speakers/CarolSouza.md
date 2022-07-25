@@ -1,8 +1,8 @@
 ---
 name: "Carol <br>Souza"
-function: Usecripto
+function: Area Bitcoin
 img: carol1.png
-twitter: 'usecriptobr'
+twitter: 'carol_bitcoin'
 linkedin: caroline-souza-b05952164
 showPage: true
 ---
