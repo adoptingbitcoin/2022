@@ -14,6 +14,8 @@
       <img class="box-img" src="~/assets/images/box.png" alt="">
     </div>
 
+    <Blog />
+
   </Container>
   </div>
 </template>
@@ -23,9 +25,10 @@ import Container from '~/components/Container'
 import BlueTitle from '~/components/BlueTitle'
 import CTA from '~/components/CTA';
 import GradientHeader from "~/components/GradientHeader";
+import Blog from "~/components/HomeComponents/Blog";
 export default {
   name: 'JoinTheNetwork',
-  components: {GradientHeader, CTA, BlueTitle, Container }
+  components: {Blog, GradientHeader, CTA, BlueTitle, Container }
 }
 </script>
 
