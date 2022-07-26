@@ -17,8 +17,8 @@ showPage: true
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Listen - Maven Marketplace 2**  <br><br>
-[![Maven Marketplace 2](/2022/content/maven.png)](https://fountain.fm/episode/8242839495/)
+**Listen - Maven Marketplace**  <br><br>
+[![Maven Marketplace](/2022/content/maven.png)](https://fountain.fm/episode/7787955122/)
 </div>
 
 

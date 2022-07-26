@@ -3,26 +3,13 @@ name: "Rishi <br>Bond"
 function: Bitcoin Lake Guatemala
 img: rishibond.png
 twitter: 'iamrishibond'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Rishi Bond
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Inspired by Bitcoin Beach in El Salvador, Guatemalan-born, Rishi Bond, founded Bitcoin Lake in Guatemala in mid-2021. Since then, he and the San Marcos La Laguna community have built a Lightning Network circular economy and social programs funded by Bitcoin. Now the community has over 40 businesses accepting Bitcoin on the Lightning Network, a two-way Lamassu ATM, and some of the local population receiving Bitcoin as salary with so much more to come! Will Guatemala be next to make Bitcoin legal tender? We hope so! And Bitcoin Lake aims to be the catalyst for Guatemala that Bitcoin Beach was for El Salvador.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,14 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Read - Bitcoin Lake — How it all started**  <br><br>
+[![Bitcoin Lake — How it all started](/2022/content/rishimeetup.png)](https://bitcoinlake.medium.com/bitcoin-lake-how-it-all-started-5ef83763e1cc/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - Los pueblos indígenas de Guatemala están descubriendo la magia de bitcoin**  <br><br>
+[![Los pueblos indígenas de Guatemala están descubriendo la magia de bitcoin](/2022/content/rishilake.png)](https://www.criptonoticias.com/entrevistas/pueblos-indigenas-guatemala-estan-descubriendo-magia-bitcoin/)
 </div>
 
 </div>
