@@ -14,7 +14,7 @@
 
       <div class="">
         <a href="https://medium.com/@AdoptingBTC/back-to-bitcoin-country-announcing-adopting-bitcoin-2022-94edb49ee54a" target="_blank" class="hover:underline">
-          <img src="~/assets/images/blog/back-to-bitcoin.jpg" class="w-full mb-2">
+          <img src="~/assets/images/blog/blog2.jpg" class="w-full mb-2">
           <h5 class="text-2xl">Back to Bitcoin Country: Announcing Adopting Bitcoin 2022</h5>
         </a>
       </div>
