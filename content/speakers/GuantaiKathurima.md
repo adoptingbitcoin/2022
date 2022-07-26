@@ -3,26 +3,13 @@ name: "Guantai <br>Kathurima"
 function: Bitcoin Mtaani
 img: guantai.png
 twitter: 'MasterGuantai'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
- 
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+# Guantai Kathurima
+Guantai is a Kenyan Bitcoin Maximalist and the founder of BitcoinMtaani which is expediting Bitcoin adoption in Africa via educational content in Native African national languages. His mission is to bring this idea whose time has come to every African as it will finally bring true freedom, hope and sovereignty.
+
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,8 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - Master Guantai on Bitcoin Adoption in Kenya**  <br><br>
+[![Master Guantai on Bitcoin Adoption in Kenya](/2022/content/mtaani.png)](https://www.youtube.com/watch?v=fp5vy6tUJmM/)
 </div>
 
 </div>
