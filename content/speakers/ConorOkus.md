@@ -31,8 +31,8 @@ Conor is a Product Manager at Square Crypto, managing their grant program that f
 
 <div class="p-3 my-2">
 
-**Watch - Saving for the future & working in the Bitcoin industry - Conor Okus** <br><br>
-[ ![Saving for the future & working in the Bitcoin industry - Conor Okus](/2022/content/conor_future.png)](https://www.youtube.com/watch?v=WCKRR09UqrM/)
+**Watch - Creating a Sample Lightning Node with LDK** <br><br>
+[ ![Creating a Sample Lightning Node with LDK](/2022/content/conor1.png)](https://www.youtube.com/watch?v=x6C8pjcMixo/)
 </div>
 
 </div>
