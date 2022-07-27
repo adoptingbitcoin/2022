@@ -32,7 +32,7 @@ Conor is a Product Manager at Square Crypto, managing their grant program that f
 <div class="p-3 my-2">
 
 **Watch - Creating a Sample Lightning Node with LDK** <br><br>
-[ ![Creating a Sample Lightning Node with LDK](/2022/content/conor1.png)](https://www.youtube.com/watch?v=x6C8pjcMixo/)
+[ ![Creating a Sample Lightning Node with LDK](/2022/content/conorldk.png)](https://www.youtube.com/watch?v=x6C8pjcMixo/)
 </div>
 
 </div>
