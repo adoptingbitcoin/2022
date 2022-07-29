@@ -1,28 +1,15 @@
 ---
 name: "Burak <br>Keceli"
 function: Bitmatrix
-img: burak.png
+img: buraknew.png
 twitter: 'brqgoo'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Burak Keceli
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Burak started in Bitcoin in 2017, exploring and building around mining, payments, wallets, developer tools and most recently, Bitcoin-style smart contracts. Burak is currently working on Bitmatrix, a trustless exchange protocol on the Liquid Network that allows direct asset swaps without giving up the custody of funds.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,9 +17,23 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - Sidechains: Benefits and Tradeoffs**  <br><br>
+[![Sidechains: Benefits and Tradeoffs](/2022/content/sidechains.png)](https://www.youtube.com/watch?v=8tCx6EwPU4s/)
 </div>
+
+<div class="p-3 my-2">
+
+**Watch - Building on Liquid**  <br><br>
+[![Building on Liquid](/2022/content/liquid.png)](https://www.youtube.com/watch?v=UJXQFOMV16U/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Liquid Script Wizard with Burak**  <br><br>
+[![Liquid Script Wizard with Burak](/2022/content/burakworkshop.png)](https://www.youtube.com/watch?v=6kRsz5JKFig/)
+</div>
+
+
 
 </div>
 
