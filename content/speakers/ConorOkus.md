@@ -1,7 +1,7 @@
 ---
 name: "Conor <br>Okus"
 function: Spiral
-img: conorokus.jpeg
+img: conornew.png
 twitter: 'ConorOkus'
 github: ConorOkus
 linkedin: conorokus
@@ -10,7 +10,7 @@ showPage: true
 
 # Conor Okus
  
-Conor is a Product Manager at Square Crypto, managing their grant program that funds over 20 open-source developers and designers. He's also the User Experience Lead at Hello Bitcoin, the most friendly place for beginners to learn about Bitcoin. 
+Conor Okus is helping developers build on bitcoin faster. He's an educator, speaker, community builder, bitcoin product advocate and Product Manager at Spiral. He's the host of "Bitcoin Developers", a live stream show where he pairs with members of the community to learn how to build bitcoin apps. He's also passionate about educating newbies on the basics of bitcoin over at Hello Bitcoin.   
 <br><br>
 
 ## Dive deeper
