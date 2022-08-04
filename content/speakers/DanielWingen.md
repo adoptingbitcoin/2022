@@ -1,6 +1,6 @@
 ---
 name: "Daniel <br>Wingen"
-function: einundzwanzig
+function: Galoy
 img: danielwingen.jpg
 twitter: 'danielwingen'
 showPage: false
