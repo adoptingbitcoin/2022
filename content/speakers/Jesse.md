@@ -7,7 +7,7 @@ github: Jestopher-BTC
 showPage: true
 ---
 
-# Jesse Jestopher
+# Jesse Shrader
  
 Jesse is the Co-Founder of Amboss Technologies, where he interfaces between community desires and technical direction to create social lightning products that users love. Amboss provides a platform to gather insights about the lightning network and the operators that help keep the decentralized network coordinated. Jesse has a background in Environmental Engineering and Legal Services, which he applies to create technical solutions for a better decentralized banking experience.
 <br><br>
