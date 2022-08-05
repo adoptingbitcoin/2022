@@ -1,7 +1,7 @@
 ---
-name: "Jestopher<br><br>"
+name: "Jesse<br> Shrader<br>"
 function: Amboss Technologies
-img: thomasjestopher.png
+img: jest1.png
 twitter: 'Jestopher_BTC'
 github: Jestopher-BTC
 showPage: true
@@ -9,13 +9,20 @@ showPage: true
 
 # Jesse Jestopher
  
-Jestopher is an active member of the Lightning Community, providing perspective on operating lightning network routing nodes. Jestopher is the co-founder of Amboss Technologies, where he interfaces between community desires and technical direction to create lightning products that users love. With an inventing mindset and a background in Environmental and Transportation Engineering, Jestopher is energized by the opportunities that the Lightning Network can provide to further human flourishing using frictionless payment and savings technology. You can find Jestopher co-hosting the Lightning Friday podcast, a live-recorded Twitter Space, as well as Bitcoin Kindergarten, which is an education-centric live "call in" show for new-coiners, plebs, and maximalists. He provides a modicum of professionalism, off-setting at least some degeneracy.
+Jesse is the Co-Founder of Amboss Technologies, where he interfaces between community desires and technical direction to create social lightning products that users love. Amboss provides a platform to gather insights about the lightning network and the operators that help keep the decentralized network coordinated. Jesse has a background in Environmental Engineering and Legal Services, which he applies to create technical solutions for a better decentralized banking experience.
 <br><br>
 
 ## Dive deeper
 
 
 <div class="grid grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Watch - Amboss, Lightning Nodes, & Lightning Social Networks** <br><br>
+[ ![Amboss, Lightning Nodes, & Lightning Social Networks](/2022/content/jesse1.png)](https://www.youtube.com/watch?v=-l3Y-Rlm39c/)
+</div>
+
+
 <div class="p-3 my-2">
 
 **Watch - Where do you fit in the Lightning Network?** <br><br>
