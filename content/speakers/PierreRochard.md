@@ -1,6 +1,6 @@
 ---
 name: "Pierre <br>Rochard"
-function: Bitcoin Researcher
+function: Riot
 img: pierre.png
 twitter: 'BitcoinPierre'
 showPage: true
@@ -8,13 +8,19 @@ showPage: true
 
 # Pierre Rochard
  
-Pierre is a co-founder of the Nakamoto Institute. He also hosts the Noded podcast together with Michael Goldstein. Pierre was also responsible for overseeing the integration of Lightning Network in the major Kraken exchange and is an outspoken advocate for the adoption of Lightning at exchanges.
+Pierre Rochard is the VP of Research at Riot, a bitcoin mining company. He was previously a product manager at Kraken, a bitcoin exchange. Pierre has been researching bitcoin and Lightning with a focus on adoption and education.
 <br><br>
 
 ## Dive deeper
 
 
 <div class="grid grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Listen - Bitcoin obsoletes fractional reserve banking**  <br><br>
+[![Bitcoin obsoletes fractional reserve banking](/2022/content/pierrefractional.png)](https://stephanlivera.com/episode/402/)
+</div>
+
 <div class="p-3 my-2">
 
 **Read - The Bitcoin Central Bank's Perfect Monetary Policy**  <br><br>
