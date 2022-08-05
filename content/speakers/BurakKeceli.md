@@ -3,6 +3,7 @@ name: "Burak <br>Keceli"
 function: Bitmatrix
 img: buraknew.png
 twitter: 'brqgoo'
+github: brqgoo
 showPage: true
 ---
 
