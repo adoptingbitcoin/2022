@@ -18,6 +18,13 @@ Elsirion is a Crypto-Anarchist and aspiring Cypherpunk developing mostly on Rust
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Watch - How FediMints could ease onboarding and privacy in Bitcoin** <br><br>
+[ ![How FediMints could ease onboarding and privacy in Bitcoin w/ Eric Sirion and Matt Odell](/2022/content/ericseth.png)](https://optoutpod.com/episodes/s3e01-fedimints/)
+</div>
+
+
+<div class="p-3 my-2">
+
 **Watch - Federated Chaumian Mints Overview** <br><br>
 [ ![Federated Chaumian Mints Overview](/2022/content/fedimint.png)](https://www.youtube.com/watch?v=BtbUGFHZTW8/)
 </div>
