@@ -1,6 +1,6 @@
 ---
 name: "Paul <br>Itoi"
-function: Sphinx / Stakwork
+function: Stakwork
 img: paulitoi.png
 twitter: 'paulitoi'
 linkedin: paul-itoi-b1bb
@@ -12,11 +12,6 @@ showPage: true
 
 Paul Itoi is channelling major creative energy into two projects that exemplify the revolution of the Lightning Network and genuinely empower digital workers and content creators – Sphinx & Stakwork. At one time his creative energy went into his Art major, oil painting or the violin but now it’s this zeitgeisty software development and time with his family.
 <br><br>
-
-## Day 1 | DEV Track | 2:35 - 3:00
-<br>
-<i>Solving the Dev Crunch</i><br><br>
-Are you building on lightning? Come see how you can use lightning & Sphinx to build the team to build your dream. Hire, coordinate, and pay using tribes and lightning payments. <br><br>
 
 ## Dive deeper
 
