@@ -1,6 +1,6 @@
 ---
 name: "Stacy <br>Herbert"
-function: Orange Pill Podcast
+function: El Zonte Capital
 img: stacy.png
 twitter: 'stacyherbert'
 showPage: true
@@ -8,7 +8,7 @@ showPage: true
 
 # Stacy Herbert
 
-Stacy is a OG Bitcoiner and has been evangalizing Bitcoin to her audiences since 2011. Together with her partner Max Keiser, she hosts the Orange Pill Podcast and is an outspoken supporter of El Salvador's Bitcoin adoption.  
+Stacy is a OG Bitcoiner and has been evangalizing Bitcoin to her audiences since 2011. Together with her partner Max Keiser, she hosts the Orange Pill Podcast and is an outspoken supporter of El Salvador's Bitcoin adoption.
 <br><br>
 
 
