@@ -18,7 +18,7 @@ Yves fell into the Bitcoin rabbit hole in 2011. Soon after, he became increasing
 <div class="p-3 my-2">
 
 **Read - Nunca pares de aprender**  <br><br>
-[![Nunca pares de aprender](/2022/content/yves.png)](https://diarioelsalvador.com/nunca-pares-de-aprender/93519/)
+[![Nunca pares de aprender](/2022/content/yves1.png)](https://diarioelsalvador.com/nunca-pares-de-aprender/93519/)
 </div>
 
 <div class="p-3 my-2">
