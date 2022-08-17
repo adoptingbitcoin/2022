@@ -17,6 +17,12 @@ Allen Farrington is an independent writer and former investment manager at Baill
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Watch - Austrians, Capital & DeFi Yield**  <br><br>
+[![Austrians, Capital & DeFi Yield](/2022/content/allen32.png)](https://www.youtube.com/watch?v=b1PITlqnKOw/)
+</div>
+
+<div class="p-3 my-2">
+
 **Read - Bitcoin Is Venice**  <br><br>
 [![Bitcoin Is Venice](/2022/content/allen_venice.png)](https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070/)
 </div>
