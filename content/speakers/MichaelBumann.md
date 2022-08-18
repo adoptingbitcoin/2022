@@ -3,6 +3,7 @@ name: "Michael <br>Bumann"
 function: Alby
 img: bumi.jpg
 twitter: 'bumi'
+github: bumi
 showPage: true
 ---
 
