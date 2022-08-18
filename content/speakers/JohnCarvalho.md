@@ -29,6 +29,24 @@ John Carvalho is a 9-year Bitcoin veteran that has been a staunch defender of "t
 
 <div class="p-3 my-2">
 
+**Listen - Slashpay - Bitcoin Payment Negotiation** <br><br>
+[ ![Slashpay - Bitcoin Payment Negotiation](/2022/content/john1.png)](https://stephanlivera.com/episode/362/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Bitcoin Maximalism** <br><br>
+[ ![Bitcoin Maximalism](/2022/content/john2.png)](https://www.youtube.com/watch?v=ofxmzWzGucY/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Unpopular Opinions** <br><br>
+[ ![Unpopular Opinions](/2022/content/john3.png)](https://fountain.fm/episode/8832503990/)
+</div>
+
+<div class="p-3 my-2">
+
 **Listen - The Biz** <br><br>
 [ ![The Biz](/2022/content/john_thebiz.png)](https://thebiz.pro/)
 </div>
