@@ -8,7 +8,7 @@ showPage: true
 
 # John Carvalho
  
-John Carvalho is a 9-year Bitcoin veteran that has been a staunch defender of "toxic" Bitcoin Maximalist ideals, while participating in the full spectrum of Bitcoin communities, projects, and events. In March 2020, John left his role as CCO at Bitrefill, the most successful international Bitcoin e-commerce company in the world, to pursue a new vision for Bitcoin. At Bitrefill, he helped promote the Lightning Network from its earliest days, including working with Bitfinex to become the first major exchange to add Lightning support. Currently, John is the CEO at Synonym - a company to research, design, and develop cutting-edge technology and products for Bitcoin that will pave the way for a post-hyperbitcoinized social economy. 
+CEO at Synonym, creating an ecosystem of software and protocols to accelerate and facilitate hyperbitcoinization and an alternative new economy. John has been focused on Bitcoin and Bitcoin products for 10 years.
 <br><br>
 
 ## Dive deeper
@@ -41,7 +41,7 @@ John Carvalho is a 9-year Bitcoin veteran that has been a staunch defender of "t
 
 <div class="p-3 my-2">
 
-**Watch - Unpopular Opinions** <br><br>
+**Listen - Unpopular Opinions** <br><br>
 [ ![Unpopular Opinions](/2022/content/john3.png)](https://fountain.fm/episode/8832503990/)
 </div>
 
