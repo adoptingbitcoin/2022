@@ -19,9 +19,9 @@
           <NuxtLink to="/#home" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.home') }}
           </NuxtLink>
-<!--          <NuxtLink to="/#speakers" class="link" @click.native="menuIsShown=false">-->
-<!--            {{ $t('menu.speakers') }}-->
-<!--          </NuxtLink>-->
+          <NuxtLink to="/#speakers" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.speakers') }}
+          </NuxtLink>
           <NuxtLink to="/#tickets" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.tickets') }}
           </NuxtLink>
