@@ -3,13 +3,11 @@
     <Nav class="navIsHidden" :class="{ 'navIsVisible': navIsVisible, 'hidden': hideNav }" />
     <Header id="home" v-view="headerScrollHandler" />
     <JoinTheNetwork />
-    <!-- <SpeakerList id="speakers" :speakers="speakers" /> -->
     <ComeJoinUs />
     <Locations id="location" :locations="locations" />
-    <!-- Speaker submission -->
     <div class="bg-rainbow-right bg-contain bg-left">
 <!--      <LastYearSpeakerList :speakers="lastyearspeakers" />-->
-      <SpeakerList :speakers="speakers" />
+      <SpeakerList id="speakers" :speakers="speakers" />
 <!--      <SpeakerSignup />-->
       <SponsorSignup />
     </div>
