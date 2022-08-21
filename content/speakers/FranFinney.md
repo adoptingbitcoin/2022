@@ -2,7 +2,7 @@
 name: "Fran <br>Finney"
 function: ALS West Chapter
 img: fran.png
-link: 'http://runningbitcoin.us'
+twitter: 'franfinney'
 showPage: false
 ---
 
