@@ -1,7 +1,7 @@
 ---
 name: "Fran <br>Finney"
 function: ALS West Chapter
-img: fran.png
+img: fran2.png
 twitter: 'franfinney'
 showPage: false
 ---
