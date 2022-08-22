@@ -17,6 +17,12 @@ Akin is the founder of Azteco - a service to buy bitcoin with a top up voucher i
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Watch - Consumer Bitcoin!**  <br><br>
+[![Consumer Bitcoin!](/2022/content/jarmuz2.png)](https://www.youtube.com/watch?v=tHxqroXSMqg/)
+</div>
+
+<div class="p-3 my-2">
+
 **Read - Bitcoin’s Tipping Point is Here**  <br><br>
 [![Bitcoin’s Tipping Point is Here](/2022/content/akin_tipping.png)](https://medium.com/@beautyon_/bitcoins-tipping-point-is-here-57a0243215a9/)
 </div>
