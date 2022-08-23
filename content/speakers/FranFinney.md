@@ -3,34 +3,33 @@ name: "Fran <br>Finney"
 function: ALS West Chapter
 img: fran2.png
 twitter: 'franfinney'
-showPage: false
+showPage: true
 ---
 
 # Fran Finney
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Fran Finney's husband Hal Finney was one of the first supporters of bitcoin when Nakamoto floated it on a cryptography mailing list. On January 10, 2009 he famously tweeted: “Running bitcoin”. Two days later he received the first bitcoin transaction for 10 BTC from Satoshi in block 170. On August 5, 2009, Hal was diagnosed with ALS. He lived valiantly with ALS for 5 more years, and passed away in August, 2014. Join the “Running Bitcoin Challenge” January 1-10 to raise funds for the Golden West Chapter of the ALS Association in honor of legendary cypherpunk, Hal Finney. More information on the links below.
 <br><br>
+<div class="p-3 my-2">
 
+[![Fran Finney for Running Bitcoin '23](/2022/content/finney3.png)](https://runningbitcoin.us/)
+</div>
+
+<br><br>
 ## Dive deeper
 
 
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Read - El Salvador: One small step for Bitcoin**  <br><br>
-[![El Salvador: One small step for Bitcoin](/2022/content/aaron_step.png)](https://bitcoinmagazine.com/culture/el-salvador-one-small-step-for-bitcoin/)
+**Watch - Fran Finney for Running Bitcoin '23**  <br><br>
+[![Fran Finney for Running Bitcoin '23](/2022/content/finney1.png)](https://www.youtube.com/watch?v=CeEvue__2X8/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - El Salvador Bitcoin Law on the ground**  <br><br>
-[![El Salvador Bitcoin Law on the ground](/2022/content/aaron_slp.png)](https://stephanlivera.com/episode/305/)
-</div>
-
-<div class="p-3 my-2">
-
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Read - Run to Defeat ALS**  <br><br>
+[![Run to Defeat ALS](/2022/content/finney2.png)](https://runningbitcoin.us/)
 </div>
 
 </div>
