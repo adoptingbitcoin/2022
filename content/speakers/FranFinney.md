@@ -1,6 +1,6 @@
 ---
 name: "Fran <br>Finney"
-function: ALS West Chapter
+function: Golden West Chapter of the ALS Association
 img: fran2.png
 twitter: 'franfinney'
 showPage: true
