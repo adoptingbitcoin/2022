@@ -11,6 +11,7 @@
         <a href="https://twitter.com/AdoptingBTC" target="_blank"><img src="~/assets/images/twitter.png" class="h-20 "></a>
         <a href="https://www.linkedin.com/company/76150672" target="_blank"><img src="~/assets/images/linkedin.png" class="h-20"></a>
         <a href="https://t.me/AdoptingBTC" target="_blank"><img src="~/assets/images/telegram.png" class="h-20"></a>
+        <a href="https://www.youtube.com/channel/UCz96fAA2tGsOxeodPCeYAPQ" target="_blank"><img src="~/assets/images/youtube.png" class="h-20"></a>
         <div class="hidden md:block"></div>
       </div>
 
