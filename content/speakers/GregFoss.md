@@ -1,14 +1,14 @@
 ---
 name: "Greg <br>Foss"
-function: Macro Analyst
-img: gregfoss.png
+function: Looking Glass Education
+img: gregfoss1.png
 twitter: 'FossGregfoss'
-showPage: false
+showPage: true
 ---
 
-# Javier Bastardo
+# Greg Foss
  
-Pierre is a co-founder of the Nakamoto Institute. He also hosts the Noded podcast together with Michael Goldstein. Pierre was also responsible for overseeing the integration of Lightning Network in the major Kraken exchange and is an outspoken advocate for the adoption of Lightning at exchanges.
+Greg has been active as a credit risk trader for 35 years and is currently an executive at Validus Power with focus on Bitcoin Strategy.
 <br><br>
 
 ## Dive deeper
@@ -17,14 +17,14 @@ Pierre is a co-founder of the Nakamoto Institute. He also hosts the Noded podcas
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Read - The Bitcoin Central Bank's Perfect Monetary Policy**  <br><br>
-[![The Bitcoin Central Bank's Perfect Monetary Policy](/2022/content/pierre_perfect.png)](https://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/)
+**Watch - Sell Bonds, Buy Bitcoin**  <br><br>
+[![Sell Bonds, Buy Bitcoin](/2022/content/gregfoss2.png)](https://www.youtube.com/watch?v=MZQSxb_8DUk/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - Noded 82**  <br><br>
-[![Noded 82](/2022/content/pierre_noded.png)](https://soundcloud.com/noded-bitcoin-podcast/noded-82-with-bitstein-and-pierre/)
+**Watch - Bitcoin And Bonds**  <br><br>
+[![Bitcoin And Bonds](/2022/content/gregfoss3.png)](https://www.youtube.com/watch?v=3g-I9e7KlHM/)
 </div>
 
 </div>
