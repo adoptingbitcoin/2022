@@ -1,14 +1,13 @@
 ---
-name: "Mónica <br>Taher"
+name: "Monica <br>Taher"
 function: PROESA
 img: monicataher.jpg
 twitter: 'monicataher'
-github: 
 linkedin: monicataher
 showPage: true
 ---
 
-# Mónica Taher
+# Monica Taher
  
 Born in San Salvador, Taher serves as the Technological Economic International Affairs Advisor for the Trade Investments Secretariat at the Government of El Salvador. She’s a former CNN en Español technology commentator and also a personal finance and technology advisor where she empowers women to adopt technology as a way to minimize the gender pay gap and has become one of the most prominent promoters of bitcoin adoption in El Salvador.
 <br><br>
