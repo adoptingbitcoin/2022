@@ -1,6 +1,6 @@
 ---
 name: "Mónica <br>Taher"
-function: Republic of El Salvador
+function: PROESA
 img: monicataher.jpg
 twitter: 'monicataher'
 github: 
