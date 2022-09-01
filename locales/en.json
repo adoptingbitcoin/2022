@@ -93,8 +93,6 @@
     "priceUp": {
       "prices": [
         {
-          "text2": "<strong>Early Adopter</strong> until August 31",
-          "price2": "$225",
           "text3": "<strong>Late Adopter</strong> until October 31",
           "price3": "$300",
           "text4": "<strong>Last Minute</strong> until November 15",
