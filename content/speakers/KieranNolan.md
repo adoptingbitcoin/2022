@@ -8,7 +8,7 @@ showPage: true
 
 # Kieran Nolan
  
-Kieran is Alpha’s Chief Bitcoin Officer and Co-Founder and also the director of the Digital Playhouse Foundation, a charity which runs a number of projects including; the Stacks Australian Community, TheSchoolofBitcoin, and Bitcoin Australia Meetups. He is the news manager of BitcoinAggregated, a news organisation dedicated to “curating and commenting on all the latest ₿itcoin information from every corner of the Internet.” 
+Kieran is Alpha’s Chief Bitcoin Officer and Co-Founder and has been working on Bitcoin since Oct 10, 2012, 5:01 PM when he launched Australia’s first Bitcoin education program at school in NSW. Kieran later built the world’s first student-centric learning space in Victoria with a donation of 21 Bitcoin, where students learned about financial literacy and were able to choose their own learning journey’s; which included voting on how the 21 Bitcoin were allocated, and helping to build the space. Kieran has now launched TheSchoolofBitcoin, a virtual school and decentralised autonomous education system built on the Bitcoin blockchain. Kieran is also news manager of BitcoinAggregated, a news organisation dedicated to “curating and commenting on all the latest Bitcoin information from every corner of the Internet.” This platform now also hosts the alpha podcast.
 <br><br>
 
 ## Dive deeper
