@@ -1,28 +1,15 @@
 ---
 name: "Ken <br>Kruger"
 function: Moon
-img: ken.png
+img: kenkruger.png
 twitter: 'krucraft'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Ken Kruger
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Ken Kruger is the founder and CEO of Moon (paywithmoon.com), the most private way to spend bitcoin. Prior to starting Moon, Ken ran a software consulting company that helped venture backed startups build tech products. Ken worked at Lockheed Martin as a software engineer and product manager on classified military projects. Ken studied financial engineering at Columbia University where he received an M.S in Industrial Engineering and Operations Research. He received his B.S. in Computer Science from Cornell University.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,8 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - The Bitcoin Payment Revolution**  <br><br>
+[![The Bitcoin Payment Revolution - Bitcoin 2022 Conference](/2022/content/ken1.png)](https://www.youtube.com/watch?v=NpuPm1FsUQk/)
 </div>
 
 </div>
