@@ -1,7 +1,7 @@
 ---
 name: "Anthony <br> Potdevin"
 function: Amboss Technologies
-img: potdevin.jpg
+img: potdevin.png
 twitter: 'tonyioi'
 github: apotdevin
 showPage: true
