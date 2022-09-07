@@ -1,7 +1,7 @@
 ---
 name: "Anthony <br> Potdevin"
 function: Amboss Technologies
-img: anthonypotdevin.jpg
+img: potdevin.jpg
 twitter: 'tonyioi'
 github: apotdevin
 showPage: true
@@ -9,7 +9,7 @@ showPage: true
 
 # Anthony Potdevin
  
-Anthony is a web developer specializing in creating user interfaces and applications for the Lightning Network. Anthony is the lead developer and creator of Thunderhub, a popular open-source Lightning Node Manager as well as the co-founder of Amboss Technologies. At Amboss, Anthony provides technical leadership and drives focused development on Amboss Space, a social lightning network explorer. He gets to realize his passion for making lightning network tools with a great user experience. As an innovative new tech, Anthony believes bitcoin will disrupt the current financial sector at a global scale thus finds it extremely important to start building solutions on top of it. Anthony is originally from Bogotá, Colombia and is currently living in the beautiful city of Munich, Germany.
+Anthony is a web developer specializing in creating user interfaces and applications for the Lightning Network. Anthony is the lead developer and creator of Thunderhub, a popular open-source Lightning Node Manager as well as the co-founder of Amboss Technologies. At Amboss, Anthony provides technical leadership and drives focused development on Amboss Space, a social lightning network explorer. He gets to realize his passion for making lightning network tools with a great user experience. As an innovative new tech, Anthony believes bitcoin will disrupt the current financial sector at a global scale thus finds it extremely important to start building solutions on top of it.
 <br><br>
 
 ## Dive deeper
@@ -20,6 +20,18 @@ Anthony is a web developer specializing in creating user interfaces and applicat
 
 **Watch - If it looks better, it works better** <br><br>
 [ ![If it looks better, it works better ](/2022/content/john_better.png)](https://youtu.be/CY_RpZLvLzo/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Thunderhub strikes on the Lightning Network ** <br><br>
+[ ![Thunderhub strikes on the Lightning Network ](/2022/content/potdevin1.png)](https://www.youtube.com/watch?v=UrSnOptoZ40/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Reimagining Lightning UX on Web** <br><br>
+[ ![Reimagining Lightning UX on Web](/2022/content/potdevin2.png)](https://www.youtube.com/watch?v=mYFbYb6WzeM/)
 </div>
 
 <div class="p-3 my-2">
