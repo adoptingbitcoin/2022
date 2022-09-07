@@ -3,26 +3,13 @@ name: "Kieran <br>Nolan"
 function: Alpha
 img: kieran.png
 twitter: 'KieranDNolan'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Kieran Nolan
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Kieran is Alpha’s Chief Bitcoin Officer and Co-Founder and also the director of the Digital Playhouse Foundation, a charity which runs a number of projects including; the Stacks Australian Community, TheSchoolofBitcoin, and Bitcoin Australia Meetups. He is the news manager of BitcoinAggregated, a news organisation dedicated to “curating and commenting on all the latest ₿itcoin information from every corner of the Internet.” 
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,8 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - Bitcoin Education Basics**  <br><br>
+[![Bitcoin Education Basics](/2022/content/kieran1.png)](https://www.youtube.com/watch?v=i9altxYnzGY/)
 </div>
 
 </div>
