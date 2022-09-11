@@ -2,7 +2,7 @@
 name: "Patrick <br>Melder"
 function: Lago Bitcoin
 img: patrick.png
-twitter: 'lakebitcoin'
+twitter: 'entsurg'
 showPage: true
 ---
 
