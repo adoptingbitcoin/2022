@@ -3,7 +3,7 @@ name: "Patrick <br>Melder"
 function: Lago Bitcoin
 img: patrick.png
 twitter: 'lakebitcoin'
-showPage: false
+showPage: true
 ---
 
 # Patrick Melder
@@ -17,8 +17,26 @@ Patrick is a medical doctor, Pleb in Charge and one of the initiators of the nas
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It**  <br><br>
-[![BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It](/2022/content/jungle.png)](https://www.youtube.com/watch?v=BrEDaFEW6yI/)
+**Read - Bitcoin Believers Look for New Paradise at Mayan Lake**  <br><br>
+[![Bitcoin Believers Look for New Paradise at Mayan Lake](/2022/content/melder1.png)](https://elfaro.net/en/202203/centroamerica/26052/Bitcoin-Believers-Look-for-New-Paradise-at-Mayan-Lake.htm/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - Municipalidad de Panajachel en Guatemala comienza a minar Bitcoin**  <br><br>
+[![Municipalidad de Panajachel en Guatemala comienza a minar Bitcoin](/2022/content/melder2.png)](https://es.beincrypto.com/municipalidad-panajachel-guatemala-comienza-minar-bitcoin-btc/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - Bitcoin Lake: Proyecto guatemalteco empezó a minar a orillas del Lago de Atitlán**  <br><br>
+[![Bitcoin Lake: Proyecto guatemalteco empezó a minar a orillas del Lago de Atitlán](/2022/content/melder3.png)](https://www.bloomberglinea.com/2022/03/24/bitcoin-lake-proyecto-guatemalteco-empezo-a-minar-a-orillas-del-lago-de-atitlan/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - How BTC Will Create Green Energy, Financial Literacy, Hope, & Alleviate Poverty**  <br><br>
+[![How BTC Will Create Green Energy, Financial Literacy, Hope, & Alleviate Poverty](/2022/content/melder4.png)](hhttps://youtu.be/9uNYM9IXqSk/)
 </div>
 
 </div>
