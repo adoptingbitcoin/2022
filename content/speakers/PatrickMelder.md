@@ -39,6 +39,19 @@ Patrick is a medical doctor, Pleb in Charge and one of the initiators of the nas
 [![How BTC Will Create Green Energy, Financial Literacy, Hope, & Alleviate Poverty](/2022/content/melder4.png)](hhttps://youtu.be/9uNYM9IXqSk/)
 </div>
 
+<div class="p-3 my-2">
+
+**Watch - Patrick Melder on Bitcoin Lake, Guatemala, Bitcoin Beach Wallet, & The Christian Case For BTC**  <br><br>
+[![Patrick Melder on Bitcoin Lake, Guatemala, Bitcoin Beach Wallet, & The Christian Case For BTC](/2022/content/melder5.png)](https://www.youtube.com/watch?v=9g4Vb0_IxS4/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - A Deep Dive into Lake Bitcoin | Patrick Melder**  <br><br>
+[![A Deep Dive into Lake Bitcoin | Patrick Melder](/2022/content/melder6.png)](https://www.youtube.com/watch?v=jN4aLgZOpDM/)
+</div>
+
+
 </div>
 
 <br>
