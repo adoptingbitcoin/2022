@@ -1,42 +1,17 @@
 ---
 name: "Daniel <br>Wingen"
 function: Galoy
-img: danielwingen.jpg
+img: wingen.png
 twitter: 'danielwingen'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Daniel Wingen
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Daniel is co-initiator of the EINUNDZWANZIG movement, a decentralized content distribution network with podcasts, videos, music and events. He also co-founded the Value of Bitcoin organization, a Bitcoin business consultancy and conference organizer, with BayernLB in 2019. He wrote his thesis on alternative financial systems with a focus on circulation-guaranteed money and has since been actively researching the nature of money and advocating for the free choice of the monetary sign.
 <br><br>
 
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
 
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
-
-## Dive deeper
-
-
-<div class="grid grid-cols-2 gap-5">
-<div class="p-3 my-2">
-
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
-</div>
-
-</div>
-
-<br>
 
 
 
