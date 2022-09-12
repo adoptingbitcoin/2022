@@ -77,7 +77,7 @@
   },
   "tickets": {
     "title": "BUY YOUR TICKET HERE",
-    "subtitle": "Payable with bitcoin only.",
+    "subtitle": "Payable with bitcoin only. (If you're Salvadoran, please write an email to info@adoptingbitcoin.org for a local ticket at $21)",
     "ticket1": "Basic",
     "ticket1Price": "$100",
     "ticket2": "Exclusive",
