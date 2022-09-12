@@ -63,7 +63,7 @@
   "sponsors": {
     "title": "SPONSORS",
     "callforsponsors": "CALL FOR SPONSORS",
-    "callforsponsorsText": "Support Adopting Bitcoin as a sponsor.<br>Submit your contact information and we'll get in touch with you."
+    "callforsponsorsText": "Become a sponsor and make an impact at Adopting Bitcoin.<br>Submit your contact information and we'll get in touch with you."
   },
   "subscribe": {
     "title": "SUBSCRIBE TO OUR MAILING LIST",
@@ -77,7 +77,7 @@
   },
   "tickets": {
     "title": "BUY YOUR TICKET HERE",
-    "subtitle": "Payable with bitcoin only. (If you're Salvadoran, please write an email to info@adoptingbitcoin.org for a local ticket at $21)",
+    "subtitle": "Payable with bitcoin only. <br> Salvadoreños: Por favor, escriba un correo electrónico a info@adoptingbitcoin.org para obtener un billete con descuento",
     "ticket1": "Basic",
     "ticket1Price": "$100",
     "ticket2": "Exclusive",
