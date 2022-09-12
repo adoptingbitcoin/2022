@@ -1,28 +1,15 @@
 ---
 name: "Guillermo <br>Contreras"
 function: Ditobanx
-img: contreras.png
+img: g.png
 twitter: 'gcontreras_jc'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
- 
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+# Guillermo Contreras
+
+Mimo is a Software architect and entrepreneur and the CEO of DitoBanx - a bitcoin neo-bank for the unbanked in Latin America. He started his first company 20 years ago and has been managing high performance dev teams for the last 11 years. Currently, he is serving as president for the Official Salvadorian Bitcoin & Blockchain cluster that brings together 40+ companies that are operating in El Salvador and also President of Tech committee of Salvadorian Chamber of Commerce that represents 2500+ SMBs. He is also a Fintech advocate and very experienced in regulatory frameworks in Latin America. His vision is to create a new financial system built on top of bitcoin. "
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,14 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Read - Las empresas bitcoin generamos más de 250 empleos**  <br><br>
+[![Las empresas bitcoin generamos más de 250 empleos](/2022/content/g1.png)](https://diarioelsalvador.com/las-empresas-bitcoin-generamos-mas-de-250-empleos-guillermo-contreras-criptoempresario-salvadoreno/269987/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - Compañía salvadoreña lanza una gift card de bitcoin*  <br><br>
+[![Compañía salvadoreña lanza una gift card de bitcoin](/2022/content/g2.png)](https://diarioelsalvador.com/compania-salvadorena-lanza-una-gift-card-de-bitcoin/265790/)
 </div>
 
 </div>

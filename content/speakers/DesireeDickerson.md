@@ -3,6 +3,7 @@ name: "Desiree <br>Dickerson"
 function: THUNDR Games
 img: des.png
 twitter: 'dickerson_des'
+showPage: true
 ---
 
 # Desiree Dickerson
