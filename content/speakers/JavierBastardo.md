@@ -1,14 +1,14 @@
 ---
 name: "Javier <br>Bastardo"
 function: Satoshi en Venezuela
-img: bastardo.png
+img: bastardo1.png
 twitter: 'criptobastardo'
-showPage: false
+showPage: true
 ---
 
 # Javier Bastardo
  
-Pierre is a co-founder of the Nakamoto Institute. He also hosts the Noded podcast together with Michael Goldstein. Pierre was also responsible for overseeing the integration of Lightning Network in the major Kraken exchange and is an outspoken advocate for the adoption of Lightning at exchanges.
+Javier is a bitcoiner from Caracas who has been advocating bitcoin only on his show 'Satoshi en Venezuela' since 2017.
 <br><br>
 
 ## Dive deeper
@@ -17,14 +17,8 @@ Pierre is a co-founder of the Nakamoto Institute. He also hosts the Noded podcas
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Read - The Bitcoin Central Bank's Perfect Monetary Policy**  <br><br>
-[![The Bitcoin Central Bank's Perfect Monetary Policy](/2022/content/pierre_perfect.png)](https://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/)
-</div>
-
-<div class="p-3 my-2">
-
-**Listen - Noded 82**  <br><br>
-[![Noded 82](/2022/content/pierre_noded.png)](https://soundcloud.com/noded-bitcoin-podcast/noded-82-with-bitstein-and-pierre/)
+**Watch - Bitcoin Won’t Fix Venezuela**  <br><br>
+[![Bitcoin Won’t Fix Venezuela](/2022/content/bastardo2.png)](https://www.youtube.com/watch?v=d2e8cGGGG_s/)
 </div>
 
 </div>
