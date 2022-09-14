@@ -93,14 +93,14 @@
     "priceUp": {
       "prices": [
         {
-          "text3": "<strong>Late Adopter</strong> until September 30",
-          "price3": "$300",
-          "text4": "<strong>Adopter</strong> until October 31",
-          "price4": "$375",
-          "text5": "<strong>Last Minute</strong> until November 14",
-          "price5": "$425",
-          "text6": "<strong>At the door</strong> on November 15",
-          "price6": "$500"
+          "text1": "<strong>Late Adopter</strong> until September 30",
+          "price1": "$300",
+          "text2": "<strong>Adopter</strong> until October 31",
+          "price2": "$375",
+          "text3": "<strong>Last Minute</strong> until November 14",
+          "price3": "$425",
+          "text4": "<strong>At the door</strong> on November 15",
+          "price4": "$500"
         }
       ]
     },
