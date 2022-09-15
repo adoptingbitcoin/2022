@@ -11,9 +11,7 @@ showPage: true
 
 # Nicolas Burtey
  
-Nicolas Burtey has been driving Bitcoin adoption on the ground in El Salvador. He is the co-founder of Galoy, which has developed the Bitcoin Beach wallet. His work has certainly played a role in the passing of the Bitcoin Law, giving Bitcoin the status of legal tender in the country. Nicolas is a co-host of Adopting Bitcoin and will also be a speaker at the summit.
-<br><br>
-Nicolas Burtey ha estado impulsando la adopción de Bitcoin directo desde El Salvador. Es cofundador de Galoy, que ha desarrollado la billetera Bitcoin Beach. Su trabajo ciertamente ha jugado un papel en la aprobación de la Ley Bitcoin, que le dio a este el estatus de moneda de curso legal en el país. Nicolas es coanfitrión de Adoptando Bitcoin y también será un panelista en la conferencia.
+Nicolas Burtey is the CEO of Galoy, developers of the open source bitcoin banking software that powers the Bitcoin Beach Wallet. 
 <br><br>
 
 ## Dive deeper
