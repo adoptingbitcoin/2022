@@ -20,8 +20,8 @@ Nicolas Burtey is the CEO of Galoy, developers of the open source bitcoin bankin
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - USD over Lightning**<br><br>
-[ ![USD over Lightning](/2022/content/nicolas_usd.png)](https://youtu.be/mXYYCRSEsJU/)
+**Watch - Stablesats, Galoy, Bitcoin Banks, and El Salvador Bitcoin Adoption**<br><br>
+[ ![Stablesats, Galoy, Bitcoin Banks, and El Salvador Bitcoin Adoption](/2022/content/nicolas1.png)](https://www.youtube.com/watch?v=qQBnfPmLbss/)
 </div>
 
 <div class="p-3 my-2">
@@ -54,12 +54,6 @@ Nicolas Burtey is the CEO of Galoy, developers of the open source bitcoin bankin
 [![LNJ049 Jumpstarting the Circular Economy in El Salvador with Nicolas Burtey](/2022/content/nicolas_lnjunkies.png)](https://open.spotify.com/episode/2geKztDMrbqoKGxOplxqYT?si=SFN8aS-QSdGGM8ix7OsyYw&utm_source=copy-link&dl_branch=1/)
 </div>
 
-
-<div class="p-3 my-2">
-
-**Watch - Satoshi en Venezuela - Building Bitcoin solutions to the world with Lightning Network**  <br><br>
-[![Building Bitcoin solutions to the world with Lightning Network](/2022/content/nicolas_satoshi.png)](https://www.youtube.com/watch?v=fc9FFteN-88/)
-</div>
 </div>
 
 <br>
