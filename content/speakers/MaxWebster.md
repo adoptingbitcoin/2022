@@ -17,6 +17,12 @@ Max is the founder at Hivemind Ventures, investing in seed stage startups buildi
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Watch - Exponential Curves, and Lightning Network Opportunities** <br><br>
+[ ![Exponential Curves, and Lightning Network Opportunities](/2022/content/max1.png)](https://www.youtube.com/watch?v=lxGFo-opXGE/)
+</div>
+
+<div class="p-3 my-2">
+
 **Watch - Bitcoin as the next Internet** <br><br>
 [ ![Why Lightning, Why Now](/2022/content/max_ab21.png)](https://youtu.be/yfRoztov1eA/)
 </div>
