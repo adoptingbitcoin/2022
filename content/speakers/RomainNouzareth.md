@@ -15,6 +15,17 @@ Romain is the CEO of SATO Technologies Corp, a Bitcoin Miner listed on the Canad
 
 ## Dive deeper
 
+<div class="grid grid-cols-2 gap-5">
+<div class="p-3 my-2">
 
+**Watch - Miners Summit 2021"**  <br><br>
+[![Miners Summit 2021](/2022/content/rn1.png)](https://www.youtube.com/watch?v=6Pb9mHjB34Y/)
+</div>
+
+
+
+</div>
+
+<br>
 
 
