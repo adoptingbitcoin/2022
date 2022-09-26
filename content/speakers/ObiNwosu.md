@@ -8,7 +8,7 @@ showPage: true
 
 # Obi Nwosu
  
-Obi is a bitcoin and Fedimint advocate and board member for ₿Trust. Previously, he was CEO of Coinfloor, one of the UK's longest running bitcoin only exchanges
+Obi Nwosu is the CEO of Fedi and an advocate for the mass adoption of Bitcoin in the “Global South”. A Bitcoin industry veteran, he founded Coinfloor Bitcoin exchange, and holds board positions at ₿trust and Gridless Compute
 <br><br>
 
 ## Dive deeper
