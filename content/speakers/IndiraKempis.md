@@ -1,28 +1,16 @@
 ---
 name: "Indira <br>Kempis"
-function: Mexico
+function: Senator of Nuevo León
 img: indira.png
 twitter: 'IndiraKempis'
-showPage: false
+linkedin: indira-kempis
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# Indira Kempis
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Indira Kempis Martínez is a Mexican accountant, communicologist and politician affiliated with the Movimiento Ciudadano party. Currently, she is senator for the state of Nuevo León and advocates bitcoin as legal tender in Mexico.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +18,14 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Read - We need bitcoin to be legal tender**  <br><br>
+[![We need bitcoin to be legal tender](/2022/content/indira1.png)](https://elsalvadorinenglish.com/2022/02/21/we-need-bitcoin-to-be-legal-tender-in-mexico-because-if-it-is-not-so-if-we-do-not-make-that-decision-as-el-salvador-did-it-is-very-difficult-to-take-action-indira-kempis-mexican/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - We need bitcoin as legal tender**  <br><br>
+[![We Need Bitcoin As Legal Tender](/2022/content/indira2.png)](https://www.youtube.com/watch?v=sEU4m9JdeBg/)
 </div>
 
 </div>
