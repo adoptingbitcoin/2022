@@ -3,40 +3,14 @@ name: "JayDeLux <br><br>"
 function: Salva’bourg
 img: jay.png
 twitter: 'JayDeLux1'
-showPage: false
+showPage: true
 ---
 
-# Aaron Van Wirdum
+# JayDeLux
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+JayDeLux is a repented actor of the traditional financial system in Luxembourg. He started his Bitcoin contribution journey by running the tech/innovation stream of LëtzBlock, the Luxembourg DLT association for a few years, he then realised that operating from Luxembourg would not be an option given the regulation constraints still existing in the country so he moved his operations to El Salvador with the Salva’bourg (contraction of “El Salvador” and “Luxembourg”) initiative. Salva’bourg is the bridge between the heart of Europe (Luxembourg) and the heart of the Americas that El Salvador has become. Salva’bourg unlocks the innovation and bilateral exchanges between Europe and Central America using bitcoin as corner stone. JayDeLux advocates and educates about online privacy and Free Open Source Software (FOSS).
 <br><br>
 
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
-
-## Dive deeper
-
-
-<div class="grid grid-cols-2 gap-5">
-<div class="p-3 my-2">
-
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
-</div>
-
-</div>
-
-<br>
 
 
 
