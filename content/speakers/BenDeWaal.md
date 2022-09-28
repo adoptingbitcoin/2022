@@ -19,7 +19,7 @@ Ben is [Samantha](https://adoptingbitcoin.org/2022/speaker/SamanthaDeWaal)’s D
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - Bitcoin for Libertarian Socialists with Ben de Waal** <br><br>
+**Watch - Bitcoin for Libertarian Socialists** <br><br>
 [ ![Bitcoin for Libertarian Socialists with Ben de Waal](/2022/content/bendewaal1.png)](https://www.youtube.com/watch?v=l6xbjVP6_Rw/)
 </div>
 
