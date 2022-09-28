@@ -1,7 +1,7 @@
 ---
 name: "Paolo <br>Ardoino"
 function: Bitfinex
-img: paolo1.png
+img: paolo2.png
 twitter: 'paoloardoino'
 linkedin: paoloardoino
 showPage: true
