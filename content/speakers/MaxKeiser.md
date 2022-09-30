@@ -1,7 +1,7 @@
 ---
 name: "Max <br>Keiser"
 function: El Zonte Capital
-img: max.png
+img: keiser.png
 twitter: 'maxkeiser'
 showPage: true
 ---
@@ -15,6 +15,12 @@ Max Keiser is one of the earliest Bitcoin advocates. He has been preaching about
 
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Watch - Comeback Country | The Story of El Salvador** <br><br>
+[ ![Comeback Country | The Story of El Salvador](/2022/content/comeback.png)](https://www.youtube.com/watch?v=KwC2KwDmpXQ/)
+</div>
+
 <div class="p-3 my-2">
 
 **Watch - El Salvador: The Greatest Rebrand in History** <br><br>
