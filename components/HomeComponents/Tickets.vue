@@ -75,11 +75,11 @@ export default {
   }
 
   .ticket-1 {
-    background-image: url("~/assets/images/ticket_3.png");
+    background-image: url("~/assets/images/ticket_4.png");
   }
 
   .ticket-2 {
-    background-image: url("~/assets/images/ticket_4.png");
+    background-image: url("~/assets/images/ticket_5.png");
   }
 
   .ticket-3 {
