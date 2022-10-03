@@ -13,7 +13,7 @@
     </div>
     <!-- <Schedule /> -->
     <Tickets id="tickets" />
-    <!-- <Sponsors id="sponsors" :sponsors="sponsors" /> -->
+     <Sponsors id="sponsors" :sponsors="sponsors" />
     <Media id="media" :media="media" />
     <OrganizerList id="organizers" :organizers="organizers" :advisors="advisors" />
     <!-- Get in touch -->

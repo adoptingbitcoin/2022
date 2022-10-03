@@ -14,9 +14,6 @@
         <div v-if="sponsors.dolphins" class="grid grid-cols-4 md:grid-cols-6  grid-flow-row gap-1 items-start">
           <Sponsor v-for="(sponsor, i) in sponsors.dolphins" :key="i" :index="i" :sponsor="sponsor" class="" />
         </div>
-        <div class="mx-auto w-content cursor-pointer mx-2" @click="toggleSponsorSignup">
-          <CTA>{{ $t('sponsors.callforsponsors') }}</CTA>
-        </div>
       </Container>
     </BGGrey>
     <div v-if="showSponsorSignup" class="mx-auto">
