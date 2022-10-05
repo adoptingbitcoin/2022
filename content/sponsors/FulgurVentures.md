@@ -1,6 +1,6 @@
 ---
 tier: dolphin
-img: fulgurventures1.png
+img: fulgur.png
 title: 'Fulgur Ventures'
 prio: 50
 url: 'https://fulgur.ventures/'
