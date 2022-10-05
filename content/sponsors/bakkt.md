@@ -1,5 +1,5 @@
 ---
-tier: dolphin
+tier: shark
 img: bakkt.jpg
 title: 'Bakkt'
 prio: 39

@@ -1,5 +1,5 @@
 ---
-tier: dolphin
+tier: shark
 img: fulgur.png
 title: 'Fulgur Ventures'
 prio: 50

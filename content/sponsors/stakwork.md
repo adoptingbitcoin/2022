@@ -1,5 +1,5 @@
 ---
-tier: dolphin
+tier: shark
 img: stakwork.png
 title: 'Stakwork'
 prio: 42

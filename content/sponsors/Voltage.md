@@ -1,5 +1,5 @@
 ---
-tier: dolphin
+tier: shark
 img: voltage2.png
 title: 'Voltage'
 prio: 48
