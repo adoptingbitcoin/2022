@@ -3,26 +3,13 @@ name: "Andrew <br>Begin"
 function: Galoy
 img: andrew.jpg
 twitter: 'agbegin'
-showPage: false
+showPage: true
 ---
 
 # Aaron Van Wirdum
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Andrew is a marketer, educator and UX strategist focused on organizational bitcoin adoption. As Director of Marketing at Galoy, he produces content and participates in community-building initiatives aimed at unlocking the potential of bitcoin-native banking. Andrew is co-host of the Adopting Bitcoin: A Convo with Galoy podcast and can frequently be found dropping into Bitcoin Design calls and conversations.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,14 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - Community Banking on Bitcoin w/ Pete Winn**  <br><br>
+[![Community Banking on Bitcoin w/ Pete Winn](/2022/content/andrew1.png)](https://www.youtube.com/watch?v=I6p8w1p8mFM/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Bitcoin in Panama**  <br><br>
+[![Bitcoin in Panama](/2022/content/andrew2.png)](https://www.youtube.com/watch?v=ChWK-Zsu0Zk/)
 </div>
 
 </div>
