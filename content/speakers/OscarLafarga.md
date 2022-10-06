@@ -1,28 +1,15 @@
 ---
 name: "Oscar <br>Lafarga"
-function: Software Solutions Engineer
+function: SetLife
 img: oscar.png
 twitter: 'oscarlafarga'
 showPage: false
 ---
 
-# Aaron Van Wirdum
+# Oscar Lafarga
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Oscar is a self-employed software solutions engineer operating on a #bitcoin standard. He is Founder & CTO of setlife.network and is focused on solving problems involving technology education, technical skills training, and FOSS development. Other interests include information theory, thermoeconomics, and construction.
 <br><br>
-
-## Day 1 | DEV Track | 3:05 - 3:55
-<br>
-<i>The Future of Lightning Custody</i><br><br>
-Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
-
-<b>Panelists:</b><br>
-Pierre Marie Padiou - CEO of ACINQ<br>
-Nicolas Burtey - CEO of Galoy<br>
-Roy Sheinfeld - CEO of Breez<br>
-Conor Okus - Product Manager at Square Crypto<br><br>
-
-<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
 
 ## Dive deeper
 
@@ -30,8 +17,14 @@ Conor Okus - Product Manager at Square Crypto<br><br>
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+**Watch - Running Bitcoin Node**  <br><br>
+[![Running Bitcoin Node](/2022/content/oscar1.png)](https://www.youtube.com/watch?v=UAssdEtTvaw/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - Usando Bitcoin para todo tipo de pagos**  <br><br>
+[![Usando Bitcoin para todo tipo de pagos](/2022/content/oscar2.png)](https://albertomera.org/un-podcast-sobre-bitcoin/oscar-lafarga-usando-bitcoin-para-todo-tipo-de-pagos//)
 </div>
 
 </div>
