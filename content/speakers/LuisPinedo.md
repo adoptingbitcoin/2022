@@ -1,6 +1,6 @@
 ---
 name: "Luis <br>Pinedo"
-function: Bitfinex
+function: Bitfinex Pay
 img: luispinedo_round.png
 twitter: 'Luis_Pinedo'
 showPage: true
