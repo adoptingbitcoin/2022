@@ -1,6 +1,6 @@
 ---
 tier: dolphin
-img: ledn.jpg
+img: ledn.png
 title: 'Ledn'
 prio: 36
 url: 'https://ledn.io/'
