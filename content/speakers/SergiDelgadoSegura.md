@@ -12,11 +12,6 @@ showPage: true
 Sergi is a Bitcoin enthusiast since 2015 who started to work on Bitcoin as part of his PhD thesis. His research was focused on the security and privacy aspects of Bitcoin and Lightning. Some of his work has been published at Financial Cryptography and Scaling Bitcoin. After graduating, he switched gear to a more developer focused job and he started to work on an interoperable Watchtower protocol for Lightning. He has proposed a draft for BOLT13 and presented his work both at Advancing Bitcoin and The Lightning Conference. As a Square Crypto grantee, he has designed and developed The Eye of Satoshi and is currently working on a Rust version of it.
 <br><br>
 
-## Day 1 | DEV Track | 5:05 - 5:30
-<br>
-<i>Lightning Watchtowers and Why You Should Use Them if You're Not</i><br><br>
-This talk will explain why Watchtowers are a key component of LN, why people that are currently not using them should, and why software that is currently not offering this option to their users may consider start doing so.<br><br>
-
 ## Dive deeper
 
 
