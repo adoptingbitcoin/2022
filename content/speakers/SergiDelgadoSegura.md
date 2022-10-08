@@ -1,6 +1,6 @@
 ---
 name: "Sergi<br>Delgado Segura"
-function: Talaia Labs
+function: The Eye of Satoshi
 img: sergi.png
 twitter: 'sr_gi'
 github: sr-gi
