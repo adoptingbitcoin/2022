@@ -1,6 +1,6 @@
 ---
 name: "Rob <br>Valdez"
-function: Bitcoin Magazine
+function: Daszkal Bolton
 img: robvaldez.png
 twitter: 'robvaldezcpa'
 linkedin: rob-valdez

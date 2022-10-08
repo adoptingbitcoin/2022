@@ -1,6 +1,6 @@
 ---
 name: "Bitcoin <br>Dad"
-function: Bitcoin Magazine
+function: The Bitcoin Dad Pod
 img: bitcoindadpod.png
 twitter: 'bitcoindadpod'
 showPage: true
