@@ -18,6 +18,7 @@ build:
     - npm run generate
     - cp -r dist public
   artifacts:
+    expire_in: 1 day
     paths:
       - public
   rules:
@@ -28,6 +29,7 @@ build:
   stage: deploy
   image: eeacms/rsync:2.3
   artifacts:
+    expire_in: 1 day
     paths:
       - public
   script:

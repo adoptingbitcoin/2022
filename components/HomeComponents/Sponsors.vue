@@ -5,13 +5,13 @@
         <GradientHeader class="mb-10">
           {{ $t('sponsors.title') }}
         </GradientHeader>
-        <div v-if="sponsors.whales" class="grid grid-cols-2 md:grid-cols-2  grid-flow-row gap-1 items-start mb-4">
+        <div v-if="sponsors.whales" class="grid grid-cols-2 md:grid-cols-2  grid-flow-row gap-1 items-center mb-4">
           <Sponsor v-for="(sponsor, i) in sponsors.whales" :key="i" :index="i" :sponsor="sponsor" class="p-8 md:p-16" />
         </div>
-        <div v-if="sponsors.sharks" class="grid grid-cols-3 md:grid-cols-4  grid-flow-row gap-1 items-start mb-4">
+        <div v-if="sponsors.sharks" class="grid grid-cols-3 md:grid-cols-4  grid-flow-row gap-1 items-center mb-4">
           <Sponsor v-for="(sponsor, i) in sponsors.sharks" :key="i" :index="i" :sponsor="sponsor" class="" />
         </div>
-        <div v-if="sponsors.dolphins" class="grid grid-cols-4 md:grid-cols-6  grid-flow-row gap-1 items-start">
+        <div v-if="sponsors.dolphins" class="grid grid-cols-4 md:grid-cols-6  grid-flow-row gap-1 items-center">
           <Sponsor v-for="(sponsor, i) in sponsors.dolphins" :key="i" :index="i" :sponsor="sponsor" class="" />
         </div>
       </Container>
