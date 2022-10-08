@@ -1,7 +1,7 @@
 ---
 name: "Sergi<br>Delgado Segura"
 function: Talaia Labs
-img: sergidelgado.png
+img: sergi.png
 twitter: 'sr_gi'
 github: sr-gi
 showPage: true
@@ -9,7 +9,7 @@ showPage: true
 
 # Sergi Delgado Segura
  
-Sergi is a Bitcoin enthusiast since 2015 who started to work on Bitcoin as part of his PhD thesis. His research was focused on the security and privacy aspects of Bitcoin and Lightning. Some of his work has been published at Financial Cryptography and Scaling Bitcoin. After graduating, he switched gear to a more developer focused job and he started to work on an interoperable Watchtower protocol for Lightning. He has proposed a draft for BOLT13 and presented his work both at Advancing Bitcoin and The Lightning Conference. As a Square Crypto grantee, he has designed and developed The Eye of Satoshi and is currently working on a Rust version of it.
+Sergi is the lead developer and maintainer of The Eye of Satoshi, a Lightning watchtower. His FOSS work is currently sponsored by Spiral. Prior to that, he was a Bitcoin researcher and educator.
 <br><br>
 
 ## Dive deeper
