@@ -1,7 +1,7 @@
 ---
 name: "Mathias <br>Linkerhand"
 function: Lightning Jukebox
-img: aaronvanwirdum.jpg
+img: mathias.png
 twitter: 'AaronvanW'
 showPage: true
 ---
