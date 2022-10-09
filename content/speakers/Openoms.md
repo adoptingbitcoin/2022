@@ -1,6 +1,6 @@
 ---
 name: "Openoms <br><br>"
-function: Open Source Developer
+function: Galoy, Raspiblitz
 img: openoms.png
 twitter: 'openoms'
 github: openoms
