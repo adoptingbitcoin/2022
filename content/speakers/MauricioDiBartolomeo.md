@@ -1,7 +1,7 @@
 ---
 name: "Mauricio <br>Di Bartolomeo"
 function: Ledn
-img: mauribart.png
+img: mauribart1.png
 twitter: 'cryptonomista'
 showPage: true
 ---
