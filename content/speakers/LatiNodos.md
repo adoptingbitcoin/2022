@@ -1,14 +1,14 @@
 ---
-name: "LatiNodos <br><br>"
-function: Lightning Education 
-img: latinodos.png
+name: "Mauricio <br><br>"
+function: Latinodos 
+img: mauri.png
 twitter: 'hola_LatiNodos'
-showPage: false
+showPage: true
 ---
 
-# LatiNodos
+# Mauricio
  
-Spanish-speaking Lightning node operators / enthusiasts community aiming to promote the development and adoption of the Lightining Network technology.
+Mauricio is a Lightning Network fan. Along with the LatiNodos community, he focuses on sharing ideas and knowledge about the developments related to the Lightning Network in Spanish. Latinodos are a Spanish-speaking community of Lightning node operators and enthusiasts aiming to promote the development and adoption of the Lightining Network technology.
 <br><br>
 
 ## Dive deeper
