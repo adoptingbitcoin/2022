@@ -1,0 +1,42 @@
+---
+name: "Mauricio <br>Di Bartolomeo"
+function: Ledn
+img: mauribart.png
+twitter: 'cryptonomista'
+showPage: true
+---
+
+# Mauricio Di Bartolomeo
+ 
+Mauricio Di Bartolomeo is the Co-Founder & Chief Strategy Officer of Ledn Inc., a financial services company built for Bitcoin & digital assets. Inspired by his upbringing in Venezuela, he founded Ledn with the promise of offering egalitarian financial products to assist savvy investors, while servicing the unbanked and underbanked in countries like his own around the world. Ledn is a Toronto-based company with 100+ employees, offering a full suite of lending, savings and trading products that provide financial services to digital asset holders in over 130 countries. 
+<br><br>
+
+## Dive deeper
+
+
+<div class="grid grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Watch - Ledn's Founding Story**  <br><br>
+[![Ledn's Founding Story](/2022/content/ledn1.png)](https://www.youtube.com/watch?v=G3q1rJqb8w0/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - How Will Inflation Impact Crypto?**  <br><br>
+[![How Will Inflation Impact Crypto?](/2022/content/ledn2.png)](https://www.youtube.com/watch?v=IJ1SNUfPR4Y/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - The Last Fiat Domino**  <br><br>
+[![The Last Fiat Domino](/2022/content/ledn3.png)](https://podcasts.apple.com/ca/podcast/the-last-fiat-domino-with-mauricio-di-bartolomeo/id1462346183?i=1000539755247/)
+</div>
+
+</div>
+
+<br>
+
+
+
+
