@@ -3,39 +3,16 @@ name: "Stina <br>Liland"
 function: Bitrefill
 img: stiland.png
 twitter: 'stinaliland'
-showPage: false
+showPage: true
 ---
 
 # Stina Liland
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Stina Liland is COO at Bitrefill, the largest crypto e-commerce platform in the world. Stina was a co-founder of Startup Norway/Startup Extreme and former Nordic Program Manager for Venture Capital firm 500 Startups and has an extensive track record in the startup and venture capital scene. She was orange-pilled by Bitrefills inspiring mission to create a bitcoin circular economy. Managing the company’s global operations, she has been following and contributing to the exciting national bitcoin adoption process from the frontline as an important part of the team responsible for the expansion and investment of Bitrefills continuing focused efforts in El Salvador.
+"
 <br><br>
 
-## Dive deeper
 
-
-<div class="grid grid-cols-2 gap-5">
-<div class="p-3 my-2">
-
-**Read - El Salvador: One small step for Bitcoin**  <br><br>
-[![El Salvador: One small step for Bitcoin](/2022/content/aaron_step.png)](https://bitcoinmagazine.com/culture/el-salvador-one-small-step-for-bitcoin/)
-</div>
-
-<div class="p-3 my-2">
-
-**Listen - El Salvador Bitcoin Law on the ground**  <br><br>
-[![El Salvador Bitcoin Law on the ground](/2022/content/aaron_slp.png)](https://stephanlivera.com/episode/305/)
-</div>
-
-<div class="p-3 my-2">
-
-**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
-</div>
-
-</div>
-
-<br>
 
 
 
