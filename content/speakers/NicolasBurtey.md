@@ -11,7 +11,7 @@ showPage: true
 
 # Nicolas Burtey
  
-Nicolas Burtey is the CEO of Galoy, developers of the open source bitcoin banking software that powers the Bitcoin Beach Wallet. 
+Nicolas Burtey is the CEO of Galoy, developers of the open source bitcoin banking platform that powers the Bitcoin Beach Wallet. 
 <br><br>
 
 ## Dive deeper
