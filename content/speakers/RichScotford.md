@@ -3,12 +3,12 @@ name: "Rich <br>Scotford"
 function: Bitcoin Jungle
 img: rich.jpg
 twitter: 'RichScotford'
-showPage: false
+showPage: true
 ---
 
 # Rich Scotford
  
-Aaron van Wirdum is interested in technology and how it affects social and political structures. He has been covering Bitcoin since 2013, focusing on privacy, scalability and more.
+Rich is a co-founder of Bitcoin Jungle in Costa Rica, a circular economy at the Pacific Coast of Central America. 
 <br><br>
 
 ## Dive deeper
@@ -24,6 +24,7 @@ Aaron van Wirdum is interested in technology and how it affects social and polit
 </div>
 
 <br>
+
 
 
 
