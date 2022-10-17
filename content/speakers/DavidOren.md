@@ -2,7 +2,7 @@
 name: "David <br>Oren"
 function: Hack a tour
 img: davidoren.png
-twitter: 'AaronvanW'
+twitter: 'vad_vad_vad_vad'
 showPage: true
 ---
 
