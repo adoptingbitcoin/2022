@@ -2,7 +2,7 @@
 name: "Oscar <br>Lafarga"
 function: SetLife
 img: oscar.png
-twitter: 'oscarlafarga'
+twitter: 'ol21m'
 showPage: true
 ---
 
