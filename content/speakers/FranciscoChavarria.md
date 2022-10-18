@@ -1,7 +1,7 @@
 ---
 name: "Francisco <br>Chavarria"
 function: Yopaki
-img: chavarria.png
+img: chav.png
 twitter: 'FranciscoBTC'
 showPage: true
 ---
