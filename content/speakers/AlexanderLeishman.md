@@ -14,14 +14,6 @@ Alex Leishman is the Co-Founder and Chief Executive Officer at River Financial. 
 Alex Leishman es el cofundador y director ejecutivo de River Financial. Con sede en San Francisco, River Financial es una institución financiera enfocada al cliente que se dedica a proporcionar productos y servicios financieros que permiten a estos aprovechar las posibilidades transformadoras de Bitcoin. Antes de cofundar River Financial, Alexander se estuvo en los equipos de inversión e ingeniería en Polychain Capital y Polychain Labs, centrándose en inversiones de riesgo relacionadas con Bitcoin. Leishman se ha desempeñado anteriormente como ingeniero en el equipo de seguridad de Airbnb, consultor de gestión en Deloitte y se involucró profundamente en la industria de Bitcoin como ingeniero pionero en Maicoin, la mayor casa de intercambio de activos digitales en Taiwán. El Sr. Leishman tiene una licenciatura en Ingeniería Aeroespacial de la Universidad de Maryland y una Maestría en Ciencias de la Computación de la Universidad de Stanford, donde ayudó a enseñar la primera clase sobre Bitcoin con el profesor Dan Boneh.
 <br><br>
 
-## Day 2 | ECON Track | 9:05 - 9:25
-<br>
-<i>Bitcoin for Institutions</i><br><br>
-Large companies, institutional investors and governments are increasingly adopting Bitcoin. This fireside chat will explore the details of how big entities are embracing what many call “digital gold” -- and how Lightning can accelerate the use of Bitcoin for institutions in the coming years.<br><br>
-
-Alexander Leishman - River<br>
-<b>Host:</b> Chris Hunter - Co-Host / Galoy<br><br>
-
 ## Dive deeper
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
