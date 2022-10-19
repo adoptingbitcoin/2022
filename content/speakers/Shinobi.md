@@ -1,7 +1,7 @@
 ---
 name: "Shinobi <br><br>"
 function: Nothing
-img: shinobi.png
+img: shinobi.jpg
 twitter: 'brian_trollz'
 showPage: true
 ---
