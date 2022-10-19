@@ -13,6 +13,14 @@
             <PinkTitle>{{ $t('locations.directions') }}</PinkTitle>
             <span v-html="$t('locations.directionsText')" />
           </div>
+          <div class="w-full h-full items-center justify-center flex">
+            <NuxtLink to="schedule">
+              <CTA>
+                Schedule
+              </CTA>
+            </NuxtLink>
+          </div>
+
         </div>
       </div>
 
