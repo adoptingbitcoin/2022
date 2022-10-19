@@ -23,6 +23,14 @@
             Schedule
           </h5>
 
+
+          <div class="w-full flex justify-end">
+            <CTA class="shadow-none hidden md:block" href="#tickets">BUY YOUR TICKET</CTA>
+          </div>
+          <div class="">
+            <CTA class="shadow-none md:hidden" href="#tickets">BUY YOUR TICKET</CTA>
+          </div>
+
         </div>
 
       </RepeatingImage>
