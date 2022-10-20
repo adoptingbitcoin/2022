@@ -1,9 +1,9 @@
 ---
 tier: shark
-img: clovrlabs.png
-title: 'Clovr Labs'
+img: elenpay.png
+title: 'ElenPay'
 prio: 35
-url: 'https://www.clovrlabs.com/'
+url: 'https://elenpay.tech/'
 ---
 
 
