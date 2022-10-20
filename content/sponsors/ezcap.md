@@ -2,7 +2,7 @@
 tier: shark
 img: ezcap.png
 title: 'El Zonte Capital'
-prio: 33
+prio: 32
 url: 'https://twitter.com/ElZonteCapital/'
 ---
 
