@@ -13,25 +13,6 @@ showPage: true
 Alexandra founded Advance Tech Media home of the Advance Tech Podcast where she interviews founders, leaders and developers in the emerging tech space. Over the last decade she has built a solid understanding of emerging technologies including Bitcoin, artificial intelligence/machine learning and has a background in product, business development, and digital transformation. She attended Stanford Open University and graduated from the University of British Columbia.
 <br><br>
 
-## Day 1 | ECON Track | 3:05 - 3:55
-<br>
-<i>If it looks better, it works better</i><br><br>
-Designing for Bitcoin is seemingly more complex. Is it possible to create products all while upholding the core values of self-sovereignty? <br><br>
-
-<b>Panelists:</b><br>
-Anthony Potdevin - Co-Founder Amboss Technologies <br>
-Johns Beharry - Bitcoin designer at Peak Shift<br>
-John Carvalho - The Biz <br><br>
-
-<b>Host:</b> Alexandra Moxin - Advance Tech Podcast
-<br><br>
-
-## Day 2 | DEV Track | 9:00 - 6:00
-
-Alexandra will be your MC of the DEV Track on Day 2
-
-<br><br>
-
 ## Dive deeper
 
 
