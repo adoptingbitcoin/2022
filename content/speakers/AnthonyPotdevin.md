@@ -9,7 +9,7 @@ showPage: true
 
 # Anthony Potdevin
  
-Anthony is a web developer specializing in creating user interfaces and applications for the Lightning Network. Anthony is the lead developer and creator of Thunderhub, a popular open-source Lightning Node Manager as well as the co-founder of Amboss Technologies. At Amboss, Anthony provides technical leadership and drives focused development on Amboss Space, a social lightning network explorer. He gets to realize his passion for making lightning network tools with a great user experience. As an innovative new tech, Anthony believes bitcoin will disrupt the current financial sector at a global scale thus finds it extremely important to start building solutions on top of it.
+Anthony is a web developer specializing in creating user interfaces and applications for the Lightning Network. Anthony is the lead developer and creator of Thunderhub, a popular open-source Lightning Node Manager as well as the co-founder of Amboss Technologies. At Amboss, Anthony provides technical leadership and drives focused development on Amboss Space, a social lightning network explorer. He gets to realize his passion for making lightning network tools with a great user experience. As an innovative new tech, Anthony believes bitcoin will disrupt the current financial sector at a global scale thus finds it extremely important to start building solutions on top of it. Anthony is originally from Bogotá, Colombia and is currently living in the beautiful city of Munich, Germany.
 <br><br>
 
 ## Dive deeper
