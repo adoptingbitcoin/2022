@@ -2,7 +2,7 @@
 name: "Edgar <br>Borja"
 function: K1
 img: edgar.png
-twitter: 
+twitter: fireismyflag
 showPage: true
 ---
 
