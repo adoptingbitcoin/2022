@@ -1,6 +1,6 @@
 ---
 name: "Milena <br>Mayorga"
-function: El Salvador
+function: Ambassador
 img: milena.png
 twitter: 'MilenaMayorga'
 showPage: true
