@@ -1,7 +1,7 @@
 ---
 name: "Alessandro <br>Cecere"
 function: Ledn
-img: alessandro.png
+img: cecere.png
 twitter: elsultanbitcoin
 linkedin: elsultanbitcoin
 showPage: true
