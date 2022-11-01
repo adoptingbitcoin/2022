@@ -1,6 +1,6 @@
 ---
 name: "Renata <br>Rodrigues"
-function: Paxful
+function: Fedi
 img: renata.png
 twitter: 'lobaestrangeira'
 showPage: true
@@ -8,7 +8,7 @@ showPage: true
 
 # Renata Rodrigues
  
-Renata Rodrigues is Global Community & Education Lead at Paxful and leads the global team on the implementation of educational and strategic marketing initiatives across key markets. Her main initiative is to promote global Bitcoin adoption and highlight its use cases as a means of exchange. Her academic background combines Marketing, Journalism, and Programming and she has extensive experience as a Growth Hacker in global markets. Renata has over 15 years of experience in global markets, where she has worked for multinational companies such as Tyco Security Products, startups, and in the public sector in Brazil. Before assuming her current position, she was in charge of the marketing strategies in the expansion of Paxful LATAM.
+Renata Rodrigues is the Head of Marketing and Community of Fedi and has as main mission promote the massive adoption of Bitcoin in the “Global South”. Her academic background combines Marketing, Journalism, and Programming and she has extensive experience as a Growth Hacker in emerging countries. Renata has over 15 years of experience in global markets, where she has worked for multinational companies such as Tyco Security Products, startups, and in the public sector in Brazil. Prior to Fedi, she led a global team in Paxful on the implementation of educational and strategic marketing initiatives for Bitcoin across key markets.
 <br><br>
 
 ## Dive deeper

@@ -93,12 +93,10 @@
     "priceUp": {
       "prices": [
         {
-          "text1": "<strong>Adopter</strong> until October 31",
-          "price1": "$375",
-          "text2": "<strong>Last Minute</strong> until November 14",
-          "price2": "$425",
-          "text3": "<strong>At the door</strong> on November 15",
-          "price3": "$500"
+          "text1": "<strong>Last Minute</strong> until November 14",
+          "price1": "$425",
+          "text2": "<strong>At the door</strong> on November 15",
+          "price2": "$500"
         }
       ]
     },
