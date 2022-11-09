@@ -18,7 +18,19 @@ A Bitcoiner, storyteller and filmmaker. Inspired by the people and beauty of El 
 <div class="p-3 my-2">
 
 **Watch - Comeback Country | The Story of El Salvador**  <br><br>
-[![Comeback Country | The Story of El Salvador](/2022/content/shooter1.png)](https://twitter.com/nayibbukele/status/1576739984219942915/)
+[![Comeback Country | The Story of El Salvador](/2022/content/shooter1.png)](https://www.youtube.com/watch?v=0hOv72WLlA8/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - El Salvador, Comeback Country + Bitcoin Shooter**  <br><br>
+[![El Salvador, Comeback Country + Bitcoin Shooter](/2022/content/shooter1.png)](https://youtu.be/sCO9Ll691ZA/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - Max Keiser, Bitcoin Shooter and Bitcoin Archive Talk**  <br><br>
+[![Max Keiser, Bitcoin Shooter and Bitcoin Archive Talk](/2022/content/shooter1.png)](https://twitter.com/i/spaces/1gqxvyLVMbzJB?s=20/)
 </div>
 
 </div>
