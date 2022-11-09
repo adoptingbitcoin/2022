@@ -18,7 +18,7 @@ Kyle Fry joined the digital asset space in 2018, after 15 years in finance with 
 <div class="p-3 my-2">
 
 **Watch - DIGTL Global securities marketplace, tokenized assets w/ Liquid**  <br><br>
-[![DIGTL Global securities marketplace, tokenized assets w/ Liquid](/2022/content/kyle2.png)](https://www.youtube.com/watch?v=jogTJQ7WpMA/)
+[![DIGTL Global securities marketplace, tokenized assets w/ Liquid](/2022/content/fry1.png)](https://www.youtube.com/watch?v=jogTJQ7WpMA/)
 </div>
 
 </div>
