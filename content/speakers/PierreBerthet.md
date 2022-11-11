@@ -2,6 +2,7 @@
 name: "Pierre <br>Berthet"
 function: Galoy
 img: pierredata.png
+twitter: 'user_prr'
 showPage: true
 ---
 
