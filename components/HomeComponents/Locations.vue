@@ -14,11 +14,11 @@
             <span v-html="$t('locations.directionsText')" />
           </div>
           <div class="w-full h-full items-center justify-center flex">
-            <NuxtLink to="schedule">
+            <a href="https://pretalx.com/adopting-bitcoin-2022/schedule" target="_blank">
               <CTA>
                 Schedule
               </CTA>
-            </NuxtLink>
+            </a>
           </div>
 
         </div>
