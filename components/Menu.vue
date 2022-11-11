@@ -25,7 +25,7 @@
           <NuxtLink to="/#tickets" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.tickets') }}
           </NuxtLink>
-          <a href="https://pretalx.com/adopting-bitcoin-2022/schedule" target="_blank" @click.native="menuIsShown=false">
+          <a href="https://pretalx.com/adopting-bitcoin-2022/schedule" class="link" target="_blank" @click.native="menuIsShown=false">
             {{ $t('menu.schedule') }}
           </a>
 <!--          <NuxtLink to="/#sponsors" class="link" @click.native="menuIsShown=false">-->
