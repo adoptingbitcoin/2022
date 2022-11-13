@@ -1,6 +1,6 @@
 ---
 name: "Yamb <br>Ntimba"
-function: Bitcoin Advocate
+function: Writer
 img: yamb.png
 twitter: 'yambntimba'
 showPage: true
@@ -8,7 +8,7 @@ showPage: true
 
 # Yamb Ntimba
  
-Yamb Ntimba is a bitcoin advocate from Cameroon.
+Yamb Ntimba is a writer from Cameroon.
 <br><br>
 
 
