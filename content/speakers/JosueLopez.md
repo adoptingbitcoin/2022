@@ -1,6 +1,6 @@
 ---
 name: "Josue <br>Lopez"
-function: Bitcoin Advocate
+function: Anchor Mining
 img: josue.png
 twitter: 'JosueLopezGal'
 showPage: true
