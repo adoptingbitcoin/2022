@@ -24,10 +24,10 @@
 
       </div>
       <div class="w-full flex justify-end">
-        <CTA class="shadow-none hidden md:block" href="#tickets">BUY YOUR TICKET</CTA>
+        <CTA class="shadow-none hidden md:block" href="https://pretix.eu/galoy/ab23/">BUY YOUR TICKET FOR AB 2023</CTA>
       </div>
       <div class="">
-        <CTA class="shadow-none md:hidden" href="#tickets">BUY YOUR TICKET</CTA>
+        <CTA class="shadow-none md:hidden" href="https://pretix.eu/galoy/ab23/">BUY YOUR TICKET FOR AB 2023</CTA>
       </div>
     </RepeatingImage>
     <div class="w-full absolute right-0 top-0 mt-3">
