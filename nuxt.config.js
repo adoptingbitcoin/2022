@@ -107,7 +107,7 @@ export default {
 
   i18n: {
     lazy: false,
-    baseUrl: 'https://adoptingbitcoin.org/2022',
+    baseUrl: 'https://adoptingbitcoin.github.io/2022',
     seo: true,
     locales: [
       { code: 'en', file: 'en.json', iso: 'en-US' }
@@ -120,12 +120,12 @@ export default {
     }
   },
   sitemap: {
-    hostname: 'https://adoptingbitcoin.org',
+    hostname: 'https://adoptingbitcoin.github.io',
     gzip: true,
     i18n: true
   },
   env: {
     production: (process.env.CI_PROJECT_NAME === 'adopting-bitcoin-live') || false,
-    domain: process.env.PAGE_DOMAIN ?? 'adoptingbitcoin.org'
+    domain: process.env.PAGE_DOMAIN ?? 'adoptingbitcoin.github.io'
   }
 }
