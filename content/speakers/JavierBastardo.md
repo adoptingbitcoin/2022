@@ -18,7 +18,7 @@ Javier is a bitcoiner from Caracas who has been advocating bitcoin only on his s
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Won’t Fix Venezuela**  <br><br>
-[![Bitcoin Won’t Fix Venezuela](/2022/content/bastardo2.png)](https://www.youtube.com/watch?v=d2e8cGGGG_s/)
+[![Bitcoin Won’t Fix Venezuela](/content/bastardo2.png)](https://www.youtube.com/watch?v=d2e8cGGGG_s/)
 </div>
 
 </div>

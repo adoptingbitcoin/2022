@@ -18,7 +18,7 @@ Jeremy is an advisor to Escape to El Salvador, a community of professionals brou
 <div class="p-3 my-2">
 
 **Read - Escape to El Salvador**  <br><br>
-[![Escape to El Salvador](/2022/content/escape.png)](https://escapetoelsalvador.org/)
+[![Escape to El Salvador](/content/escape.png)](https://escapetoelsalvador.org/)
 </div>
 
 </div>

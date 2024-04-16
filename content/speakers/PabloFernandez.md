@@ -21,7 +21,7 @@ Pablo is the Lead Developer at Swan Bitcoin. He's been a software engineer and a
 <div class="p-3 my-2">
 
 **Watch - Onboarding bitcoin and Lightning developers**  <br><br>
-[![Onboarding bitcoin and Lightning developers](/2022/content/developingdevs.png)](https://youtu.be/-uJSdfo4z7c/)
+[![Onboarding bitcoin and Lightning developers](/content/developingdevs.png)](https://youtu.be/-uJSdfo4z7c/)
 </div>
 
 </div>

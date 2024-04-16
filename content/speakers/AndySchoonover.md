@@ -18,13 +18,13 @@ Andy is CEO of CrowdHealth, a peer to peer health crowdfunding company that util
 <div class="p-3 my-2">
 
 **Watch - Healthcare on a Bitcoin Standard with Andy Schoonover**  <br><br>
-[![Healthcare on a Bitcoin Standard with Andy Schoonover](/2022/content/andy2.png)](https://www.youtube.com/watch?v=4-rJse6X0S4/)
+[![Healthcare on a Bitcoin Standard with Andy Schoonover](/content/andy2.png)](https://www.youtube.com/watch?v=4-rJse6X0S4/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Fixes This #90: Economics of Health Care with Andy Schoonover**  <br><br>
-[![Bitcoin Fixes This #90: Economics of Health Care with Andy Schoonover](/2022/content/andy1.png)](https://www.youtube.com/watch?v=42G42lKhs0Q/)
+[![Bitcoin Fixes This #90: Economics of Health Care with Andy Schoonover](/content/andy1.png)](https://www.youtube.com/watch?v=42G42lKhs0Q/)
 </div>
 
 

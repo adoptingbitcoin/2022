@@ -18,19 +18,19 @@ Aaron van Wirdum is interested in technology and how it affects social and polit
 <div class="p-3 my-2">
 
 **Read - El Salvador: One small step for Bitcoin**  <br><br>
-[![El Salvador: One small step for Bitcoin](/2022/content/aaron_step.png)](https://bitcoinmagazine.com/culture/el-salvador-one-small-step-for-bitcoin/)
+[![El Salvador: One small step for Bitcoin](/content/aaron_step.png)](https://bitcoinmagazine.com/culture/el-salvador-one-small-step-for-bitcoin/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - El Salvador Bitcoin Law on the ground**  <br><br>
-[![El Salvador Bitcoin Law on the ground](/2022/content/aaron_slp.png)](https://stephanlivera.com/episode/305/)
+[![El Salvador Bitcoin Law on the ground](/content/aaron_slp.png)](https://stephanlivera.com/episode/305/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
 </div>
 
 </div>

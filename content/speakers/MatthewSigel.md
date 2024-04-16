@@ -18,7 +18,7 @@ Matthew is head of digital assets research at VanEck - an $80B asset manager - a
 <div class="p-3 my-2">
 
 **Watch - Bitcoin and Gold: Friends or Foes?**  <br><br>
-[![Bitcoin and Gold: Friends or Foes?](/2022/content/sigel_gold.png)](https://www.vaneck.com/us/en/webinar-registration/?id=94329583800/)
+[![Bitcoin and Gold: Friends or Foes?](/content/sigel_gold.png)](https://www.vaneck.com/us/en/webinar-registration/?id=94329583800/)
 </div>
 
 </div>

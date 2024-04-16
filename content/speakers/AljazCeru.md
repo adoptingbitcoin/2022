@@ -19,7 +19,7 @@ Aljaz Ceru is a co-founder and Chief Executive Officer of bolt.observer, a bitco
 <div class="p-3 my-2">
 
 **Read - Observability in the Lightning network**  <br><br>
-[![Observability in the Lightning network](/2022/content/aljaz_network.png)](https://boltobserver.substack.com/p/observability-in-the-lightning-network/)
+[![Observability in the Lightning network](/content/aljaz_network.png)](https://boltobserver.substack.com/p/observability-in-the-lightning-network/)
 </div>
 
 </div>

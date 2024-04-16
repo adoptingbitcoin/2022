@@ -19,7 +19,7 @@ Moritz is a core contributor at Alby, an open source project that brings bitcoin
 <div class="p-3 my-2">
 
 **Read - Alby: Bringing Bitcoin to the web**  <br><br>
-[![Alby: Bringing Bitcoin to the web](/2022/content/kaminski1.png)](https://blog.getalby.com/alby-bringing-bitcoin-to-the-web/)
+[![Alby: Bringing Bitcoin to the web](/content/kaminski1.png)](https://blog.getalby.com/alby-bringing-bitcoin-to-the-web/)
 </div>
 
 

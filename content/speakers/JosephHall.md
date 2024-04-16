@@ -18,13 +18,13 @@ Joe Hall is a nomadic interview journalist with a penchant for adventure. A poly
 <div class="p-3 my-2">
 
 **Listen - Justifying Bitcoin Journalism**  <br><br>
-[![Justifying Bitcoin Journalism](/2022/content/joe1.png)](https://anchor.fm/bitcoinwithjake/episodes/Joe-Hall---Justifying-Bitcoin-Journalism-e1njemu/)
+[![Justifying Bitcoin Journalism](/content/joe1.png)](https://anchor.fm/bitcoinwithjake/episodes/Joe-Hall---Justifying-Bitcoin-Journalism-e1njemu/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Bitcoin Journalism And Research Based Reporting**  <br><br>
-[![Bitcoin Journalism And Research Based Reporting](/2022/content/joe2.png)](https://anchor.fm/daniel-prince6/episodes/JoeNakamoto---Bitcoin-Journalism-And-Research-Based-Reporting--270-e1me5qd/)
+[![Bitcoin Journalism And Research Based Reporting](/content/joe2.png)](https://anchor.fm/daniel-prince6/episodes/JoeNakamoto---Bitcoin-Journalism-And-Research-Based-Reporting--270-e1me5qd/)
 </div>
 
 </div>

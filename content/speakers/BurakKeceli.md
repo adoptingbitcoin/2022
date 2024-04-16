@@ -19,19 +19,19 @@ Burak started in Bitcoin in 2017, exploring and building around mining, payments
 <div class="p-3 my-2">
 
 **Watch - Sidechains: Benefits and Tradeoffs**  <br><br>
-[![Sidechains: Benefits and Tradeoffs](/2022/content/sidechains.png)](https://www.youtube.com/watch?v=8tCx6EwPU4s/)
+[![Sidechains: Benefits and Tradeoffs](/content/sidechains.png)](https://www.youtube.com/watch?v=8tCx6EwPU4s/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Building on Liquid**  <br><br>
-[![Building on Liquid](/2022/content/liquid.png)](https://www.youtube.com/watch?v=UJXQFOMV16U/)
+[![Building on Liquid](/content/liquid.png)](https://www.youtube.com/watch?v=UJXQFOMV16U/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Liquid Script Wizard with Burak**  <br><br>
-[![Liquid Script Wizard with Burak](/2022/content/burakworkshop.png)](https://www.youtube.com/watch?v=6kRsz5JKFig/)
+[![Liquid Script Wizard with Burak](/content/burakworkshop.png)](https://www.youtube.com/watch?v=6kRsz5JKFig/)
 </div>
 
 

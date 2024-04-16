@@ -24,31 +24,31 @@ Stephan Livera es el anfitrión del Stephan Livera Podcast, uno de los podcasts 
 <div class="p-3 my-2">
 
 **Watch - Lightning Privacy** <br><br>
-[ ![Lightning Privacy](/2022/content/lnprivacy.png)](https://youtu.be/_UYdyzCyO0c/)
+[ ![Lightning Privacy](/content/lnprivacy.png)](https://youtu.be/_UYdyzCyO0c/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Intro to Bitcoin Austrian Thought** <br><br>
-[ ![SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought](/2022/content/livera.png)](https://open.spotify.com/episode/1nnACZ84WdpdQ15jm3SH5X/)
+[ ![SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought](/content/livera.png)](https://open.spotify.com/episode/1nnACZ84WdpdQ15jm3SH5X/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - How we should really think about Bitcoin maximalism** <br><br>
-[ ![How we should really think about Bitcoin maximalism](/2022/content/stephan_maximalist.png)](https://bitcoinmagazine.com/culture/why-bitcoin-maximalism-is-critical/)
+[ ![How we should really think about Bitcoin maximalism](/content/stephan_maximalist.png)](https://bitcoinmagazine.com/culture/why-bitcoin-maximalism-is-critical/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**  <br><br>
-[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/2022/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
+[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - t-bast Lightning Protocol Privacy Exploration**  <br><br>
-[![t-bast Lightning Protocol Privacy Exploration](/2022/content/livera_privacy.png)](https://stephanlivera.com/episode/319/)
+[![t-bast Lightning Protocol Privacy Exploration](/content/livera_privacy.png)](https://stephanlivera.com/episode/319/)
 </div>
 </div>
 

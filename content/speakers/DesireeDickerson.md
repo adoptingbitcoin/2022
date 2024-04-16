@@ -18,13 +18,13 @@ Desiree Dickerson is CEO and Co-Founder of THNDR, the most popular mobile gaming
 <div class="p-3 my-2">
 
 **Watch - Emerging Business Models in Gaming**  <br><br>
-[![Emerging Business Models in Gaming](/2022/content/des1.png)](https://www.youtube.com/watch?v=XPmJvLxjpzo/)
+[![Emerging Business Models in Gaming](/content/des1.png)](https://www.youtube.com/watch?v=XPmJvLxjpzo/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - New Gaming Economies: Bitcoin for Player Empowerment**  <br><br>
-[![New Gaming Economies: Bitcoin for Player Empowerment](/2022/content/des2.png)](https://www.youtube.com/watch?v=R7QSDI90yTg/)
+[![New Gaming Economies: Bitcoin for Player Empowerment](/content/des2.png)](https://www.youtube.com/watch?v=R7QSDI90yTg/)
 </div>
 
 </div>

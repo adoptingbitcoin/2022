@@ -17,7 +17,7 @@ Joe is a developer and contributor to SeedSigner, an airgapped DIY Bitcoin signi
 <div class="p-3 my-2">
 
 **Watch - SeedSigner Esamblaje**  <br><br>
-[![SeedSigner Esamblaje](/2022/content/seedsigner1.png)](https://www.youtube.com/watch?v=grjf213heuo/)
+[![SeedSigner Esamblaje](/content/seedsigner1.png)](https://www.youtube.com/watch?v=grjf213heuo/)
 </div>
 
 </div>

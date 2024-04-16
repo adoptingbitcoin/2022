@@ -18,7 +18,7 @@ Anthony is a professional executor and author of “How Probate Works” and ”
 <div class="p-3 my-2">
 
 **Watch - Transferring Bitcoin Upon Death**  <br><br>
-[![Transferring Bitcoin Upon Death](/2022/content/executor1.png)](https://www.youtube.com/watch?v=qdWQ_lOPkmU/)
+[![Transferring Bitcoin Upon Death](/content/executor1.png)](https://www.youtube.com/watch?v=qdWQ_lOPkmU/)
 </div>
 
 </div>

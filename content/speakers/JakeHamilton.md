@@ -17,7 +17,7 @@ In 2015, Jacob was pursuing grad school in philosophy when he took a seminar on 
 <div class="p-3 my-2">
 
 **Listen - Nilrun-Mardux interview of tondes-sitrym**  <br><br>
-[![Nilrun-Mardux interview of tondes-sitrym](/2022/content/jacob1.png)](https://otter.ai/u/IfNwSAXiJhNWXb_NDNbU6pG2Jsc/)
+[![Nilrun-Mardux interview of tondes-sitrym](/content/jacob1.png)](https://otter.ai/u/IfNwSAXiJhNWXb_NDNbU6pG2Jsc/)
 </div>
 
 </div>

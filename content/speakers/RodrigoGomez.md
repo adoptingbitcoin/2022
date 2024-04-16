@@ -20,7 +20,7 @@ Rodrigo tiene un pasado en Relaciones Internacionales, donde como Diplomático p
 <div class="p-3 my-2">
 
 **Watch - Bitcoin: El triunfo de la matemática, la descentralización y la transparencia** <br><br>
-[ ![Bitcoin: El triunfo de la matemática, la descentralización y la transparencia](/2022/content/rodrigo_bitcoin.png)](https://m.facebook.com/ULuterana/videos/bitcoin-el-triunfo-de-la-matemática-la-descentralización-y-la-transparencia/1762670900601019/?refsrc=deprecated&_rdr/)
+[ ![Bitcoin: El triunfo de la matemática, la descentralización y la transparencia](/content/rodrigo_bitcoin.png)](https://m.facebook.com/ULuterana/videos/bitcoin-el-triunfo-de-la-matemática-la-descentralización-y-la-transparencia/1762670900601019/?refsrc=deprecated&_rdr/)
 </div>
 
 </div>

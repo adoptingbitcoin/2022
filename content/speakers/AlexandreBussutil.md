@@ -18,13 +18,13 @@ Alexandre Bussutil is the head of business development at bolt.observer, a bitco
 <div class="p-3 my-2">
 
 **Read - The Roads to Hyperbitcoinization**  <br><br>
-[![The Roads to Hyperbitcoinization](/2022/content/bussutil_roads.png)](https://bitcoinmagazine.com/culture/the-roads-to-hyperbitcoinization/)
+[![The Roads to Hyperbitcoinization](/content/bussutil_roads.png)](https://bitcoinmagazine.com/culture/the-roads-to-hyperbitcoinization/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - The Roads to Hyperbitcoinization**  <br><br>
-[![The Roads to Hyperbitcoinization](/2022/content/bussutil_abcg.png)](https://anchor.fm/adoptingbitcoin/episodes/Roads-to-Hyperbitcoinization-with-Fulgur-Ventures-e1c1v78/)
+[![The Roads to Hyperbitcoinization](/content/bussutil_abcg.png)](https://anchor.fm/adoptingbitcoin/episodes/Roads-to-Hyperbitcoinization-with-Fulgur-Ventures-e1c1v78/)
 </div>
 
 </div>

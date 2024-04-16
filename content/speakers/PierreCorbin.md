@@ -18,7 +18,7 @@ Previously a Management Consultant in the tech industry, Pierre is now a full-ti
 <div class="p-3 my-2">
 
 **Watch - The Great Reset**  <br><br>
-[![The Great Reset Film](/2022/content/corbin1.png)](https://www.thegreatresetfilm.com/)
+[![The Great Reset Film](/content/corbin1.png)](https://www.thegreatresetfilm.com/)
 </div>
 
 </div>

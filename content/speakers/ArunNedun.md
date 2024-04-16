@@ -17,7 +17,7 @@ Arun is a tech builder and co-founder of PaySea & Starbackr. Part of Bitcoin/lig
 <div class="p-3 my-2">
 
 **Read - Assets on Bitcoin? TARO Alpha is out**  <br><br>
-[![Assets on Bitcoin? TARO Alpha is out](/2022/content/arun1.png)](https://starbackr.com/taro-alpha-is-out-2/)
+[![Assets on Bitcoin? TARO Alpha is out](/content/arun1.png)](https://starbackr.com/taro-alpha-is-out-2/)
 </div>
 
 

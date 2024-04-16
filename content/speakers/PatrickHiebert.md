@@ -18,7 +18,7 @@ showPage: true
 <div class="p-3 my-2">
 
 **Listen - Maven Marketplace**  <br><br>
-[![Maven Marketplace](/2022/content/maven.png)](https://fountain.fm/episode/7787955122/)
+[![Maven Marketplace](/content/maven.png)](https://fountain.fm/episode/7787955122/)
 </div>
 
 

@@ -18,7 +18,7 @@ John is a writer and activist. Born in New York he often works at the UN and oth
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Diploma in El Salvador**  <br><br>
-[![Bitcoin Diploma in El Salvador](/2022/content/dennehy.png)](https://www.youtube.com/watch?v=TnwALwnlwyc/)
+[![Bitcoin Diploma in El Salvador](/content/dennehy.png)](https://www.youtube.com/watch?v=TnwALwnlwyc/)
 </div>
 
 </div>

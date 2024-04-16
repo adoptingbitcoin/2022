@@ -18,7 +18,7 @@ Rich is a co-founder of Bitcoin Jungle in Costa Rica, a circular economy at the 
 <div class="p-3 my-2">
 
 **Watch - BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It**  <br><br>
-[![BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It](/2022/content/jungle.png)](https://www.youtube.com/watch?v=BrEDaFEW6yI/)
+[![BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It](/content/jungle.png)](https://www.youtube.com/watch?v=BrEDaFEW6yI/)
 </div>
 
 </div>

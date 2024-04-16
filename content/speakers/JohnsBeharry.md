@@ -21,25 +21,25 @@ Johns is a hybrid product designer and software engineer from a tiny island in t
 <div class="p-3 my-2">
 
 **Watch - If it looks better, it works better** <br><br>
-[ ![If it looks better, it works better](/2022/content/johns_ab21.png)](https://youtu.be/CY_RpZLvLzo/)
+[ ![If it looks better, it works better](/content/johns_ab21.png)](https://youtu.be/CY_RpZLvLzo/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Privacy & Payments** <br><br>
-[ ![Privacy & Payments](/2022/content/johns_advancing.png)](https://podcast.advancingbitcoin.com/1450198/6612919-privacy-payments-with-johns-beharry/)
+[ ![Privacy & Payments](/content/johns_advancing.png)](https://podcast.advancingbitcoin.com/1450198/6612919-privacy-payments-with-johns-beharry/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - MCCVR 2020: Design Bitcoin for Everyone** <br><br>
-[ ![MCCVR 2020: Design Bitcoin for Everyone](/2022/content/johns_mccvr.png)](https://www.youtube.com/watch?v=n2auo8bGKm0/)
+[ ![MCCVR 2020: Design Bitcoin for Everyone](/content/johns_mccvr.png)](https://www.youtube.com/watch?v=n2auo8bGKm0/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Design bitcoin for everyone - Christoph Ono, Johns Beharry** <br><br>
-[ ![Design bitcoin for everyone - Christoph Ono, Johns Beharry](/2022/content/johns_design.png)](https://www.youtube.com/watch?v=Z6R15IQB1LI/)
+[ ![Design bitcoin for everyone - Christoph Ono, Johns Beharry](/content/johns_design.png)](https://www.youtube.com/watch?v=Z6R15IQB1LI/)
 </div>
 
 </div>

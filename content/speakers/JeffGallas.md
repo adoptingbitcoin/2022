@@ -18,7 +18,7 @@ Jeff is the co-founder of Fulmo, the Berlin based bitcoin company, host of the w
 <div class="p-3 my-2">
 
 **Watch - Bitcoin as the next Internet** <br><br>
-[ ![Why Lightning, Why Now](/2022/content/max_ab21.png)](https://youtu.be/yfRoztov1eA/)
+[ ![Why Lightning, Why Now](/content/max_ab21.png)](https://youtu.be/yfRoztov1eA/)
 </div>
 
 </div>

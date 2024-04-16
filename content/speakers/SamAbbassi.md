@@ -18,7 +18,7 @@ Sam is Founder and CEO of Hoseki, a proof of assets bitcoin platform. Prior to H
 <div class="p-3 my-2">
 
 **Read - Bitcoin is a new world country**  <br><br>
-[![Bitcoin is a new world country](/2022/content/samabbassi1.png)](https://bitcoinmagazine.com/culture/bitcoin-is-a-new-world-country/)
+[![Bitcoin is a new world country](/content/samabbassi1.png)](https://bitcoinmagazine.com/culture/bitcoin-is-a-new-world-country/)
 </div>
 
 </div>

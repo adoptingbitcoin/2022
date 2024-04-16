@@ -18,7 +18,7 @@ Lead on the ground for the Bitcoin Island, Philippines and VP of pouch.ph
 <div class="p-3 my-2">
 
 **Read - Bitcoin Island, Philippines on BTCMap.org**  <br><br>
-[![Bitcoin Island, Philippines on BTCMap.org](/2022/content/bill1.png)](https://btcmap.org/map/)
+[![Bitcoin Island, Philippines on BTCMap.org](/content/bill1.png)](https://btcmap.org/map/)
 </div>
 
 

@@ -18,7 +18,7 @@ Kim has been working in the software-industry since almost two decades. His last
 <div class="p-3 my-2">
 
 **Watch - Specter Multisig in German**  <br><br>
-[![Specter Multisig](/2022/content/kim1.png)](https://www.youtube.com/watch?v=gQhh8Izu-qQ/)
+[![Specter Multisig](/content/kim1.png)](https://www.youtube.com/watch?v=gQhh8Izu-qQ/)
 </div>
 
 </div>

@@ -19,7 +19,7 @@ Justin is a former artist and high stakes poker player who found interest in str
 <div class="p-3 my-2">
 
 **Watch - Building a Bitcoin Bank - Justin Carter** <br><br>
-[ ![Building a Bitcoin Bank - Justin Carter](/2022/content/bitcoinbank.png)](https://youtu.be/TjLGFFDwn5o/)
+[ ![Building a Bitcoin Bank - Justin Carter](/content/bitcoinbank.png)](https://youtu.be/TjLGFFDwn5o/)
 </div>
 
 </div>

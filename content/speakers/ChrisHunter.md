@@ -23,26 +23,26 @@ Hunter is an active investor (Angel, Seed and Series A rounds) in the Bitcoin, f
 <div class="p-3 my-2">
 
 **Watch - The tech behind the Bitcoin Beach Wallet**<br><br>
-[ ![The tech behind the Bitcoin Beach Wallet](/2022/content/chris_tech.png)](https://youtu.be/g0nSmt7ekvU/)
+[ ![The tech behind the Bitcoin Beach Wallet](/content/chris_tech.png)](https://youtu.be/g0nSmt7ekvU/)
 </div>
 
 
 <div class="p-3 my-2">
 
 **Read - Bitcoin Banking for Communities: Lessons Learned from El Zonte**<br><br>
-[ ![Bitcoin Banking for Communities: Lessons Learned from El Zonte](/2022/content/chris_elzonte.png)](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/)
+[ ![Bitcoin Banking for Communities: Lessons Learned from El Zonte](/content/chris_elzonte.png)](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Galoy - Adopting Bitcoin LN Conference, Bitcoin Banking, & Bitcoin Beach**<br><br>
-[ ![Galoy - Adopting Bitcoin LN Conference, Bitcoin Banking, & Bitcoin Beach](/2022/content/chris_bitrefill.png)](https://www.youtube.com/watch?v=q8sq1q3zdi4/)
+[ ![Galoy - Adopting Bitcoin LN Conference, Bitcoin Banking, & Bitcoin Beach](/content/chris_bitrefill.png)](https://www.youtube.com/watch?v=q8sq1q3zdi4/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Lightning as a retail payment system**  <br><br>
-[![Lightning as a retail payment system](/2022/content/nicolas_retail.png)](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef/)
+[![Lightning as a retail payment system](/content/nicolas_retail.png)](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef/)
 </div>
 
 </div>

@@ -18,7 +18,7 @@ Calle is a shadowy bitcoin and Lightning developer and contributing to open sour
 <div class="p-3 my-2">
 
 **Watch - Cashu, an eCash wallet and Mint **  <br><br>
-[![Cashu, an eCash wallet and Mint ](/2022/content/calle1.png)](https://www.youtube.com/watch?v=zdtRT7phXBo/)
+[![Cashu, an eCash wallet and Mint ](/content/calle1.png)](https://www.youtube.com/watch?v=zdtRT7phXBo/)
 </div>
 
 </div>

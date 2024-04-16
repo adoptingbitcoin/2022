@@ -17,7 +17,7 @@ Christopher David is founder & CEO of Arcade Labs, a venture production studio b
 <div class="p-3 my-2">
 
 **Listen - Arcade City, Decentralized Ride Sharing, and Building on Lightning** <br><br>
-[ ![Arcade City, Decentralized Ride Sharing, and Building on Lightning](/2022/content/chrisdavid1.png)](https://www.youtube.com/watch?v=27OH5iaOcKk/)
+[ ![Arcade City, Decentralized Ride Sharing, and Building on Lightning](/content/chrisdavid1.png)](https://www.youtube.com/watch?v=27OH5iaOcKk/)
 </div>
 
 </div>

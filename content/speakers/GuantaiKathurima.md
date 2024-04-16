@@ -18,7 +18,7 @@ Guantai is a Kenyan Bitcoin Maximalist and the founder of BitcoinMtaani which is
 <div class="p-3 my-2">
 
 **Watch - Master Guantai on Bitcoin Adoption in Kenya**  <br><br>
-[![Master Guantai on Bitcoin Adoption in Kenya](/2022/content/mtaani.png)](https://www.youtube.com/watch?v=fp5vy6tUJmM/)
+[![Master Guantai on Bitcoin Adoption in Kenya](/content/mtaani.png)](https://www.youtube.com/watch?v=fp5vy6tUJmM/)
 </div>
 
 </div>

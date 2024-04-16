@@ -18,14 +18,14 @@ SeedSigner is an airgapped DIY Bitcoin signing device. The goal of SeedSigner is
 <div class="p-3 my-2">
 
 **Read - DIY Hardware Wallets**  <br><br>
-[![DIY Hardware Wallets](/2022/content/seed2.png)](https://thebitcoinmanual.com/articles/diy-hardware-wallets-seedsigner/)
+[![DIY Hardware Wallets](/content/seed2.png)](https://thebitcoinmanual.com/articles/diy-hardware-wallets-seedsigner/)
 </div>
 
 
 <div class="p-3 my-2">
 
 **Watch - SeedSigner Esamblaje**  <br><br>
-[![SeedSigner Esamblaje](/2022/content/seedsigner1.png)](https://www.youtube.com/watch?v=grjf213heuo/)
+[![SeedSigner Esamblaje](/content/seedsigner1.png)](https://www.youtube.com/watch?v=grjf213heuo/)
 </div>
 
 </div>

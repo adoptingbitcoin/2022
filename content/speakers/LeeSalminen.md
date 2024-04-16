@@ -18,7 +18,7 @@ Lee is a software engineer and entrepreneur with nearly 15 years of experience. 
 <div class="p-3 my-2">
 
 **Watch - BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It**  <br><br>
-[![BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It](/2022/content/jungle.png)](https://www.youtube.com/watch?v=BrEDaFEW6yI/)
+[![BTC Price Doesn't Matter - Bitcoin Jungle, Costa Rica Proves It](/content/jungle.png)](https://www.youtube.com/watch?v=BrEDaFEW6yI/)
 </div>
 
 </div>

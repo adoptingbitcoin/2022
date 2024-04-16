@@ -18,7 +18,7 @@ Kevin is the host of the Kevin Rooke show, where he regularly hosts builders of 
 <div class="p-3 my-2">
 
 **Watch - Stablesats, Galoy, Bitcoin Banks, and El Salvador Bitcoin Adoption**<br><br>
-[ ![Stablesats, Galoy, Bitcoin Banks, and El Salvador Bitcoin Adoption](/2022/content/nicolas1.png)](https://www.youtube.com/watch?v=qQBnfPmLbss/)
+[ ![Stablesats, Galoy, Bitcoin Banks, and El Salvador Bitcoin Adoption](/content/nicolas1.png)](https://www.youtube.com/watch?v=qQBnfPmLbss/)
 </div>
 
 </div>

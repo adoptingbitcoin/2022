@@ -18,7 +18,7 @@ Adam is a full stack web developer working on coinos wallet and Raretoshi.
 <div class="p-3 my-2">
 
 **Listen - Tales from the Crypt with Adam Soltys**  <br><br>
-[![Tales from the Crypt with Adam Soltys](/2022/content/tftc.png)](https://anchor.fm/tales-from-the-crypt/episodes/202-Adam-Soltys-el6kup/)
+[![Tales from the Crypt with Adam Soltys](/content/tftc.png)](https://anchor.fm/tales-from-the-crypt/episodes/202-Adam-Soltys-el6kup/)
 </div>
 
 

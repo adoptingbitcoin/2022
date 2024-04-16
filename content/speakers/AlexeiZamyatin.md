@@ -20,7 +20,7 @@ Alexei Zamyatin is a researcher and software developer who has been contributing
 <div class="p-3 my-2">
 
 **Watch - Decentralized Mining Pools: Security and Attacks**  <br><br>
-[![Decentralized Mining Pools: Security and Attacks](/2022/content/alexei1.png)](https://www.youtube.com/watch?v=DKOG0BQMmmg&t=25630s/)
+[![Decentralized Mining Pools: Security and Attacks](/content/alexei1.png)](https://www.youtube.com/watch?v=DKOG0BQMmmg&t=25630s/)
 </div>
 
 

@@ -23,19 +23,19 @@ Hermann Vivier is the co-founder of The Surfer Kids (est. 2010) and founder of B
 <div class="p-3 my-2">
 
 **Read - Bitcoin Ekasi - The Township one year later**  <br><br>
-[![Bitcoin Ekasi - The Township one year later](/2022/content/ekasi1.png)](https://bitcoinmagazine.com/culture/bitcoin-ekasi-township-one-year-later/)
+[![Bitcoin Ekasi - The Township one year later](/content/ekasi1.png)](https://bitcoinmagazine.com/culture/bitcoin-ekasi-township-one-year-later/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Building a Bitcoin Economy in a South African Township**  <br><br>
-[![Building a Bitcoin Economy in a South African Township](/2022/content/ekasi2.png)](https://www.youtube.com/watch?v=iyB5wL6sO4U/)
+[![Building a Bitcoin Economy in a South African Township](/content/ekasi2.png)](https://www.youtube.com/watch?v=iyB5wL6sO4U/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Meet the Bitcoin Riders: Bitcoin Ekasi**  <br><br>
-[![Meet the Bitcoin Riders: Bitcoin Ekasi](/2022/content/ekasi3.png)](https://youtu.be/Y3o2B9n6P6Q/)
+[![Meet the Bitcoin Riders: Bitcoin Ekasi](/content/ekasi3.png)](https://youtu.be/Y3o2B9n6P6Q/)
 </div>
 
 </div>

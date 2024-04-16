@@ -18,7 +18,7 @@ Rogzy is a Bitcoin educator who fell down the bitcoin rabbit hole in 2017 but in
 <div class="p-3 my-2">
 
 **Watch - Les Bitcoiners "maximalistes"**  <br><br>
-[![Les Bitcoiners "maximalistes"](/2022/content/rogzy2.png)](https://www.youtube.com/watch?v=y4ysUro7WtI/)
+[![Les Bitcoiners "maximalistes"](/content/rogzy2.png)](https://www.youtube.com/watch?v=y4ysUro7WtI/)
 </div>
 
 

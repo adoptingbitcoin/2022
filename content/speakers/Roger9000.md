@@ -18,7 +18,7 @@ London based musician Roger 9000 is drawing on Mythology, Bitcoin, and his music
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Volcano Love in El Salvador**  <br><br>
-[![Bitcoin Volcano Love in El Salvador](/2022/content/roger1.png)](https://www.youtube.com/watch?v=VXEB8UxOoLE/)
+[![Bitcoin Volcano Love in El Salvador](/content/roger1.png)](https://www.youtube.com/watch?v=VXEB8UxOoLE/)
 </div>
 
 </div>

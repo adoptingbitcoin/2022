@@ -18,7 +18,7 @@ Alan is an international corporate pilot, prolific orange piller and Bitcoin eva
 <div class="p-3 my-2">
 
 **Listen - Redding Bitcoin Center with Alan Jackson**  <br><br>
-[![Redding Bitcoin Center with Alan Jackson](/2022/content/alan1.png)](https://anchor.fm/jed-powers/episodes/April-26th-2022-with-Alan-Jackson-e1hn770/)
+[![Redding Bitcoin Center with Alan Jackson](/content/alan1.png)](https://anchor.fm/jed-powers/episodes/April-26th-2022-with-Alan-Jackson-e1hn770/)
 </div>
 
 

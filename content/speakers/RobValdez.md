@@ -19,7 +19,7 @@ Rob Valdez, CPA is the Director of Daszkal Bolton’s Digital Advisory, a consul
 <div class="p-3 my-2">
 
 **Read - How to Effectively Review a SOC Report**  <br><br>
-[![How to Effectively Review a SOC Report](/2022/content/rob1.png)](https://www.youtube.com/watch?v=ydOwi0N8p74/)
+[![How to Effectively Review a SOC Report](/content/rob1.png)](https://www.youtube.com/watch?v=ydOwi0N8p74/)
 </div>
 
 </div>

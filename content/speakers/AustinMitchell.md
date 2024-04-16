@@ -18,7 +18,7 @@ Austin Mitchell is the CEO of Synota and has spent his career in the energy indu
 <div class="p-3 my-2">
 
 **Read - Towards a future of energy abundance**  <br><br>
-[![Towards a future of energy abundance](/2022/content/austin1.png)](https://bitcoinmagazine.com/business/a-future-of-energy-abundance/)
+[![Towards a future of energy abundance](/content/austin1.png)](https://bitcoinmagazine.com/business/a-future-of-energy-abundance/)
 </div>
 
 </div>

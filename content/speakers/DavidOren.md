@@ -18,7 +18,7 @@ David Oren is a Bitcoin activist, interested in giving financial freedom to the 
 <div class="p-3 my-2">
 
 **Read - The Central African Republic bets big on bitcoin**  <br><br>
-[![The Central African Republic bets big on bitcoin](/2022/content/davidoren1.png)](https://bitcoinmagazine.com/markets/the-central-african-republic-bets-big-on-bitcoin/)
+[![The Central African Republic bets big on bitcoin](/content/davidoren1.png)](https://bitcoinmagazine.com/markets/the-central-african-republic-bets-big-on-bitcoin/)
 </div>
 
 </div>

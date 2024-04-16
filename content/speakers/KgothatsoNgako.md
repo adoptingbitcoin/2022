@@ -18,7 +18,7 @@ Kgothatso Ngako is a software developer born and raised in Pretoria, South Afric
 <div class="p-3 my-2">
 
 **Listen - Helping #Bitcoin Attain Escape Velocity! **  <br><br>
-[![Helping #Bitcoin Attain Escape Velocity! ](/2022/content/joe2.png)](https://anchor.fm/daniel-prince6/episodes/Machankura8333---Helping-Bitcoin-Attain-Escape-Velocity--275-e1n5qmi/a-a8f2dsh/)
+[![Helping #Bitcoin Attain Escape Velocity! ](/content/joe2.png)](https://anchor.fm/daniel-prince6/episodes/Machankura8333---Helping-Bitcoin-Attain-Escape-Velocity--275-e1n5qmi/a-a8f2dsh/)
 </div>
 
 </div>

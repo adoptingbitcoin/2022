@@ -18,7 +18,7 @@ Bitcoin Dad is a bitcoiner from the class of 2017 that loves computers, self hos
 <div class="p-3 my-2">
 
 **Listen - TickTok Activated Softforks with Paul Sztorc**  <br><br>
-[![TickTok Activated Softforks with Paul Sztorc](/2022/content/bitcoindad1.png)](https://bitcoindadpod.fireside.fm/43/)
+[![TickTok Activated Softforks with Paul Sztorc](/content/bitcoindad1.png)](https://bitcoindadpod.fireside.fm/43/)
 </div>
 
 </div>

@@ -18,7 +18,7 @@ Federico is an R&D Strategist at Bitfinex, currently leading a team working to p
 <div class="p-3 my-2">
 
 **Read - Understanding RGB protocol**  <br><br>
-[![Understanding RGB protocol](/2022/content/federico1.png)](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059/)
+[![Understanding RGB protocol](/content/federico1.png)](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059/)
 </div>
 
 </div>

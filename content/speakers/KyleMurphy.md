@@ -18,13 +18,13 @@ Pleb guy doing pleb tings with my pleb frens. We build, we learn, we grow, and w
 <div class="p-3 my-2">
 
 **Watch - Developing bitcoin developers**  <br><br>
-[![Developing bitcoin developers](/2022/content/kyle1.png)](https://www.youtube.com/watch?v=TnUduSmufQM/)
+[![Developing bitcoin developers](/content/kyle1.png)](https://www.youtube.com/watch?v=TnUduSmufQM/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Building Pleb Lab: Bitcoin accelerator, community hub**  <br><br>
-[![Building Pleb Lab: Bitcoin accelerator, community hub](/2022/content/kyle2.png)](https://youtu.be/oZZh-gThE9w/)
+[![Building Pleb Lab: Bitcoin accelerator, community hub](/content/kyle2.png)](https://youtu.be/oZZh-gThE9w/)
 </div>
 
 </div>

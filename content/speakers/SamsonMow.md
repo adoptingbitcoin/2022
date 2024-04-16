@@ -17,7 +17,7 @@ Samson Mow is the CEO of JAN3, a Bitcoin technology company focused on accelerat
 <div class="p-3 my-2">
 
 **Read - Bitcoin adoption might be easier if we speak the elite's language** <br><br>
-[ ![Bitcoin adoption might be easier if we speak the elite's language](/2022/content/samson1.png)](https://bitcoinmagazine.com/culture/bitcoin-adoption-if-we-speak-elites-language/)
+[ ![Bitcoin adoption might be easier if we speak the elite's language](/content/samson1.png)](https://bitcoinmagazine.com/culture/bitcoin-adoption-if-we-speak-elites-language/)
 </div>
 
 <br>

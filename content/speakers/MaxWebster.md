@@ -18,25 +18,25 @@ Max is the founder at Hivemind Ventures, investing in seed stage startups buildi
 <div class="p-3 my-2">
 
 **Watch - Exponential Curves, and Lightning Network Opportunities** <br><br>
-[ ![Exponential Curves, and Lightning Network Opportunities](/2022/content/max1.png)](https://www.youtube.com/watch?v=lxGFo-opXGE/)
+[ ![Exponential Curves, and Lightning Network Opportunities](/content/max1.png)](https://www.youtube.com/watch?v=lxGFo-opXGE/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin as the next Internet** <br><br>
-[ ![Why Lightning, Why Now](/2022/content/max_ab21.png)](https://youtu.be/yfRoztov1eA/)
+[ ![Why Lightning, Why Now](/content/max_ab21.png)](https://youtu.be/yfRoztov1eA/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Why Lightning, Why Now** <br><br>
-[ ![Why Lightning, Why Now](/2022/content/max_why.png)](https://hivemind.vc/why-lightning-why-now/)
+[ ![Why Lightning, Why Now](/content/max_why.png)](https://hivemind.vc/why-lightning-why-now/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Entiende Bitcoin** <br><br>
-[ ![Entiende Bitcoin](/2022/content/max_entiende.png)](https://www.youtube.com/watch?v=C6YUztN7SKY/)
+[ ![Entiende Bitcoin](/content/max_entiende.png)](https://www.youtube.com/watch?v=C6YUztN7SKY/)
 </div>
 
 </div>

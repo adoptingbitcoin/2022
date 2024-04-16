@@ -19,37 +19,37 @@ Anthony is a web developer specializing in creating user interfaces and applicat
 <div class="p-3 my-2">
 
 **Watch - If it looks better, it works better** <br><br>
-[ ![If it looks better, it works better ](/2022/content/john_better.png)](https://youtu.be/CY_RpZLvLzo/)
+[ ![If it looks better, it works better ](/content/john_better.png)](https://youtu.be/CY_RpZLvLzo/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Thunderhub strikes on the Lightning Network ** <br><br>
-[ ![Thunderhub strikes on the Lightning Network ](/2022/content/potdevin1.png)](https://www.youtube.com/watch?v=UrSnOptoZ40/)
+[ ![Thunderhub strikes on the Lightning Network ](/content/potdevin1.png)](https://www.youtube.com/watch?v=UrSnOptoZ40/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Reimagining Lightning UX on Web** <br><br>
-[ ![Reimagining Lightning UX on Web](/2022/content/potdevin2.png)](https://www.youtube.com/watch?v=mYFbYb6WzeM/)
+[ ![Reimagining Lightning UX on Web](/content/potdevin2.png)](https://www.youtube.com/watch?v=mYFbYb6WzeM/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Becoming a Lightning routing node operator with Jestopher and Tony of Amboss** <br><br>
-[ ![Becoming a Lightning routing node operator with Jestopher and Tony of Amboss](/2022/content/jesse_livera.png)](https://stephanlivera.com/episode/307/)
+[ ![Becoming a Lightning routing node operator with Jestopher and Tony of Amboss](/content/jesse_livera.png)](https://stephanlivera.com/episode/307/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - How to start receiving Bitcoin donations** <br><br>
-[ ![How to start receiving Bitcoin donations](/2022/content/tony_donations.png)](https://medium.com/@apotdevin/how-to-start-receiving-bitcoin-donations-a41025ffee28/)
+[ ![How to start receiving Bitcoin donations](/content/tony_donations.png)](https://medium.com/@apotdevin/how-to-start-receiving-bitcoin-donations-a41025ffee28/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Qué ha pasado en Lightning Network en 2020 visto desde Thunderhub** <br><br>
-[ ![Qué ha pasado en Lightning Network en 2020 visto desde Thunderhub](/2022/content/anthony_luna.png)](https://www.youtube.com/watch?v=MMZC-ErlvNg/)
+[ ![Qué ha pasado en Lightning Network en 2020 visto desde Thunderhub](/content/anthony_luna.png)](https://www.youtube.com/watch?v=MMZC-ErlvNg/)
 </div>
 
 </div>

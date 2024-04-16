@@ -19,13 +19,13 @@ Michael is an open web enthusiast from planet Earth currently working on bringin
 <div class="p-3 my-2">
 
 **Watch - Improving Lightning Payments with Alby**  <br><br>
-[![Improving Lightning Payments with Alby](/2022/content/bumi1.png)](https://www.youtube.com/watch?v=07HAcQDDAmo)
+[![Improving Lightning Payments with Alby](/content/bumi1.png)](https://www.youtube.com/watch?v=07HAcQDDAmo)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Foie Gras**  <br><br>
-[![Foie Gras](/2022/content/bumi2.png)](https://podverse.fm/episode/v-edTsF0J/)
+[![Foie Gras](/content/bumi2.png)](https://podverse.fm/episode/v-edTsF0J/)
 </div>
 
 </div>

@@ -18,7 +18,7 @@ Marina is a communications expert and business development advisor for blockchai
 <div class="p-3 my-2">
 
 **Watch - ¿Desarrollar Bitcoin desde El Salvador?**  <br><br>
-[![¿Desarrollar Bitcoin desde El Salvador?](/2022/content/torogoz.png)](https://www.youtube.com/watch?v=zvgz2rqgH-8/)
+[![¿Desarrollar Bitcoin desde El Salvador?](/content/torogoz.png)](https://www.youtube.com/watch?v=zvgz2rqgH-8/)
 </div>
 
 </div>

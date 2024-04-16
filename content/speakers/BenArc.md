@@ -22,13 +22,13 @@ Nativo de Gales, Ben Arc es un promotor y educador sobre el software libre de c√
 <div class="p-3 my-2">
 
 **Listen - The Anita Posch Show - Ben Arc: Building Bitcoin DIY Hardware and Software** <br><br>
-[ ![The Anita Posch Show - Ben Arc: Building Bitcoin DIY Hardware and Software](/2022/content/benarc.png)](https://open.spotify.com/show/0EJu3cMWF0AMxeO8NMH71z/)
+[ ![The Anita Posch Show - Ben Arc: Building Bitcoin DIY Hardware and Software](/content/benarc.png)](https://open.spotify.com/show/0EJu3cMWF0AMxeO8NMH71z/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Made Simple 038 Ben Arc Lightning Network** <br><br>
-[ ![Bitcoin Made Simple 038 Ben Arc Lightning Network](/2022/content/ben_pos.png)](https://www.youtube.com/watch?v=ZCctOYACCKA/)
+[ ![Bitcoin Made Simple 038 Ben Arc Lightning Network](/content/ben_pos.png)](https://www.youtube.com/watch?v=ZCctOYACCKA/)
 </div>
 
 </div>

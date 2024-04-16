@@ -19,19 +19,19 @@ Jon has been contributing to Bitcoin Core development since March 2019 with dece
 <div class="p-3 my-2">
 
 **Read - Jon Atack**  <br><br>
-[![Jon Atack](/2022/content/jonatackgithub.png)](https://jonatack.github.io/)
+[![Jon Atack](/content/jonatackgithub.png)](https://jonatack.github.io/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Bitcoin Core Contribution**  <br><br>
-[![Bitcoin Core Contribution](/2022/content/jonlivera.png)](https://stephanlivera.com/episode/124/)
+[![Bitcoin Core Contribution](/content/jonlivera.png)](https://stephanlivera.com/episode/124/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Want to learn about bitcoin? Try the bitcoin core PR review club**  <br><br>
-[![Want to learn about bitcoin? Try the bitcoin core PR review club](/2022/content/bitcoin21.png)](https://bitcoinmagazine.com/technical/op-ed-want-to-learn-about-bitcoin-try-the-bitcoin-core-pr-review-club/)
+[![Want to learn about bitcoin? Try the bitcoin core PR review club](/content/bitcoin21.png)](https://bitcoinmagazine.com/technical/op-ed-want-to-learn-about-bitcoin-try-the-bitcoin-core-pr-review-club/)
 </div>
 
 

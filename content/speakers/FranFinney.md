@@ -12,7 +12,7 @@ Fran Finney's husband Hal Finney was one of the first supporters of bitcoin when
 <br><br>
 <div class="p-3 my-2">
 
-[![Fran Finney for Running Bitcoin '23](/2022/content/finney3.png)](http://runningbitcoin.us/)
+[![Fran Finney for Running Bitcoin '23](/content/finney3.png)](http://runningbitcoin.us/)
 </div>
 
 <br><br>
@@ -23,7 +23,7 @@ Fran Finney's husband Hal Finney was one of the first supporters of bitcoin when
 <div class="p-3 my-2">
 
 **Read - Run to Defeat ALS**  <br><br>
-[![Run to Defeat ALS](/2022/content/finney2.png)](http://runningbitcoin.us/)
+[![Run to Defeat ALS](/content/finney2.png)](http://runningbitcoin.us/)
 </div>
 
 </div>

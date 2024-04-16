@@ -19,7 +19,7 @@ Carol is the founder of one of the biggest bitcoin educational platforms in Braz
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Adoption In Brazil**  <br><br>
-[![Bitcoin Adoption In Brazil](/2022/content/carol_anita.png)](https://www.youtube.com/watch?v=V-gD2OQ2wU0/)
+[![Bitcoin Adoption In Brazil](/content/carol_anita.png)](https://www.youtube.com/watch?v=V-gD2OQ2wU0/)
 </div>
 
 

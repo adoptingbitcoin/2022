@@ -19,7 +19,7 @@ Paolo Ardoino serves as the Chief Technology Officer of Bitfinex. Paolo seemed d
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Lightning, Tether & Keet**  <br><br>
-[![Bitcoin Lightning, Tether & Keet](/2022/content/paolo2.png)](https://www.youtube.com/watch?v=HounumAd4Y8/)
+[![Bitcoin Lightning, Tether & Keet](/content/paolo2.png)](https://www.youtube.com/watch?v=HounumAd4Y8/)
 </div>
 
 </div>

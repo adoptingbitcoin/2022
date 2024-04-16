@@ -18,7 +18,7 @@ Paco is travelling 40 countries using bitcoin and vlogging the journey of adopti
 <div class="p-3 my-2">
 
 **Watch - Travel 40 Countries in 400 days with Bitcoin Only**  <br><br>
-[![Travel 40 Countries in 400 days with Bitcoin Only](/2022/content/paco1.png)](https://www.youtube.com/watch?v=SYnUDuQAeb8/)
+[![Travel 40 Countries in 400 days with Bitcoin Only](/content/paco1.png)](https://www.youtube.com/watch?v=SYnUDuQAeb8/)
 </div>
 
 </div>

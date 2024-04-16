@@ -18,7 +18,7 @@ Mathias is a theoretical physicist, STEM enthusiast and developer.
 <div class="p-3 my-2">
 
 **Play - Lightning Jukebox**  <br><br>
-[![Lightning Jukebox](/2022/content/mathias1.png)](https://jb.btc-ln.net/)
+[![Lightning Jukebox](/content/mathias1.png)](https://jb.btc-ln.net/)
 </div>
 
 </div>

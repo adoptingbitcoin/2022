@@ -19,13 +19,13 @@ Marco co-founded  Vulpem Ventures in 2017, working on Bitcoin custody solutions 
 <div class="p-3 my-2">
 
 **Watch - Building on Liquid with Nigiri + Marina with Tiero**  <br><br>
-[![Building on Liquid with Nigiri + Marina with Tiero](/2022/content/tiero1.png)](https://youtu.be/Dh3OgyQC7M0/)
+[![Building on Liquid with Nigiri + Marina with Tiero](/content/tiero1.png)](https://youtu.be/Dh3OgyQC7M0/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Smart Contracts on Liquid: From Zero to Hero**  <br><br>
-[![Smart Contracts on Liquid: From Zero to Hero](/2022/content/tiero2.png)](https://youtu.be/ODSC-BGc8wo/)
+[![Smart Contracts on Liquid: From Zero to Hero](/content/tiero2.png)](https://youtu.be/ODSC-BGc8wo/)
 </div>
 
 

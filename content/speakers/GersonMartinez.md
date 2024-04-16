@@ -19,19 +19,19 @@ Gerson is the founder and president of New Equity Group LLC, a bitcoin mining an
 <div class="p-3 my-2">
 
 **Watch - Bitcoin is hope!** <br><br>
-[ ![Bitcoin is hope!](/2022/content/hope.png)](https://youtu.be/zypluv8u228/)
+[ ![Bitcoin is hope!](/content/hope.png)](https://youtu.be/zypluv8u228/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bootstrapping Bitcoin Adoption** <br><br>
-[ ![Bootstrapping Bitcoin Adoption](/2022/content/mike_ab21.png)](https://youtu.be/_GnR7uF7IL0/)
+[ ![Bootstrapping Bitcoin Adoption](/content/mike_ab21.png)](https://youtu.be/_GnR7uF7IL0/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - The Extraordinary Ramifications of Bitcoin as Legal Tender in El Salvador** <br><br>
-[ ![The Extraordinary Ramifications of Bitcoin as Legal Tender in El Salvador](/2022/content/gerson_legal.png)](https://www.youtube.com/watch?v=wduCTLGrcVo/)
+[ ![The Extraordinary Ramifications of Bitcoin as Legal Tender in El Salvador](/content/gerson_legal.png)](https://www.youtube.com/watch?v=wduCTLGrcVo/)
 </div>
 
 </div>

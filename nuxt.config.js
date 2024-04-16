@@ -76,7 +76,7 @@ export default {
     ]
   },
   router: {
-    base: '/2022/',
+    base: '/',
     scrollBehavior: async (to, from, savedPosition) => {
       if (savedPosition) {
         return savedPosition
@@ -107,7 +107,7 @@ export default {
 
   i18n: {
     lazy: false,
-    baseUrl: 'https://adoptingbitcoin.github.io/2022',
+    baseUrl: 'https://2022.adoptingbitcoin.org',
     seo: true,
     locales: [
       { code: 'en', file: 'en.json', iso: 'en-US' }
@@ -120,12 +120,12 @@ export default {
     }
   },
   sitemap: {
-    hostname: 'https://adoptingbitcoin.github.io',
+    hostname: 'https://2022.adoptingbitcoin.org',
     gzip: true,
     i18n: true
   },
   env: {
     production: (process.env.CI_PROJECT_NAME === 'adopting-bitcoin-live') || false,
-    domain: process.env.PAGE_DOMAIN ?? 'adoptingbitcoin.github.io'
+    domain: process.env.PAGE_DOMAIN ?? '2022.adoptingbitcoin.org'
   }
 }

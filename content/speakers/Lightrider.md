@@ -18,7 +18,7 @@ Lightrider is a Web Developer who is in love with the Lightning network. He is a
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Nodes & Lightning**  <br><br>
-[![Bitcoin Nodes & Lightning](/2022/content/lightrider2.png)](https://www.youtube.com/watch?v=nmZoomvktus/)
+[![Bitcoin Nodes & Lightning](/content/lightrider2.png)](https://www.youtube.com/watch?v=nmZoomvktus/)
 </div>
 
 </div>

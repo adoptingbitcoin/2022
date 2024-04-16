@@ -18,7 +18,7 @@ Ken Kruger is the founder and CEO of Moon (paywithmoon.com), the most private wa
 <div class="p-3 my-2">
 
 **Watch - The Bitcoin Payment Revolution**  <br><br>
-[![The Bitcoin Payment Revolution - Bitcoin 2022 Conference](/2022/content/ken1.png)](https://www.youtube.com/watch?v=NpuPm1FsUQk/)
+[![The Bitcoin Payment Revolution - Bitcoin 2022 Conference](/content/ken1.png)](https://www.youtube.com/watch?v=NpuPm1FsUQk/)
 </div>
 
 </div>

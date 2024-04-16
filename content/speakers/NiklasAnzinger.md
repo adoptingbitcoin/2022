@@ -18,7 +18,7 @@ Niklas is the founder and GP of Infinita, the first Prospera-based VC fund. Befo
 <div class="p-3 my-2">
 
 **Listen - Stranded technologies podcast**  <br><br>
-[![Stranded technologies podcast](/2022/content/niklas1.png)](https://rss.com/podcasts/stranded-technologies-podcast//)
+[![Stranded technologies podcast](/content/niklas1.png)](https://rss.com/podcasts/stranded-technologies-podcast//)
 </div>
 
 </div>

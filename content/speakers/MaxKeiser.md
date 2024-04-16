@@ -18,25 +18,25 @@ Max Keiser is one of the earliest Bitcoin advocates. He has been preaching about
 <div class="p-3 my-2">
 
 **Watch - Comeback Country | The Story of El Salvador** <br><br>
-[ ![Comeback Country | The Story of El Salvador](/2022/content/comeback.png)](https://www.youtube.com/watch?v=KwC2KwDmpXQ/)
+[ ![Comeback Country | The Story of El Salvador](/content/comeback.png)](https://www.youtube.com/watch?v=KwC2KwDmpXQ/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - El Salvador: The Greatest Rebrand in History** <br><br>
-[ ![El Salvador: The Greatest Rebrand in History](/2022/content/max_rebrand.png)](https://www.youtube.com/watch?v=KZqP90Eb6tE/)
+[ ![El Salvador: The Greatest Rebrand in History](/content/max_rebrand.png)](https://www.youtube.com/watch?v=KZqP90Eb6tE/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - The Bitcoin Lifestyle of Max Keiser and Stacy Herbert** <br><br>
-[ ![The Bitcoin Lifestyle of Max Keiser and Stacy Herbert](/2022/content/stacy_bm.png)](https://bitcoinmagazine.com/culture/max-keiser-stacy-herbert-bitcoin-lifestyle/)
+[ ![The Bitcoin Lifestyle of Max Keiser and Stacy Herbert](/content/stacy_bm.png)](https://bitcoinmagazine.com/culture/max-keiser-stacy-herbert-bitcoin-lifestyle/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Microdosing Bitcoin as Legal Tender** <br><br>
-[ ![Microdosing Bitcoin as Legal Tender](/2022/content/orangepill.png)](https://www.youtube.com/watch?v=JV3M-2pkYBw/)
+[ ![Microdosing Bitcoin as Legal Tender](/content/orangepill.png)](https://www.youtube.com/watch?v=JV3M-2pkYBw/)
 </div>
 
 </div>

@@ -20,13 +20,13 @@ Alexandra founded Advance Tech Media home of the Advance Tech Podcast where she 
 <div class="p-3 my-2">
 
 **Listen - Alexandra Moxin: Bitcoin Changes the Power Dynamic – Back to the Individual** <br><br>
-[ ![Alexandra Moxin: Bitcoin Changes the Power Dynamic – Back to the Individual](/2022/content/alex_anita.png)](https://bitcoinundco.com/en/alexandra-moxin/)
+[ ![Alexandra Moxin: Bitcoin Changes the Power Dynamic – Back to the Individual](/content/alex_anita.png)](https://bitcoinundco.com/en/alexandra-moxin/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Advance Tech Podcast 58: A Conversation with Vijay Boyapati, Author of The Bullish Case for Bitcoin** <br><br>
-[ ![Advance Tech Podcast 58: A Conversation with Vijay Boyapati, Author of The Bullish Case for Bitcoin](/2022/content/alex_vijay.png)](https://www.youtube.com/watch?v=6Gq6Y4NN3LU/)
+[ ![Advance Tech Podcast 58: A Conversation with Vijay Boyapati, Author of The Bullish Case for Bitcoin](/content/alex_vijay.png)](https://www.youtube.com/watch?v=6Gq6Y4NN3LU/)
 </div>
 
 </div>

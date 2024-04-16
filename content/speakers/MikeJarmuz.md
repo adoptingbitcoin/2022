@@ -18,13 +18,13 @@ Mike is a lifelong entrepreneur and a solo angel investor who recently started b
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Boomer Show with Mike Jarmuz**  <br><br>
-[![Bitcoin Boomer Show with Mike Jarmuz](/2022/content/jarmuz1.png)](https://www.youtube.com/watch?v=ad8yUm-GsY4/)
+[![Bitcoin Boomer Show with Mike Jarmuz](/content/jarmuz1.png)](https://www.youtube.com/watch?v=ad8yUm-GsY4/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Consumer Bitcoin!**  <br><br>
-[![Consumer Bitcoin!](/2022/content/jarmuz2.png)](https://www.youtube.com/watch?v=tHxqroXSMqg/)
+[![Consumer Bitcoin!](/content/jarmuz2.png)](https://www.youtube.com/watch?v=tHxqroXSMqg/)
 </div>
 
 </div>

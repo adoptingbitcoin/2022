@@ -19,19 +19,19 @@ Eric Yakes graduated with a double major in finance & economics from Creighton U
 <div class="p-3 my-2">
 
 **Watch - Bitcoin Banking in 2050**  <br><br>
-[![Bitcoin Banking in 2050](/2022/content/yakes1.png)](https://www.youtube.com/watch?v=s6UYT6rcYnE/)
+[![Bitcoin Banking in 2050](/content/yakes1.png)](https://www.youtube.com/watch?v=s6UYT6rcYnE/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Will Bitcoin End Central Banking**  <br><br>
-[![Will Bitcoin End Central Banking](/2022/content/yakes2.png)](https://www.youtube.com/watch?v=jnj1HMGmcIk/)
+[![Will Bitcoin End Central Banking](/content/yakes2.png)](https://www.youtube.com/watch?v=jnj1HMGmcIk/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Bitcoin Banking Systems: Full Reserve vs Free Banking**  <br><br>
-[![Bitcoin Banking Systems: Full Reserve vs Free Banking](/2022/content/yakes3.png)](https://yakes.io/bitcoin-banking-systems-full-reserve-vs-free-banking/)
+[![Bitcoin Banking Systems: Full Reserve vs Free Banking](/content/yakes3.png)](https://yakes.io/bitcoin-banking-systems-full-reserve-vs-free-banking/)
 </div>
 
 </div>

@@ -18,7 +18,7 @@ DJ Valerie B Love - The Vibe Goddess is on a mission to multiply peace, love and
 <div class="p-3 my-2">
 
 **Listen - Bitcoin and Value for Value for Meditation Education**  <br><br>
-[![Bitcoin and Value for Value for Meditation Education](/2022/content/valerie1.png)](https://www.djvalerieblove.com/podcast/episode/2cf47ef4/bitcoin-and-value-for-value-for-meditation-education/)
+[![Bitcoin and Value for Value for Meditation Education](/content/valerie1.png)](https://www.djvalerieblove.com/podcast/episode/2cf47ef4/bitcoin-and-value-for-value-for-meditation-education/)
 </div>
 
 

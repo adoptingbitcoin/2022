@@ -22,13 +22,13 @@ Bob es un ingeniero de backend en Voltage, una empresa que ofrece servicios de i
 <div class="p-3 my-2">
 
 **Watch - Lightning Node Observability ** <br><br>
-[ ![Lightning Node Observability ](/2022/content/bob_ab21.png)](hhttps://youtu.be/ei9SpOpAeXg/)
+[ ![Lightning Node Observability ](/content/bob_ab21.png)](hhttps://youtu.be/ei9SpOpAeXg/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Building a Lightning Network Node for Routing - Part 1** <br><br>
-[ ![Building a Lightning Network Node for Routing - Part 1](/2022/content/bob_voltage.png)](https://blog.voltage.cloud/building-a-lightning-network-node-for-routing-part-1/)
+[ ![Building a Lightning Network Node for Routing - Part 1](/content/bob_voltage.png)](https://blog.voltage.cloud/building-a-lightning-network-node-for-routing-part-1/)
 </div>
 
 

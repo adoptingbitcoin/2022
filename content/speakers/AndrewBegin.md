@@ -18,13 +18,13 @@ Andrew is a marketer, educator and UX strategist focused on organizational bitco
 <div class="p-3 my-2">
 
 **Watch - Community Banking on Bitcoin w/ Pete Winn**  <br><br>
-[![Community Banking on Bitcoin w/ Pete Winn](/2022/content/andrew1.png)](https://www.youtube.com/watch?v=I6p8w1p8mFM/)
+[![Community Banking on Bitcoin w/ Pete Winn](/content/andrew1.png)](https://www.youtube.com/watch?v=I6p8w1p8mFM/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - Bitcoin in Panama**  <br><br>
-[![Bitcoin in Panama](/2022/content/andrew2.png)](https://www.youtube.com/watch?v=ChWK-Zsu0Zk/)
+[![Bitcoin in Panama](/content/andrew2.png)](https://www.youtube.com/watch?v=ChWK-Zsu0Zk/)
 </div>
 
 </div>

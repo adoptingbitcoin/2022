@@ -18,7 +18,7 @@ Leo is a co-founder of the Bitcoin Association of Hong Kong, where he has been o
 <div class="p-3 my-2">
 
 **Read - Next step to widespread bitcoin adoption: community banks**  <br><br>
-[![Next step to widespread bitcoin adoption: community banks](/2022/content/leo1.png)](https://bitcoinmagazine.com/technical/community-banks-improve-bitcoin-adoption/)
+[![Next step to widespread bitcoin adoption: community banks](/content/leo1.png)](https://bitcoinmagazine.com/technical/community-banks-improve-bitcoin-adoption/)
 </div>
 
 </div>

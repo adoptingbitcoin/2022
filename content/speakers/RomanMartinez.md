@@ -18,13 +18,13 @@ Chimbera is a native of El Zonte and is one of the community leaders of Bitcoin 
 <div class="p-3 my-2">
 
 **Watch - Bootstrapping Bitcoin Adoption**  <br><br>
-[![Bootstrapping Bitcoin Adoption](/2022/content/mike_ab21.png)](https://youtu.be/_GnR7uF7IL0/)
+[![Bootstrapping Bitcoin Adoption](/content/mike_ab21.png)](https://youtu.be/_GnR7uF7IL0/)
 </div>
 
 <div class="p-3 my-2">
 
 **Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
-[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/2022/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
 </div>
 
 </div>

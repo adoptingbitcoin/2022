@@ -20,7 +20,7 @@ A former Data Scientist / Data Engineer, Josie originally found Bitcoin through 
 <div class="p-3 my-2">
 
 **Watch - Introduction to Chaincode's Lightning Protocol Development** <br><br>
-[ ![Introduction to Chaincode's Lightning Protocol Development](/2022/content/josie_ab21.png)](https://youtu.be/CSZHQEYW-_g/)
+[ ![Introduction to Chaincode's Lightning Protocol Development](/content/josie_ab21.png)](https://youtu.be/CSZHQEYW-_g/)
 </div>
 
 </div>

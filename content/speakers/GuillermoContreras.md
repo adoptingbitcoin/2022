@@ -18,13 +18,13 @@ Mimo is a Software architect and entrepreneur and the CEO of DitoBanx - a bitcoi
 <div class="p-3 my-2">
 
 **Read - Las empresas bitcoin generamos más de 250 empleos**  <br><br>
-[![Las empresas bitcoin generamos más de 250 empleos](/2022/content/g1.png)](https://diarioelsalvador.com/las-empresas-bitcoin-generamos-mas-de-250-empleos-guillermo-contreras-criptoempresario-salvadoreno/269987/)
+[![Las empresas bitcoin generamos más de 250 empleos](/content/g1.png)](https://diarioelsalvador.com/las-empresas-bitcoin-generamos-mas-de-250-empleos-guillermo-contreras-criptoempresario-salvadoreno/269987/)
 </div>
 
 <div class="p-3 my-2">
 
 **Read - Compañía salvadoreña lanza una gift card de bitcoin*  <br><br>
-[![Compañía salvadoreña lanza una gift card de bitcoin](/2022/content/g2.png)](https://diarioelsalvador.com/compania-salvadorena-lanza-una-gift-card-de-bitcoin/265790/)
+[![Compañía salvadoreña lanza una gift card de bitcoin](/content/g2.png)](https://diarioelsalvador.com/compania-salvadorena-lanza-una-gift-card-de-bitcoin/265790/)
 </div>
 
 </div>
