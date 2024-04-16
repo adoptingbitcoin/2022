@@ -15,7 +15,7 @@
             :key="i"
             :index="i"
             :speaker="speaker"
-            url-override="https://adoptingbitcoin.org/2021/#speakers"/>
+            url-override="https://2021.adoptingbitcoin.org/#speakers"/>
         </div>
 
       </div>
